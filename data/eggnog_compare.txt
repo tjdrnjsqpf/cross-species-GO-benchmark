@@ -1,0 +1,21 @@
+=== eggNOG vs besthit vs rbh — mean over eval subset (synthetic, all-evidence) ===
+          wang  recall  precision
+method                           
+besthit  0.698   0.467      0.490
+eggnog   0.696   0.462      0.494
+rbh      0.676   0.415      0.537
+
+=== paired means (method - besthit) at matched ref ===
+  wang: rbh-besthit=-0.022   eggnog-besthit=-0.002   eggnog-rbh=+0.020
+  recall: rbh-besthit=-0.052   eggnog-besthit=-0.005   eggnog-rbh=+0.047
+  precision: rbh-besthit=+0.048   eggnog-besthit=+0.004   eggnog-rbh=-0.043
+
+=== per-track Wang by method (BP+MF+CC pooled) ===
+method             besthit  eggnog    rbh
+track                                    
+fish                 0.577   0.577  0.576
+fungi                0.823   0.822  0.820
+insect               0.779   0.775  0.770
+mammal               0.794   0.789  0.787
+plant_arabidopsis    0.678   0.673  0.616
+plant_rice           0.536   0.543  0.487

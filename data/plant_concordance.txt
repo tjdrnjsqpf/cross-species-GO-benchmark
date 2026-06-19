@@ -1,0 +1,4 @@
+=== rice <-> arabidopsis concordance (independent plant focals, matched %identity) ===
+  MF: overlap 46-94%id  mean|dWang|=0.148  max|dWang|=0.208  Pearson r=0.935
+  BP: overlap 46-94%id  mean|dWang|=0.066  max|dWang|=0.184  Pearson r=0.946
+  CC: overlap 46-94%id  mean|dWang|=0.222  max|dWang|=0.400  Pearson r=0.092

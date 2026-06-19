@@ -1,0 +1,112 @@
+track	ref	clade	median_pident	My	ref_exp_richness	ref_allev_richness	n_orthologs_rbh	n_orthologs_besthit	equidistant_group	truth_cov
+fish	amphioxus	fish	50.6	650	2.333	4.459	7369	16469		0.138
+fish	astyanax	fish	76.5	150	2.0	5.926	17378	22661		0.138
+fish	carp	fish	87.5	50	1.889	6.707	19864	23310		0.138
+fish	celegans	fish	40.8	700	4.825	6.222	3937	10346		0.138
+fish	chicken	fish	64.4	435	3.799	10.015	11427	19505	fish_eqd	0.138
+fish	cod	fish	69.5	230	1.2	6.411	14256	21360		0.138
+fish	coelacanth	fish	64.4	430	4.0	5.337	12018	20343		0.138
+fish	elephantshark	fish	63.3	460	3.0	6.032	10764	19549		0.138
+fish	fruitfly	fish	45.1	700	6.444	8.279	4640	11252		0.138
+fish	fugu	fish	70.3	230	3.0	6.545	14186	21058		0.138
+fish	gar	fish	70.4	430	0.0	5.428	13901	21324		0.138
+fish	goldfish	fish	87.2	50	2.0	6.181	20897	24279		0.138
+fish	grasscarp	fish	62.4	50	0.0	6.735	12242	20143		0.138
+fish	human	fish	63.1	435	9.085	14.578	12510	20345	fish_eqd	0.138
+fish	lamprey	fish	56.4	600	2.167	4.582	8351	17741		0.138
+fish	medaka	fish	70.4	230	2.13	5.52	14896	21610		0.138
+fish	mouse	fish	62.6	435	8.503	15.492	12458	20303	fish_eqd	0.138
+fish	salmon	fish	73.1	230	2.876	5.929	17184	22907		0.138
+fish	seaurchin	fish	48.1	700	2.636	4.499	6821	15077		0.138
+fish	sinocyclocheilus	fish	86.7	40	0.0	6.442	18795	22823		0.138
+fish	tilapia	fish	71.5	230	1.0	6.378	15507	22069		0.138
+fish	yeast	fish	38.2	1500	6.943	10.104	1723	4383		0.138
+mammal	amphioxus	mammal	50.5	650	2.333	4.459	7250	13699		0.587
+mammal	anole	mammal	70.5	320	1.0	7.321	12133	17474		0.587
+mammal	celegans	mammal	40.9	700	4.825	6.222	3863	8307		0.587
+mammal	chicken	mammal	72.8	320	3.799	10.015	12601	17554		0.587
+mammal	cow	mammal	85.0	95	2.829	9.224	16626	20018	mammal_eqd	0.587
+mammal	dog	mammal	85.6	95	2.857	9.682	16046	19771	mammal_eqd	0.587
+mammal	fruitfly	mammal	45.0	700	6.444	8.279	4580	9218		0.587
+mammal	gar	mammal	65.0	435	0.0	5.428	12209	17720		0.587
+mammal	horse	mammal	85.5	95	2.0	6.05	15664	19540		0.587
+mammal	human	mammal	86.5	90	9.085	14.578	17092	20344	mammal_eqd	0.587
+mammal	lamprey	mammal	56.0	600	2.167	4.582	8227	14994		0.587
+mammal	opossum	mammal	77.5	160	2.0	7.219	14273	18818		0.587
+mammal	pig	mammal	85.2	95	2.769	9.804	16487	19930	mammal_eqd	0.587
+mammal	platypus	mammal	75.6	180	2.2	6.557	13500	18121		0.587
+mammal	rabbit	mammal	85.2	90	2.617	7.771	14502	19059		0.587
+mammal	rat	mammal	94.5	20	7.968	15.005	18225	20808		0.587
+mammal	seaurchin	mammal	48.0	700	2.636	4.499	6620	12233		0.587
+mammal	xenopus	mammal	67.4	350	1.777	4.979	13270	17801		0.587
+mammal	yeast	mammal	37.7	1500	6.943	10.104	1700	3561		0.587
+mammal	zebrafish	mammal	62.6	435	3.628	6.623	12458	17558		0.587
+plant_rice	amborella	plant	61.8	200	0.0	3.951	8923	19197		0.024
+plant_rice	arabidopsis	plant	60.6	160	4.448	6.21	9405	19313	plant_rice_eqd	0.024
+plant_rice	brachypodium	plant	77.6	50	1.684	3.984	16608	23784		0.024
+plant_rice	chlamydomonas	plant	46.3	1000	2.966	4.025	3112	7852		0.024
+plant_rice	grape	plant	62.8	160	3.231	3.821	9927	20217		0.024
+plant_rice	leersia	plant	84.5	20	0.0	4.389	17747	23963		0.024
+plant_rice	maize	plant	76.8	50	3.468	3.578	15908	23473		0.024
+plant_rice	marchantia	plant	55.3	480	3.6	4.135	5845	14922		0.024
+plant_rice	moss	plant	54.8	480	2.053	3.903	6096	15313		0.024
+plant_rice	o_barthii	plant	98.1	3	0.0	4.342	20693	26270		0.024
+plant_rice	o_brachyantha	plant	88.0	15	0.0	4.364	17317	24298		0.024
+plant_rice	o_glaberrima	plant	99.1	3	2.0	4.303	21678	27137		0.024
+plant_rice	o_nivara	plant	99.0	2	1.0	4.429	22124	26892		0.024
+plant_rice	o_punctata	plant	91.9	8	0.0	4.391	19219	24910		0.024
+plant_rice	o_rufipogon	plant	99.6	1	0.0	4.377	22612	27279		0.024
+plant_rice	poplar	plant	61.8	160	2.417	3.857	10358	20691	plant_rice_eqd	0.024
+plant_rice	potato	plant	60.9	160	1.887	3.657	8986	19554		0.024
+plant_rice	selaginella	plant	55.9	420	2.6	3.883	6090	15746		0.024
+plant_rice	sorghum	plant	77.6	50	3.1	3.975	16894	23696		0.024
+plant_rice	soybean	plant	61.3	160	2.613	3.825	10357	20687	plant_rice_eqd	0.024
+plant_rice	tomato	plant	60.5	160	3.052	4.018	9447	19806	plant_rice_eqd	0.024
+plant_arabidopsis	a_halleri	plant	93.8	8	0.0	2.716	22089	24959		0.495
+plant_arabidopsis	amborella	plant	61.8	200	0.0	3.951	9590	19543		0.495
+plant_arabidopsis	brassica_oleracea	plant	83.2	25	0.0	4.287	18784	24121		0.495
+plant_arabidopsis	brassica_rapa	plant	83.4	25	1.0	3.858	18648	23793		0.495
+plant_arabidopsis	camelina	plant	89.5	20	0.0	4.628	21981	24917		0.495
+plant_arabidopsis	capsella	plant	89.3	15	0.0	4.348	20586	24319		0.495
+plant_arabidopsis	chlamydomonas	plant	45.5	1000	2.966	4.025	3257	8173		0.495
+plant_arabidopsis	grape	plant	66.1	110	3.231	3.821	11709	21199		0.495
+plant_arabidopsis	maize	plant	59.5	160	3.468	3.578	9938	19439	plant_arabidopsis_eqd	0.495
+plant_arabidopsis	marchantia	plant	54.7	480	3.6	4.135	6263	15481		0.495
+plant_arabidopsis	moss	plant	54.3	480	2.053	3.903	6528	16122		0.495
+plant_arabidopsis	poplar	plant	65.9	110	2.417	3.857	12813	22094		0.495
+plant_arabidopsis	potato	plant	63.9	110	1.887	3.657	10448	20459		0.495
+plant_arabidopsis	rice	plant	60.4	160	2.742	3.684	9405	19199	plant_arabidopsis_eqd	0.495
+plant_arabidopsis	selaginella	plant	55.4	420	2.6	3.883	6347	15947		0.495
+plant_arabidopsis	soybean	plant	64.6	110	2.613	3.825	12555	21939		0.495
+plant_arabidopsis	tomato	plant	63.4	110	3.052	4.018	11240	21081		0.495
+fungi	aspergillus	fungi	41.4	450	2.434	5.193	2495	3219	fungi_eqd	0.908
+fungi	c_albicans	fungi	45.2	200	3.949	7.744	3249	3911		0.908
+fungi	c_glabrata	fungi	58.1	80	1.942	9.29	4295	4848		0.908
+fungi	cryptococcus	fungi	39.9	800	2.385	4.847	2124	2820		0.908
+fungi	e_gossypii	fungi	53.4	120	1.25	5.383	3962	4582		0.908
+fungi	human	fungi	37.8	1500	9.085	14.578	1708	2310		0.908
+fungi	k_lactis	fungi	54.3	110	1.583	5.473	4101	4712		0.908
+fungi	k_marxianus	fungi	54.0	110	2.0	5.189	3927	4567		0.908
+fungi	magnaporthe	fungi	41.1	450	1.908	4.548	2500	3197		0.908
+fungi	neurospora	fungi	41.3	450	1.366	5.075	2466	3154	fungi_eqd	0.908
+fungi	pombe	fungi	41.2	550	4.375	8.633	2433	3167	fungi_eqd	0.908
+fungi	s_uvarum	fungi	84.3	20	0.0	5.508	5268	5501		0.908
+fungi	torulaspora	fungi	59.9	110	0.0	8.334	4414	5121		0.908
+fungi	yarrowia	fungi	43.9	300	2.273	5.985	2898	3596		0.908
+fungi	z_rouxii	fungi	58.5	100	2.0	5.501	4293	4915		0.908
+insect	aedes	insect	55.5	250	2.294	5.328	7027	9244		0.456
+insect	anopheles	insect	55.2	250	3.089	4.882	6752	8958	insect_eqd	0.456
+insect	aphid	insect	48.3	400	0.0	4.907	5145	7491		0.456
+insect	apis	insect	50.4	330	2.658	5.875	5681	7971	insect_eqd	0.456
+insect	bombyx	insect	49.8	350	2.738	5.289	6016	8302		0.456
+insect	celegans	insect	40.6	700	4.825	6.222	3444	5563		0.456
+insect	d_ananassae	insect	81.0	25	1.0	6.678	11969	12689		0.456
+insect	d_grimshawi	insect	73.3	50	1.0	6.428	10470	11737		0.456
+insect	d_simulans	insect	96.3	5	3.25	6.785	10995	11784		0.456
+insect	d_virilis	insect	73.8	40	1.273	6.591	10988	12163		0.456
+insect	d_yakuba	insect	93.1	10	1.0	6.836	12833	13166		0.456
+insect	daphnia	insect	49.1	500	2.0	4.435	4734	7115		0.456
+insect	mouse	insect	44.9	700	8.503	15.492	4580	6863		0.456
+insect	nasonia	insect	50.8	330	1.0	5.685	5599	7913		0.456
+insect	tribolium	insect	51.3	350	1.153	5.166	6073	8392	insect_eqd	0.456
+insect	yeast	insect	37.9	1500	6.943	10.104	1535	2662		0.456

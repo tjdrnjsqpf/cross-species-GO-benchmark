@@ -1,0 +1,7 @@
+clade	focal	n_ref	pid_min	pid_max	truth_cov	n_truth	wang_near	wang_mean	ID50_BP	ID50_method	ID50_CI	floor	plateau	cons_BP	spec_BP	cons_minus_spec	frac_nonrecip	realDEG_wang	syn_wang	real_syn_gap	note
+insect	fruitfly	16	37.9	96.3	0.456	6258	0.768	0.778	40.1	interp	38-50	0.63	0.82	0.87	0.69	0.17	0.23	0.36	0.75	0.39	
+fungi	yeast	15	37.8	84.3	0.908	5506	0.873	0.801	40.5	logistic	38-47	0.71	0.87	0.89	0.7	0.19	0.17	0.35	0.77	0.42	
+fish	zebrafish	22	38.2	87.5	0.138	3666	0.754	0.715	42.6	interp	38-61	0.36	0.77	0.83	0.52	0.3	0.38	0.14	0.58	0.44	
+plant_arabidopsis	arabidopsis	17	45.5	93.8	0.495	13458	0.729	0.674	54.6	logistic	49-60	0.48	0.76	0.8	0.51	0.29	0.41	0.37	0.63	0.27	
+plant_rice	rice	21	46.3	99.6	0.024	1064	0.713	0.679	55.8	logistic	55-59	0.3	0.78	0.77	0.58	0.19	0.4	0.11	0.54	0.42	THIN TRUTH (cov 0.024); wide CI; cross-validated by arabidopsis (BP r=0.95, mean dWang=0.07)
+mammal	mouse	20	37.7	94.5	0.587	12829	0.91	0.772	58.9	interp	38-61	0.58	0.87	0.86	0.6	0.27	0.31	0.58	0.74	0.16	

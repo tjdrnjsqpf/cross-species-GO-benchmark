@@ -1,0 +1,26 @@
+{
+  "title": "How far can you borrow? Divergence limits of cross-species Gene Ontology enrichment in non-model organisms — code and processed data",
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Lee, Sung-Gwon",
+      "affiliation": "Biomedical Research Institute, Chonnam National University Hospital, Gwangju, Republic of Korea"
+    },
+    {
+      "name": "Park, Chungoo",
+      "affiliation": "School of Biological Sciences and Technology, Chonnam National University, Gwangju, Republic of Korea"
+    }
+  ],
+  "keywords": [
+    "Gene Ontology",
+    "enrichment analysis",
+    "orthology",
+    "non-model organisms",
+    "functional annotation",
+    "cross-species annotation transfer",
+    "benchmark"
+  ],
+  "description": "Pipeline code and processed result tables for the cross-species GO-transfer divergence-tolerance benchmark across six focal species spanning three eukaryotic kingdoms. Raw inputs derive from public resources (UniProt, the GO Annotation database, Bgee, the EBI Expression Atlas, TimeTree); see DATA_SOURCES.md. Reproduce with the scripts in code/."
+}

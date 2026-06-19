@@ -1,0 +1,27 @@
+=== Orthogonal validation: GO-independent functional conservation vs GO-transfer Wang ===
+
+===== STRING edge-conservation rate (exp+coexp) =====
+  fish              : rho=-0.280 p=0.434 n=10
+  fungi             : rho=+1.000 p=0.000 n=5
+  insect            : rho=+0.117 p=0.765 n=9
+  mammal            : rho=+0.164 p=0.651 n=10
+  plant_arabidopsis : rho=+0.238 p=0.570 n=8
+  plant_rice        : rho=-0.467 p=0.174 n=10
+  POOLED            : rho=-0.121 p=3.93e-01 n=52
+  (sanity) edge_rate vs %identity: rho=+0.222 p=1.14e-01
+
+===== STRING neighbour Jaccard (exp+coexp) =====
+  fish              : rho=+0.286 p=0.493 n=8
+  fungi             : rho=+0.900 p=0.037 n=5
+  insect            : rho=+0.368 p=0.330 n=9
+  mammal            : rho=+0.188 p=0.603 n=10
+  plant_arabidopsis : rho=+0.262 p=0.531 n=8
+  plant_rice        : rho=-0.285 p=0.425 n=10
+  POOLED            : rho=-0.124 p=3.91e-01 n=50
+  (sanity) string_conservation vs %identity: rho=+0.505 p=1.81e-04
+
+===== Bgee expression conservation =====
+  fish              : rho=+0.771 p=0.072 n=6
+  mammal            : rho=+0.599 p=0.031 n=13
+  POOLED            : rho=+0.620 p=4.67e-03 n=19
+  (sanity) expr_conservation vs %identity: rho=+0.732 p=3.67e-04

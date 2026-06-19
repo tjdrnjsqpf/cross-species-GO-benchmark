@@ -1,0 +1,20 @@
+=== fungi-internal: post-WGD vs pre-WGD reference species (focal S.cerevisiae) ===
+      median_pident  frac_nonrecip  many_to_one
+wgd                                            
+post          71.05          0.078        0.071
+pre           55.45          0.134        0.127
+
+  per species:
+        ref  wgd  median_pident  frac_nonrecip  many_to_one
+   s_uvarum post          84.30          0.042        0.039
+ c_glabrata post          57.80          0.114        0.104
+   z_rouxii  pre          57.90          0.127        0.121
+   k_lactis  pre          54.20          0.130        0.122
+torulaspora  pre          59.10          0.138        0.133
+ e_gossypii  pre          52.95          0.135        0.129
+k_marxianus  pre          53.10          0.140        0.132
+
+=== Wang RBH-besthit penalty by WGD group (post should be >= pre) ===
+wgd
+post   -0.005
+pre    -0.014

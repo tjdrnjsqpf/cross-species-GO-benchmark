@@ -1,0 +1,13 @@
+=== Wang (BP, RBH, all-evidence) by category, distance-matched 30-68% id ===
+category  conserved  specific  conserved_minus_specific
+clade                                                  
+fish          0.827     0.524                     0.303
+fungi         0.892     0.699                     0.192
+insect        0.867     0.692                     0.175
+mammal        0.864     0.598                     0.266
+plant         0.793     0.534                     0.258
+
+=== regression: wang ~ pid_z * category(ref=specific) + clade ===
+  conserved main effect = +0.191 (p=8.42e-283)  [>0 => conserved higher overall]
+  interaction pid_z:C(category, Treatment('specific'))[T.conserved] = -0.079 (p=6.05e-56)  [>0 => conserved decays slower]
+  R2=0.371, n=4606

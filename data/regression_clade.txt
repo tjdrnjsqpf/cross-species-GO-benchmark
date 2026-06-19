@@ -1,0 +1,76 @@
+
+===== wang_bma ~ pid_z * clade + aspect  (n=33721, R2=0.129) =====
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               wang_bma   R-squared:                       0.129
+Model:                            OLS   Adj. R-squared:                  0.129
+Method:                 Least Squares   F-statistic:                     454.9
+Date:                Tue, 16 Jun 2026   Prob (F-statistic):               0.00
+Time:                        20:47:27   Log-Likelihood:                -2822.1
+No. Observations:               33721   AIC:                             5668.
+Df Residuals:                   33709   BIC:                             5769.
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+Intercept                                       0.6416      0.004    167.078      0.000       0.634       0.649
+C(clade, Treatment('fish'))[T.fungi]            0.2294      0.007     35.181      0.000       0.217       0.242
+C(clade, Treatment('fish'))[T.insect]           0.1740      0.005     35.495      0.000       0.164       0.184
+C(clade, Treatment('fish'))[T.mammal]           0.1406      0.005     30.060      0.000       0.131       0.150
+C(clade, Treatment('fish'))[T.plant]            0.0065      0.004      1.477      0.140      -0.002       0.015
+C(aspect)[T.CC]                                -0.0982      0.004    -27.911      0.000      -0.105      -0.091
+C(aspect)[T.MF]                                -0.0941      0.003    -27.048      0.000      -0.101      -0.087
+pid_z                                           0.0359      0.004      8.582      0.000       0.028       0.044
+pid_z:C(clade, Treatment('fish'))[T.fungi]      0.0046      0.007      0.704      0.481      -0.008       0.018
+pid_z:C(clade, Treatment('fish'))[T.insect]    -0.0288      0.005     -5.393      0.000      -0.039      -0.018
+pid_z:C(clade, Treatment('fish'))[T.mammal]     0.0340      0.005      6.475      0.000       0.024       0.044
+pid_z:C(clade, Treatment('fish'))[T.plant]     -0.0007      0.005     -0.136      0.892      -0.011       0.009
+==============================================================================
+Omnibus:                     5559.764   Durbin-Watson:                   1.617
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8725.918
+Skew:                          -1.187   Prob(JB):                         0.00
+Kurtosis:                       3.758   Cond. No.                         8.48
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+# distance-slope interactions (vs fish baseline): fungi=+0.005, insect=-0.029, mammal=+0.034, plant=-0.001
+
+===== recall ~ pid_z * clade + aspect  (n=32252, R2=0.151) =====
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 recall   R-squared:                       0.151
+Model:                            OLS   Adj. R-squared:                  0.150
+Method:                 Least Squares   F-statistic:                     519.5
+Date:                Tue, 16 Jun 2026   Prob (F-statistic):               0.00
+Time:                        20:47:28   Log-Likelihood:                -608.93
+No. Observations:               32252   AIC:                             1242.
+Df Residuals:                   32240   BIC:                             1342.
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+Intercept                                       0.3026      0.004     81.303      0.000       0.295       0.310
+C(clade, Treatment('fish'))[T.fungi]            0.0868      0.006     13.880      0.000       0.075       0.099
+C(clade, Treatment('fish'))[T.insect]           0.0222      0.005      4.670      0.000       0.013       0.032
+C(clade, Treatment('fish'))[T.mammal]           0.0091      0.005      2.001      0.045       0.000       0.018
+C(clade, Treatment('fish'))[T.plant]           -0.0531      0.004    -12.272      0.000      -0.062      -0.045
+C(aspect)[T.CC]                                 0.0729      0.003     21.683      0.000       0.066       0.080
+C(aspect)[T.MF]                                 0.1528      0.003     46.011      0.000       0.146       0.159
+pid_z                                           0.0624      0.004     14.973      0.000       0.054       0.071
+pid_z:C(clade, Treatment('fish'))[T.fungi]     -0.0112      0.006     -1.751      0.080      -0.024       0.001
+pid_z:C(clade, Treatment('fish'))[T.insect]    -0.0674      0.005    -12.921      0.000      -0.078      -0.057
+pid_z:C(clade, Treatment('fish'))[T.mammal]     0.0759      0.005     14.797      0.000       0.066       0.086
+pid_z:C(clade, Treatment('fish'))[T.plant]      0.0052      0.005      1.033      0.302      -0.005       0.015
+==============================================================================
+Omnibus:                      294.057   Durbin-Watson:                   1.616
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              271.585
+Skew:                           0.187   Prob(JB):                     1.06e-59
+Kurtosis:                       2.751   Cond. No.                         8.72
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+# distance-slope interactions (vs fish baseline): fungi=-0.011, insect=-0.067, mammal=+0.076, plant=+0.005

@@ -1,0 +1,2171 @@
+track	ref	clade	method	evset	aspect	ic_bin	wang_bma	recall	f1	n_terms	median_pident
+fish	amphioxus	fish	besthit	all	BP	mid			0.0	0.0	50.6
+fish	amphioxus	fish	besthit	all	BP	shallow		0.2684328119256686	0.3237177967901904	125.15238095238095	50.6
+fish	amphioxus	fish	besthit	all	CC	mid			0.0	0.0	50.6
+fish	amphioxus	fish	besthit	all	CC	shallow		0.37717288717346936	0.31035270548528193	10.221052631578948	50.6
+fish	amphioxus	fish	besthit	all	MF	mid			0.0	0.0	50.6
+fish	amphioxus	fish	besthit	all	MF	shallow		0.5159364854580718	0.37354342805472096	14.252525252525253	50.6
+fish	amphioxus	fish	rbh	all	BP	mid			0.0	0.0	50.6
+fish	amphioxus	fish	rbh	all	BP	shallow		0.2345242091226805	0.30792768302038415	125.15238095238095	50.6
+fish	amphioxus	fish	rbh	all	CC	mid			0.0	0.0	50.6
+fish	amphioxus	fish	rbh	all	CC	shallow		0.39145756951220184	0.3260719110807794	10.329787234042554	50.6
+fish	amphioxus	fish	rbh	all	MF	mid			0.0	0.0	50.6
+fish	amphioxus	fish	rbh	all	MF	shallow		0.3488225420235382	0.3523182178044099	15.677777777777777	50.6
+fish	astyanax	fish	besthit	all	BP	mid			0.0	0.0	76.5
+fish	astyanax	fish	besthit	all	BP	shallow		0.3636102516145826	0.41327513556190576	125.15238095238095	76.5
+fish	astyanax	fish	besthit	all	CC	mid			0.0	0.0	76.5
+fish	astyanax	fish	besthit	all	CC	shallow		0.4074196135395045	0.32198868635428335	10.329787234042554	76.5
+fish	astyanax	fish	besthit	all	MF	mid			0.0	0.0	76.5
+fish	astyanax	fish	besthit	all	MF	shallow		0.5330784110228581	0.4007089465538291	13.970297029702971	76.5
+fish	astyanax	fish	rbh	all	BP	mid			0.0	0.0	76.5
+fish	astyanax	fish	rbh	all	BP	shallow		0.3303563231068681	0.3940383787890055	125.15238095238095	76.5
+fish	astyanax	fish	rbh	all	CC	mid			0.0	0.0	76.5
+fish	astyanax	fish	rbh	all	CC	shallow		0.3577385457168323	0.2979235678409861	10.440860215053764	76.5
+fish	astyanax	fish	rbh	all	MF	mid			0.0	0.0	76.5
+fish	astyanax	fish	rbh	all	MF	shallow		0.4655243390438759	0.3821763417158468	15.01063829787234	76.5
+fish	carp	fish	besthit	all	BP	mid			0.0	0.0	87.5
+fish	carp	fish	besthit	all	BP	shallow		0.35728954816662156	0.41263407496572985	125.15238095238095	87.5
+fish	carp	fish	besthit	all	CC	mid			0.0	0.0	87.5
+fish	carp	fish	besthit	all	CC	shallow		0.42415447899200365	0.32661851505094464	10.221052631578948	87.5
+fish	carp	fish	besthit	all	MF	mid			0.0	0.0	87.5
+fish	carp	fish	besthit	all	MF	shallow		0.5604065208722805	0.4126764652877317	14.11	87.5
+fish	carp	fish	rbh	all	BP	mid			0.0	0.0	87.5
+fish	carp	fish	rbh	all	BP	shallow		0.34296397190961436	0.40539993364311877	125.15238095238095	87.5
+fish	carp	fish	rbh	all	CC	mid			0.0	0.0	87.5
+fish	carp	fish	rbh	all	CC	shallow		0.3936691103764723	0.3167301135295059	10.329787234042554	87.5
+fish	carp	fish	rbh	all	MF	mid			0.0	0.0	87.5
+fish	carp	fish	rbh	all	MF	shallow		0.5410001533981867	0.4093029079304903	14.39795918367347	87.5
+fish	celegans	fish	besthit	all	BP	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	all	BP	shallow		0.21447470065459873	0.2699970897763457	125.15238095238095	40.8
+fish	celegans	fish	besthit	all	CC	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	all	CC	shallow		0.3972679720649044	0.33377472127004554	10.67032967032967	40.8
+fish	celegans	fish	besthit	all	MF	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	all	MF	shallow		0.4400310518733785	0.34354487033155523	15.33695652173913	40.8
+fish	celegans	fish	besthit	exp	BP	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	exp	BP	shallow		0.11827990619783126	0.16740145218371588	125.15238095238095	40.8
+fish	celegans	fish	besthit	exp	CC	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	exp	CC	shallow		0.26456355040468205	0.27224238747945184	11.423529411764706	40.8
+fish	celegans	fish	besthit	exp	MF	mid			0.0	0.0	40.8
+fish	celegans	fish	besthit	exp	MF	shallow		0.3198258546433764	0.339306313047473	16.13953488372093	40.8
+fish	celegans	fish	rbh	all	BP	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	all	BP	shallow		0.1525502031241161	0.22590734811573382	125.04081632653062	40.8
+fish	celegans	fish	rbh	all	CC	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	all	CC	shallow		0.35306894668929373	0.3347786809770673	11.592592592592593	40.8
+fish	celegans	fish	rbh	all	MF	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	all	MF	shallow		0.24359357390314218	0.2756678179285184	16.097560975609756	40.8
+fish	celegans	fish	rbh	exp	BP	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	exp	BP	shallow		0.05220181151101219	0.08303210988104019	143.93150684931507	40.8
+fish	celegans	fish	rbh	exp	CC	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	exp	CC	shallow		0.1296325849307798	0.13285401778930647	13.827586206896552	40.8
+fish	celegans	fish	rbh	exp	MF	mid			0.0	0.0	40.8
+fish	celegans	fish	rbh	exp	MF	shallow		0.11370319051770665	0.14536326831063673	12.7	40.8
+fish	chicken	fish	besthit	all	BP	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	all	BP	shallow		0.39445001941202507	0.40341492424621345	125.15238095238095	64.4
+fish	chicken	fish	besthit	all	CC	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	all	CC	shallow		0.40880144118346834	0.30323095179095955	10.114583333333334	64.4
+fish	chicken	fish	besthit	all	MF	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	all	MF	shallow		0.557432949958124	0.37357047601808546	13.970297029702971	64.4
+fish	chicken	fish	besthit	exp	BP	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	exp	BP	shallow		0.09109047201741133	0.10993437933359883	157.9795918367347	64.4
+fish	chicken	fish	besthit	exp	CC	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	exp	CC	shallow		0.10486881435313752	0.15747213910412483	15.758620689655173	64.4
+fish	chicken	fish	besthit	exp	MF	mid			0.0	0.0	64.4
+fish	chicken	fish	besthit	exp	MF	shallow		0.16000500203744253	0.23584557485019966	24.90625	64.4
+fish	chicken	fish	rbh	all	BP	mid			0.0	0.0	64.4
+fish	chicken	fish	rbh	all	BP	shallow		0.37673633062718126	0.40400567332789183	125.15238095238095	64.4
+fish	chicken	fish	rbh	all	CC	mid			0.0	0.0	64.4
+fish	chicken	fish	rbh	all	CC	shallow		0.38924077346115277	0.287603966033027	10.440860215053764	64.4
+fish	chicken	fish	rbh	all	MF	mid			0.0	0.0	64.4
+fish	chicken	fish	rbh	all	MF	shallow		0.5361476579818221	0.4101232945398766	14.54639175257732	64.4
+fish	chicken	fish	rbh	exp	BP	shallow		0.0032428028493782074	0.006276816054926319	218.30769230769232	64.4
+fish	chicken	fish	rbh	exp	CC	shallow		0.013450292397660806	0.02540485829959514	21.76923076923077	64.4
+fish	chicken	fish	rbh	exp	MF	shallow		0.0	0.0	16.333333333333332	64.4
+fish	cod	fish	besthit	all	BP	mid			0.0	0.0	69.5
+fish	cod	fish	besthit	all	BP	shallow		0.34830716226306146	0.39919439056042877	125.15238095238095	69.5
+fish	cod	fish	besthit	all	CC	mid			0.0	0.0	69.5
+fish	cod	fish	besthit	all	CC	shallow		0.4116953489620785	0.3347327591275284	10.554347826086957	69.5
+fish	cod	fish	besthit	all	MF	mid			0.0	0.0	69.5
+fish	cod	fish	besthit	all	MF	shallow		0.5342207482416185	0.39230849175692434	13.833333333333334	69.5
+fish	cod	fish	rbh	all	BP	mid			0.0	0.0	69.5
+fish	cod	fish	rbh	all	BP	shallow		0.32353803859391456	0.3930024912368143	125.15238095238095	69.5
+fish	cod	fish	rbh	all	CC	mid			0.0	0.0	69.5
+fish	cod	fish	rbh	all	CC	shallow		0.348363626725594	0.3004688223917317	10.67032967032967	69.5
+fish	cod	fish	rbh	all	MF	mid			0.0	0.0	69.5
+fish	cod	fish	rbh	all	MF	shallow		0.444083211299623	0.36028294007683814	14.39795918367347	69.5
+fish	coelacanth	fish	besthit	all	BP	mid			0.0	0.0	64.4
+fish	coelacanth	fish	besthit	all	BP	shallow		0.32018643932430557	0.3783689979399264	125.15238095238095	64.4
+fish	coelacanth	fish	besthit	all	CC	mid			0.0	0.0	64.4
+fish	coelacanth	fish	besthit	all	CC	shallow		0.3944318410078107	0.3208674124873047	10.554347826086957	64.4
+fish	coelacanth	fish	besthit	all	MF	mid			0.0	0.0	64.4
+fish	coelacanth	fish	besthit	all	MF	shallow		0.5365578660180783	0.4160546994561322	14.252525252525253	64.4
+fish	coelacanth	fish	rbh	all	BP	mid			0.0	0.0	64.4
+fish	coelacanth	fish	rbh	all	BP	shallow		0.30236948792560786	0.36262281883968456	125.15238095238095	64.4
+fish	coelacanth	fish	rbh	all	CC	mid			0.0	0.0	64.4
+fish	coelacanth	fish	rbh	all	CC	shallow		0.35095122213485347	0.320221361977141	11.290697674418604	64.4
+fish	coelacanth	fish	rbh	all	MF	mid			0.0	0.0	64.4
+fish	coelacanth	fish	rbh	all	MF	shallow		0.4848837340083711	0.40556868861823375	14.697916666666666	64.4
+fish	elephantshark	fish	besthit	all	BP	mid			0.0	0.0	63.3
+fish	elephantshark	fish	besthit	all	BP	shallow		0.3072929770378475	0.3636916724195077	125.15238095238095	63.3
+fish	elephantshark	fish	besthit	all	CC	mid			0.0	0.0	63.3
+fish	elephantshark	fish	besthit	all	CC	shallow		0.3383240287782789	0.28627174651728604	10.554347826086957	63.3
+fish	elephantshark	fish	besthit	all	MF	mid			0.0	0.0	63.3
+fish	elephantshark	fish	besthit	all	MF	shallow		0.5286315816994819	0.41213538518211884	14.11	63.3
+fish	elephantshark	fish	rbh	all	BP	mid			0.0	0.0	63.3
+fish	elephantshark	fish	rbh	all	BP	shallow		0.28365882981645224	0.35208488575756425	125.15238095238095	63.3
+fish	elephantshark	fish	rbh	all	CC	mid			0.0	0.0	63.3
+fish	elephantshark	fish	rbh	all	CC	shallow		0.39352961404385634	0.34580598680864133	11.160919540229886	63.3
+fish	elephantshark	fish	rbh	all	MF	mid			0.0	0.0	63.3
+fish	elephantshark	fish	rbh	all	MF	shallow		0.50534967213229	0.4221678882285555	15.01063829787234	63.3
+fish	fruitfly	fish	besthit	all	BP	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	all	BP	shallow		0.2696072847519241	0.30371008025627105	125.15238095238095	45.1
+fish	fruitfly	fish	besthit	all	CC	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	all	CC	shallow		0.3779067040620642	0.31910022859623677	10.554347826086957	45.1
+fish	fruitfly	fish	besthit	all	MF	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	all	MF	shallow		0.4715005612593106	0.3487561808837751	14.697916666666666	45.1
+fish	fruitfly	fish	besthit	exp	BP	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	exp	BP	shallow		0.22523010886100525	0.2682685634172948	125.15238095238095	45.1
+fish	fruitfly	fish	besthit	exp	CC	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	exp	CC	shallow		0.3302082208515304	0.32446573439328186	11.290697674418604	45.1
+fish	fruitfly	fish	besthit	exp	MF	mid			0.0	0.0	45.1
+fish	fruitfly	fish	besthit	exp	MF	shallow		0.4038158463700433	0.3300328677902515	15.01063829787234	45.1
+fish	fruitfly	fish	rbh	all	BP	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	all	BP	shallow		0.2086897820944068	0.26172980235167875	130.23469387755102	45.1
+fish	fruitfly	fish	rbh	all	CC	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	all	CC	shallow		0.4257171016604431	0.32041610354195843	10.686046511627907	45.1
+fish	fruitfly	fish	rbh	all	MF	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	all	MF	shallow		0.32366423989197957	0.2987469557615027	15.08235294117647	45.1
+fish	fruitfly	fish	rbh	exp	BP	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	exp	BP	shallow		0.13961445565951272	0.19432129872992981	129.15463917525773	45.1
+fish	fruitfly	fish	rbh	exp	CC	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	exp	CC	shallow		0.2764308440513787	0.28814438873698095	12.816901408450704	45.1
+fish	fruitfly	fish	rbh	exp	MF	mid			0.0	0.0	45.1
+fish	fruitfly	fish	rbh	exp	MF	shallow		0.2016670159939542	0.2353096770575931	15.802631578947368	45.1
+fish	fugu	fish	besthit	all	BP	mid			0.0	0.0	70.3
+fish	fugu	fish	besthit	all	BP	shallow		0.3480806430742764	0.40500998047095527	125.15238095238095	70.3
+fish	fugu	fish	besthit	all	CC	mid			0.0	0.0	70.3
+fish	fugu	fish	besthit	all	CC	shallow		0.3809102487899744	0.30745163190626157	10.440860215053764	70.3
+fish	fugu	fish	besthit	all	MF	mid			0.0	0.0	70.3
+fish	fugu	fish	besthit	all	MF	shallow		0.5152566991212687	0.38566554185657437	14.11	70.3
+fish	fugu	fish	rbh	all	BP	mid			0.0	0.0	70.3
+fish	fugu	fish	rbh	all	BP	shallow		0.32972450574171935	0.39167715660061075	125.15238095238095	70.3
+fish	fugu	fish	rbh	all	CC	mid			0.0	0.0	70.3
+fish	fugu	fish	rbh	all	CC	shallow		0.3597329615456241	0.31166618825161635	11.034090909090908	70.3
+fish	fugu	fish	rbh	all	MF	mid			0.0	0.0	70.3
+fish	fugu	fish	rbh	all	MF	shallow		0.43797936259173176	0.3764011374556751	14.697916666666666	70.3
+fish	gar	fish	besthit	all	BP	mid			0.0	0.0	70.4
+fish	gar	fish	besthit	all	BP	shallow		0.37056166139129315	0.4308412105106557	125.15238095238095	70.4
+fish	gar	fish	besthit	all	CC	mid			0.0	0.0	70.4
+fish	gar	fish	besthit	all	CC	shallow		0.5029932409699083	0.36303235035841475	10.114583333333334	70.4
+fish	gar	fish	besthit	all	MF	mid			0.0	0.0	70.4
+fish	gar	fish	besthit	all	MF	shallow		0.5486075562131634	0.38152463035801265	13.567307692307692	70.4
+fish	gar	fish	rbh	all	BP	mid			0.0	0.0	70.4
+fish	gar	fish	rbh	all	BP	shallow		0.35392871132217185	0.4225934591861771	125.15238095238095	70.4
+fish	gar	fish	rbh	all	CC	mid			0.0	0.0	70.4
+fish	gar	fish	rbh	all	CC	shallow		0.44796801029470035	0.34995533715620536	10.221052631578948	70.4
+fish	gar	fish	rbh	all	MF	mid			0.0	0.0	70.4
+fish	gar	fish	rbh	all	MF	shallow		0.5355556258390621	0.40699384793891813	14.697916666666666	70.4
+fish	goldfish	fish	besthit	all	BP	mid			0.0	0.0	87.2
+fish	goldfish	fish	besthit	all	BP	shallow		0.3619193278578816	0.41487516955092324	125.15238095238095	87.2
+fish	goldfish	fish	besthit	all	CC	mid			0.0	0.0	87.2
+fish	goldfish	fish	besthit	all	CC	shallow		0.4518956568499838	0.3415248115199084	10.221052631578948	87.2
+fish	goldfish	fish	besthit	all	MF	mid			0.0	0.0	87.2
+fish	goldfish	fish	besthit	all	MF	shallow		0.5728540757897149	0.4145161150720427	13.970297029702971	87.2
+fish	goldfish	fish	rbh	all	BP	mid			0.0	0.0	87.2
+fish	goldfish	fish	rbh	all	BP	shallow		0.3569598691317683	0.41622187344418865	125.15238095238095	87.2
+fish	goldfish	fish	rbh	all	CC	mid			0.0	0.0	87.2
+fish	goldfish	fish	rbh	all	CC	shallow		0.4062747383623297	0.32399514783013494	10.329787234042554	87.2
+fish	goldfish	fish	rbh	all	MF	mid			0.0	0.0	87.2
+fish	goldfish	fish	rbh	all	MF	shallow		0.5333700440210895	0.4026310263558784	13.970297029702971	87.2
+fish	grasscarp	fish	besthit	all	BP	mid			0.0	0.0	62.4
+fish	grasscarp	fish	besthit	all	BP	shallow		0.33877723063141	0.37779189590274237	125.15238095238095	62.4
+fish	grasscarp	fish	besthit	all	CC	mid			0.0	0.0	62.4
+fish	grasscarp	fish	besthit	all	CC	shallow		0.402145583185501	0.32262789858197155	10.67032967032967	62.4
+fish	grasscarp	fish	besthit	all	MF	mid			0.0	0.0	62.4
+fish	grasscarp	fish	besthit	all	MF	shallow		0.5567536978645926	0.4016395312285648	14.11	62.4
+fish	grasscarp	fish	rbh	all	BP	mid			0.0	0.0	62.4
+fish	grasscarp	fish	rbh	all	BP	shallow		0.33457903851899345	0.38560064392595234	125.15238095238095	62.4
+fish	grasscarp	fish	rbh	all	CC	mid			0.0	0.0	62.4
+fish	grasscarp	fish	rbh	all	CC	shallow		0.3559733032896051	0.3097232625178249	10.78888888888889	62.4
+fish	grasscarp	fish	rbh	all	MF	mid			0.0	0.0	62.4
+fish	grasscarp	fish	rbh	all	MF	shallow		0.508215786363563	0.3951574785627833	14.852631578947369	62.4
+fish	human	fish	besthit	all	BP	mid			0.0	0.0	63.1
+fish	human	fish	besthit	all	BP	shallow		0.41197482385807377	0.37981367192006976	125.15238095238095	63.1
+fish	human	fish	besthit	all	CC	mid			0.0	0.0	63.1
+fish	human	fish	besthit	all	CC	shallow		0.3876052094789191	0.2701762965569217	9.71	63.1
+fish	human	fish	besthit	all	MF	mid			0.0	0.0	63.1
+fish	human	fish	besthit	all	MF	shallow		0.5534167866847909	0.3503600673472243	13.699029126213592	63.1
+fish	human	fish	besthit	exp	BP	mid			0.0	0.0	63.1
+fish	human	fish	besthit	exp	BP	shallow		0.3196404320791728	0.35223804035846523	125.15238095238095	63.1
+fish	human	fish	besthit	exp	CC	mid			0.0	0.0	63.1
+fish	human	fish	besthit	exp	CC	shallow		0.38179667958951086	0.2731921727337634	9.908163265306122	63.1
+fish	human	fish	besthit	exp	MF	mid			0.0	0.0	63.1
+fish	human	fish	besthit	exp	MF	shallow		0.5682571601074273	0.3858179490997975	13.833333333333334	63.1
+fish	human	fish	rbh	all	BP	mid			0.0	0.0	63.1
+fish	human	fish	rbh	all	BP	shallow		0.43109434228015064	0.40658026623332466	125.15238095238095	63.1
+fish	human	fish	rbh	all	CC	mid			0.0	0.0	63.1
+fish	human	fish	rbh	all	CC	shallow		0.4342828840975765	0.30141560565315256	10.114583333333334	63.1
+fish	human	fish	rbh	all	MF	mid			0.0	0.0	63.1
+fish	human	fish	rbh	all	MF	shallow		0.539994496932701	0.35646799037618726	13.970297029702971	63.1
+fish	human	fish	rbh	exp	BP	mid			0.0	0.0	63.1
+fish	human	fish	rbh	exp	BP	shallow		0.3233884208595982	0.3649510822943871	125.15238095238095	63.1
+fish	human	fish	rbh	exp	CC	mid			0.0	0.0	63.1
+fish	human	fish	rbh	exp	CC	shallow		0.3409334101776183	0.27433945555527345	10.440860215053764	63.1
+fish	human	fish	rbh	exp	MF	mid			0.0	0.0	63.1
+fish	human	fish	rbh	exp	MF	shallow		0.555756132051585	0.4119193680890182	14.54639175257732	63.1
+fish	lamprey	fish	besthit	all	BP	mid			0.0	0.0	56.4
+fish	lamprey	fish	besthit	all	BP	shallow		0.282315508799596	0.34582255970953224	125.15238095238095	56.4
+fish	lamprey	fish	besthit	all	CC	mid			0.0	0.0	56.4
+fish	lamprey	fish	besthit	all	CC	shallow		0.385946092533742	0.32716478266974386	10.78888888888889	56.4
+fish	lamprey	fish	besthit	all	MF	mid			0.0	0.0	56.4
+fish	lamprey	fish	besthit	all	MF	shallow		0.504373279838692	0.39162957577882285	14.54639175257732	56.4
+fish	lamprey	fish	rbh	all	BP	mid			0.0	0.0	56.4
+fish	lamprey	fish	rbh	all	BP	shallow		0.24541761060406717	0.3128665273350267	125.15238095238095	56.4
+fish	lamprey	fish	rbh	all	CC	mid			0.0	0.0	56.4
+fish	lamprey	fish	rbh	all	CC	shallow		0.39488610506452304	0.3287407177023863	10.78888888888889	56.4
+fish	lamprey	fish	rbh	all	MF	mid			0.0	0.0	56.4
+fish	lamprey	fish	rbh	all	MF	shallow		0.32708002091032506	0.31746744205514876	15.172043010752688	56.4
+fish	medaka	fish	besthit	all	BP	mid			0.0	0.0	70.4
+fish	medaka	fish	besthit	all	BP	shallow		0.36887489145276076	0.42296246206316324	125.15238095238095	70.4
+fish	medaka	fish	besthit	all	CC	mid			0.0	0.0	70.4
+fish	medaka	fish	besthit	all	CC	shallow		0.4713873393339998	0.34730995360906375	10.114583333333334	70.4
+fish	medaka	fish	besthit	all	MF	mid			0.0	0.0	70.4
+fish	medaka	fish	besthit	all	MF	shallow		0.5293925649499677	0.3804614823508637	13.970297029702971	70.4
+fish	medaka	fish	rbh	all	BP	mid			0.0	0.0	70.4
+fish	medaka	fish	rbh	all	BP	shallow		0.34627966039459224	0.4133382660501163	125.15238095238095	70.4
+fish	medaka	fish	rbh	all	CC	mid			0.0	0.0	70.4
+fish	medaka	fish	rbh	all	CC	shallow		0.43041592285618946	0.3381385664498325	10.114583333333334	70.4
+fish	medaka	fish	rbh	all	MF	mid			0.0	0.0	70.4
+fish	medaka	fish	rbh	all	MF	shallow		0.47897420272251606	0.3710530767467579	14.39795918367347	70.4
+fish	mouse	fish	besthit	all	BP	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	all	BP	shallow		0.4720015259360455	0.3710196576584288	125.15238095238095	62.6
+fish	mouse	fish	besthit	all	CC	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	all	CC	shallow		0.3893877358999384	0.27554161566874	9.71	62.6
+fish	mouse	fish	besthit	all	MF	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	all	MF	shallow		0.5657629449001401	0.35907918648094456	13.833333333333334	62.6
+fish	mouse	fish	besthit	exp	BP	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	exp	BP	shallow		0.40586719294643714	0.37726458771501076	125.15238095238095	62.6
+fish	mouse	fish	besthit	exp	CC	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	exp	CC	shallow		0.4504544690199549	0.34552579768643676	10.440860215053764	62.6
+fish	mouse	fish	besthit	exp	MF	mid			0.0	0.0	62.6
+fish	mouse	fish	besthit	exp	MF	shallow		0.5790075766394233	0.43613654765477233	14.697916666666666	62.6
+fish	mouse	fish	rbh	all	BP	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	all	BP	shallow		0.4812522594832867	0.3873037877576485	125.15238095238095	62.6
+fish	mouse	fish	rbh	all	CC	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	all	CC	shallow		0.4244913569088174	0.2928158938657557	10.010309278350515	62.6
+fish	mouse	fish	rbh	all	MF	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	all	MF	shallow		0.5459260352175535	0.354999366659511	13.833333333333334	62.6
+fish	mouse	fish	rbh	exp	BP	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	exp	BP	shallow		0.4088152932327396	0.4134317328332185	125.15238095238095	62.6
+fish	mouse	fish	rbh	exp	CC	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	exp	CC	shallow		0.5348410170494423	0.38788655683988416	10.329787234042554	62.6
+fish	mouse	fish	rbh	exp	MF	mid			0.0	0.0	62.6
+fish	mouse	fish	rbh	exp	MF	shallow		0.5576558315146649	0.4539147674085799	15.172043010752688	62.6
+fish	salmon	fish	besthit	all	BP	mid			0.0	0.0	73.1
+fish	salmon	fish	besthit	all	BP	shallow		0.3530549973974547	0.4136395711204353	125.15238095238095	73.1
+fish	salmon	fish	besthit	all	CC	mid			0.0	0.0	73.1
+fish	salmon	fish	besthit	all	CC	shallow		0.42287205204110134	0.3262908937466653	10.221052631578948	73.1
+fish	salmon	fish	besthit	all	MF	mid			0.0	0.0	73.1
+fish	salmon	fish	besthit	all	MF	shallow		0.5380099870705549	0.4000060665455354	13.970297029702971	73.1
+fish	salmon	fish	rbh	all	BP	mid			0.0	0.0	73.1
+fish	salmon	fish	rbh	all	BP	shallow		0.33685112996899846	0.40383868083426705	125.15238095238095	73.1
+fish	salmon	fish	rbh	all	CC	mid			0.0	0.0	73.1
+fish	salmon	fish	rbh	all	CC	shallow		0.39123043015212533	0.31940055460209477	10.440860215053764	73.1
+fish	salmon	fish	rbh	all	MF	mid			0.0	0.0	73.1
+fish	salmon	fish	rbh	all	MF	shallow		0.487008173289319	0.38599751803820986	14.54639175257732	73.1
+fish	seaurchin	fish	besthit	all	BP	mid			0.0	0.0	48.1
+fish	seaurchin	fish	besthit	all	BP	shallow		0.25876171210198834	0.32379049361819384	125.15238095238095	48.1
+fish	seaurchin	fish	besthit	all	CC	mid			0.0	0.0	48.1
+fish	seaurchin	fish	besthit	all	CC	shallow		0.42236552917864983	0.3391948089070308	10.329787234042554	48.1
+fish	seaurchin	fish	besthit	all	MF	mid			0.0	0.0	48.1
+fish	seaurchin	fish	besthit	all	MF	shallow		0.49286807860820675	0.37558475730685087	14.252525252525253	48.1
+fish	seaurchin	fish	rbh	all	BP	mid			0.0	0.0	48.1
+fish	seaurchin	fish	rbh	all	BP	shallow		0.20823899352136024	0.28347652492744163	126.90291262135922	48.1
+fish	seaurchin	fish	rbh	all	CC	mid			0.0	0.0	48.1
+fish	seaurchin	fish	rbh	all	CC	shallow		0.40991263489412266	0.33719354187098655	10.408602150537634	48.1
+fish	seaurchin	fish	rbh	all	MF	mid			0.0	0.0	48.1
+fish	seaurchin	fish	rbh	all	MF	shallow		0.35675868122652477	0.33775574250059154	15.370786516853933	48.1
+fish	sinocyclocheilus	fish	besthit	all	BP	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	besthit	all	BP	shallow		0.36217100726160195	0.4228844744858296	125.15238095238095	86.7
+fish	sinocyclocheilus	fish	besthit	all	CC	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	besthit	all	CC	shallow		0.4205241930489267	0.3361961530354533	10.329787234042554	86.7
+fish	sinocyclocheilus	fish	besthit	all	MF	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	besthit	all	MF	shallow		0.5586092554333516	0.39951210167784085	13.970297029702971	86.7
+fish	sinocyclocheilus	fish	rbh	all	BP	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	rbh	all	BP	shallow		0.3407210853135866	0.4085602746618467	125.15238095238095	86.7
+fish	sinocyclocheilus	fish	rbh	all	CC	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	rbh	all	CC	shallow		0.3863977366692734	0.3203898748801312	10.440860215053764	86.7
+fish	sinocyclocheilus	fish	rbh	all	MF	mid			0.0	0.0	86.7
+fish	sinocyclocheilus	fish	rbh	all	MF	shallow		0.509127221688905	0.39173044753007424	14.252525252525253	86.7
+fish	tilapia	fish	besthit	all	BP	mid			0.0	0.0	71.5
+fish	tilapia	fish	besthit	all	BP	shallow		0.35578223556365307	0.4081814519637211	125.15238095238095	71.5
+fish	tilapia	fish	besthit	all	CC	mid			0.0	0.0	71.5
+fish	tilapia	fish	besthit	all	CC	shallow		0.3884144111860498	0.3133275131050989	10.440860215053764	71.5
+fish	tilapia	fish	besthit	all	MF	mid			0.0	0.0	71.5
+fish	tilapia	fish	besthit	all	MF	shallow		0.5357994029182419	0.3984062510013266	13.970297029702971	71.5
+fish	tilapia	fish	rbh	all	BP	mid			0.0	0.0	71.5
+fish	tilapia	fish	rbh	all	BP	shallow		0.32556966466422826	0.392645527047309	125.15238095238095	71.5
+fish	tilapia	fish	rbh	all	CC	mid			0.0	0.0	71.5
+fish	tilapia	fish	rbh	all	CC	shallow		0.3470515869867396	0.30396581838993764	10.78888888888889	71.5
+fish	tilapia	fish	rbh	all	MF	mid			0.0	0.0	71.5
+fish	tilapia	fish	rbh	all	MF	shallow		0.4605057899755729	0.3610954722955983	14.39795918367347	71.5
+fish	yeast	fish	besthit	all	BP	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	all	BP	shallow		0.11437681754471232	0.1617191807653141	134.02380952380952	38.2
+fish	yeast	fish	besthit	all	CC	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	all	CC	shallow		0.16861679748494213	0.1764957053666735	12.689655172413794	38.2
+fish	yeast	fish	besthit	all	MF	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	all	MF	shallow		0.1902620912037302	0.19221437227540697	14.552238805970148	38.2
+fish	yeast	fish	besthit	exp	BP	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	exp	BP	shallow		0.10139011743277357	0.14735697826226582	135.97560975609755	38.2
+fish	yeast	fish	besthit	exp	CC	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	exp	CC	shallow		0.1369961473362418	0.15434026024428735	12.689655172413794	38.2
+fish	yeast	fish	besthit	exp	MF	mid			0.0	0.0	38.2
+fish	yeast	fish	besthit	exp	MF	shallow		0.19026628577328566	0.1960352039026749	14.212121212121213	38.2
+fish	yeast	fish	rbh	all	BP	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	all	BP	shallow		0.062434662267972015	0.10144480437556161	146.67796610169492	38.2
+fish	yeast	fish	rbh	all	CC	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	all	CC	shallow		0.10573033813165392	0.13511985994182393	13.675	38.2
+fish	yeast	fish	rbh	all	MF	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	all	MF	shallow		0.12540843549784644	0.14632308304332928	11.229166666666666	38.2
+fish	yeast	fish	rbh	exp	BP	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	exp	BP	shallow		0.0630750168447337	0.10204349597475834	143.9298245614035	38.2
+fish	yeast	fish	rbh	exp	CC	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	exp	CC	shallow		0.0802537861748388	0.11295450540825194	13.675	38.2
+fish	yeast	fish	rbh	exp	MF	mid			0.0	0.0	38.2
+fish	yeast	fish	rbh	exp	MF	shallow		0.10553771886209162	0.14370917654758086	11.8	38.2
+mammal	amphioxus	mammal	besthit	all	BP	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	besthit	all	BP	mid		0.08594579899841698	0.10064547158462991	31.7	50.5
+mammal	amphioxus	mammal	besthit	all	BP	shallow		0.27355507568096243	0.34473258188583944	308.425	50.5
+mammal	amphioxus	mammal	besthit	all	CC	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	besthit	all	CC	mid		0.16567116745688173	0.17243169304895312	3.6704545454545454	50.5
+mammal	amphioxus	mammal	besthit	all	CC	shallow		0.41926155431282097	0.4484602441668238	29.899159663865547	50.5
+mammal	amphioxus	mammal	besthit	all	MF	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	besthit	all	MF	mid		0.3282601515280472	0.23056117037877571	4.956896551724138	50.5
+mammal	amphioxus	mammal	besthit	all	MF	shallow		0.5883932030655362	0.5491361603142881	27.908333333333335	50.5
+mammal	amphioxus	mammal	rbh	all	BP	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	rbh	all	BP	mid		0.05304316514783733	0.06695891395245662	31.96638655462185	50.5
+mammal	amphioxus	mammal	rbh	all	BP	shallow		0.20591012571948172	0.2791819341431018	308.425	50.5
+mammal	amphioxus	mammal	rbh	all	CC	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	rbh	all	CC	mid		0.1050513639799354	0.11629225111848851	3.8	50.5
+mammal	amphioxus	mammal	rbh	all	CC	shallow		0.30227250507377335	0.3663242773861329	30.67241379310345	50.5
+mammal	amphioxus	mammal	rbh	all	MF	deep			0.0	0.0	50.5
+mammal	amphioxus	mammal	rbh	all	MF	mid		0.13411381325585284	0.12866563374187048	5.088495575221239	50.5
+mammal	amphioxus	mammal	rbh	all	MF	shallow		0.4386646066782046	0.4861512477605674	28.142857142857142	50.5
+mammal	anole	mammal	besthit	all	BP	deep			0.0	0.0	70.5
+mammal	anole	mammal	besthit	all	BP	mid		0.16003139268318178	0.15659437588563296	31.7	70.5
+mammal	anole	mammal	besthit	all	BP	shallow		0.41475435516439896	0.45407502965944835	308.425	70.5
+mammal	anole	mammal	besthit	all	CC	deep			0.0	0.0	70.5
+mammal	anole	mammal	besthit	all	CC	mid		0.29945329141757715	0.23582887870571692	3.3645833333333335	70.5
+mammal	anole	mammal	besthit	all	CC	shallow		0.47968093025543856	0.4747958242743163	29.65	70.5
+mammal	anole	mammal	besthit	all	MF	deep			0.0	0.0	70.5
+mammal	anole	mammal	besthit	all	MF	mid		0.47162447003191915	0.23598988042677402	4.872881355932203	70.5
+mammal	anole	mammal	besthit	all	MF	shallow		0.6906171554032182	0.5853897882602898	27.908333333333335	70.5
+mammal	anole	mammal	rbh	all	BP	deep			0.0	0.0	70.5
+mammal	anole	mammal	rbh	all	BP	mid		0.11840564137626343	0.13093046860151458	31.7	70.5
+mammal	anole	mammal	rbh	all	BP	shallow		0.36813760734457984	0.4373921153302437	308.425	70.5
+mammal	anole	mammal	rbh	all	CC	deep			0.0	0.0	70.5
+mammal	anole	mammal	rbh	all	CC	mid		0.22521344396344398	0.20816055528525512	3.6704545454545454	70.5
+mammal	anole	mammal	rbh	all	CC	shallow		0.4195724164579308	0.46583009065486614	30.93913043478261	70.5
+mammal	anole	mammal	rbh	all	MF	deep			0.0	0.0	70.5
+mammal	anole	mammal	rbh	all	MF	mid		0.35847819963825217	0.22102250463069276	4.872881355932203	70.5
+mammal	anole	mammal	rbh	all	MF	shallow		0.6088806533041945	0.5810343497664191	28.142857142857142	70.5
+mammal	celegans	mammal	besthit	all	BP	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	all	BP	mid		0.0719934007557475	0.07807734391677502	31.7	40.9
+mammal	celegans	mammal	besthit	all	BP	shallow		0.25180695404423425	0.3021149779294421	308.425	40.9
+mammal	celegans	mammal	besthit	all	CC	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	all	CC	mid		0.18184180237751665	0.17302559222313543	3.4731182795698925	40.9
+mammal	celegans	mammal	besthit	all	CC	shallow		0.34959326774719557	0.3888332292247987	30.41025641025641	40.9
+mammal	celegans	mammal	besthit	all	MF	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	all	MF	mid		0.2352743887198339	0.1746902918673964	5.0	40.9
+mammal	celegans	mammal	besthit	all	MF	shallow		0.48548855412450653	0.4916501895941665	28.142857142857142	40.9
+mammal	celegans	mammal	besthit	exp	BP	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	exp	BP	mid		0.01176746590861018	0.015230052825995164	32.152542372881356	40.9
+mammal	celegans	mammal	besthit	exp	BP	shallow		0.09491498996777847	0.13143729677666505	309.96638655462186	40.9
+mammal	celegans	mammal	besthit	exp	CC	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	exp	CC	mid		0.009103078982597055	0.01265495867768595	3.647727272727273	40.9
+mammal	celegans	mammal	besthit	exp	CC	shallow		0.13023211050887237	0.1651807632707604	31.357142857142858	40.9
+mammal	celegans	mammal	besthit	exp	MF	deep			0.0	0.0	40.9
+mammal	celegans	mammal	besthit	exp	MF	mid		0.0392046418856926	0.05030746954856246	5.603960396039604	40.9
+mammal	celegans	mammal	besthit	exp	MF	shallow		0.21618721568342894	0.28122305919409063	28.842105263157894	40.9
+mammal	celegans	mammal	rbh	all	BP	deep			0.0	0.0	40.9
+mammal	celegans	mammal	rbh	all	BP	mid		0.03996176361668091	0.04742129732625704	32.723214285714285	40.9
+mammal	celegans	mammal	rbh	all	BP	shallow		0.1806443104776621	0.24022435776327322	308.3805309734513	40.9
+mammal	celegans	mammal	rbh	all	CC	deep			0.0	0.0	40.9
+mammal	celegans	mammal	rbh	all	CC	mid		0.07021983503464985	0.07869309779247667	3.7857142857142856	40.9
+mammal	celegans	mammal	rbh	all	CC	shallow		0.2540372996978136	0.3201332935232349	31.527272727272727	40.9
+mammal	celegans	mammal	rbh	all	MF	deep			0.0	0.0	40.9
+mammal	celegans	mammal	rbh	all	MF	mid		0.04797962085196127	0.05190846369728678	5.5	40.9
+mammal	celegans	mammal	rbh	all	MF	shallow		0.3142558193148513	0.36122218088455765	29.0625	40.9
+mammal	celegans	mammal	rbh	exp	BP	deep			0.0	0.0	40.9
+mammal	celegans	mammal	rbh	exp	BP	mid		0.000344827586206896	0.0006600660066006594	34.08910891089109	40.9
+mammal	celegans	mammal	rbh	exp	BP	shallow		0.043320739803136235	0.07176928578638098	320.8529411764706	40.9
+mammal	celegans	mammal	rbh	exp	CC	deep			0.0	0.0	40.9
+mammal	celegans	mammal	rbh	exp	CC	mid		0.0	0.0	4.097222222222222	40.9
+mammal	celegans	mammal	rbh	exp	CC	shallow		0.09167045543470108	0.12819433469703173	36.31764705882353	40.9
+mammal	celegans	mammal	rbh	exp	MF	mid		0.0	0.0	6.533333333333333	40.9
+mammal	celegans	mammal	rbh	exp	MF	shallow		0.11719085774461387	0.17038990717798647	32.023529411764706	40.9
+mammal	chicken	mammal	besthit	all	BP	deep			0.0	0.0	72.8
+mammal	chicken	mammal	besthit	all	BP	mid		0.1826152502155765	0.17468554813079823	31.7	72.8
+mammal	chicken	mammal	besthit	all	BP	shallow		0.4193445023090667	0.46501917207488463	308.425	72.8
+mammal	chicken	mammal	besthit	all	CC	deep			0.0	0.0	72.8
+mammal	chicken	mammal	besthit	all	CC	mid		0.36987176183604753	0.2745052661913466	3.198019801980198	72.8
+mammal	chicken	mammal	besthit	all	CC	shallow		0.5276355276795061	0.5071382453380782	30.152542372881356	72.8
+mammal	chicken	mammal	besthit	all	MF	deep			0.0	0.0	72.8
+mammal	chicken	mammal	besthit	all	MF	mid		0.5051245127178611	0.26254199885038826	4.914529914529915	72.8
+mammal	chicken	mammal	besthit	all	MF	shallow		0.697057853621359	0.599789444401353	28.142857142857142	72.8
+mammal	chicken	mammal	besthit	exp	BP	mid		0.0	0.0	62.3448275862069	72.8
+mammal	chicken	mammal	besthit	exp	BP	shallow		0.005475900154875477	0.010627924638899576	579.1034482758621	72.8
+mammal	chicken	mammal	besthit	exp	CC	mid		0.0	0.0	5.235294117647059	72.8
+mammal	chicken	mammal	besthit	exp	CC	shallow		0.00514786418400876	0.009523809523809521	51.4	72.8
+mammal	chicken	mammal	besthit	exp	MF	mid		0.0	0.0	7.578947368421052	72.8
+mammal	chicken	mammal	besthit	exp	MF	shallow		0.03901842096504794	0.06501936497151152	36.857142857142854	72.8
+mammal	chicken	mammal	rbh	all	BP	deep			0.0	0.0	72.8
+mammal	chicken	mammal	rbh	all	BP	mid		0.1515966569118762	0.16273929180045735	31.7	72.8
+mammal	chicken	mammal	rbh	all	BP	shallow		0.383718110226057	0.4561293289267796	308.425	72.8
+mammal	chicken	mammal	rbh	all	CC	deep			0.0	0.0	72.8
+mammal	chicken	mammal	rbh	all	CC	mid		0.2805194805194805	0.24263850464308734	3.4731182795698925	72.8
+mammal	chicken	mammal	rbh	all	CC	shallow		0.5073703751606584	0.5274874725727755	30.67241379310345	72.8
+mammal	chicken	mammal	rbh	all	MF	deep			0.0	0.0	72.8
+mammal	chicken	mammal	rbh	all	MF	mid		0.41921739780826	0.24759814331332625	4.914529914529915	72.8
+mammal	chicken	mammal	rbh	all	MF	shallow		0.6360592514815521	0.597667853883474	28.142857142857142	72.8
+mammal	chicken	mammal	rbh	exp	BP	mid		0.0	0.0	63.785714285714285	72.8
+mammal	chicken	mammal	rbh	exp	BP	shallow		0.004606691546378072	0.008963616554846818	588.1785714285714	72.8
+mammal	chicken	mammal	rbh	exp	CC	mid		0.0	0.0	3.9	72.8
+mammal	chicken	mammal	rbh	exp	CC	shallow		0.0085797736400146	0.01587301587301587	30.166666666666668	72.8
+mammal	chicken	mammal	rbh	exp	MF	mid		0.0	0.0	8.142857142857142	72.8
+mammal	chicken	mammal	rbh	exp	MF	shallow		0.05000245033389933	0.08364197167507482	41.857142857142854	72.8
+mammal	cow	mammal	besthit	all	BP	deep			0.0	0.0	85.0
+mammal	cow	mammal	besthit	all	BP	mid		0.16862089471264888	0.16696659139630995	31.7	85.0
+mammal	cow	mammal	besthit	all	BP	shallow		0.41080734048732903	0.46997676932018667	308.425	85.0
+mammal	cow	mammal	besthit	all	CC	deep			0.0	0.0	85.0
+mammal	cow	mammal	besthit	all	CC	mid		0.2643960867175153	0.19412861290617178	3.2626262626262625	85.0
+mammal	cow	mammal	besthit	all	CC	shallow		0.556561978062413	0.5354109318378064	29.899159663865547	85.0
+mammal	cow	mammal	besthit	all	MF	deep			0.0	0.0	85.0
+mammal	cow	mammal	besthit	all	MF	mid		0.528197867091056	0.28573384674371904	4.914529914529915	85.0
+mammal	cow	mammal	besthit	all	MF	shallow		0.7142634995959396	0.6076561569675382	28.142857142857142	85.0
+mammal	cow	mammal	besthit	exp	BP	mid		0.0	0.0	57.0	85.0
+mammal	cow	mammal	besthit	exp	BP	shallow		0.012695145233471351	0.023472782415154568	422.8095238095238	85.0
+mammal	cow	mammal	besthit	exp	CC	mid		0.005994005994005991	0.010683760683760682	4.717948717948718	85.0
+mammal	cow	mammal	besthit	exp	CC	shallow		0.07583119665999061	0.10590037506411706	41.75	85.0
+mammal	cow	mammal	besthit	exp	MF	mid		0.0	0.0	8.363636363636363	85.0
+mammal	cow	mammal	besthit	exp	MF	shallow		0.048553289793104436	0.078793831786212	36.59574468085106	85.0
+mammal	cow	mammal	rbh	all	BP	deep			0.0	0.0	85.0
+mammal	cow	mammal	rbh	all	BP	mid		0.15956407945873297	0.16457491759591847	31.7	85.0
+mammal	cow	mammal	rbh	all	BP	shallow		0.39522522555340767	0.4660795454118869	308.425	85.0
+mammal	cow	mammal	rbh	all	CC	deep			0.0	0.0	85.0
+mammal	cow	mammal	rbh	all	CC	mid		0.24833410636982065	0.194306777717936	3.329896907216495	85.0
+mammal	cow	mammal	rbh	all	CC	shallow		0.5578840045499807	0.5601845615605456	30.152542372881356	85.0
+mammal	cow	mammal	rbh	all	MF	deep			0.0	0.0	85.0
+mammal	cow	mammal	rbh	all	MF	mid		0.49640124502330146	0.28765497897019715	4.914529914529915	85.0
+mammal	cow	mammal	rbh	all	MF	shallow		0.6686155768596433	0.6043846683577201	28.142857142857142	85.0
+mammal	cow	mammal	rbh	exp	BP	mid		0.0	0.0	59.1	85.0
+mammal	cow	mammal	rbh	exp	BP	shallow		0.00795413036015788	0.015454896102684329	423.9	85.0
+mammal	cow	mammal	rbh	exp	CC	mid		0.00667903525046382	0.011904761904761904	4.8	85.0
+mammal	cow	mammal	rbh	exp	CC	shallow		0.055319688688107126	0.08096984708034977	40.743589743589745	85.0
+mammal	cow	mammal	rbh	exp	MF	mid		0.0	0.0	8.304347826086957	85.0
+mammal	cow	mammal	rbh	exp	MF	shallow		0.03970092318634474	0.06429297013987731	37.42857142857143	85.0
+mammal	dog	mammal	besthit	all	BP	deep			0.0	0.0	85.6
+mammal	dog	mammal	besthit	all	BP	mid		0.20708835887196164	0.19097152250499558	31.7	85.6
+mammal	dog	mammal	besthit	all	BP	shallow		0.43631636057041523	0.4804705446640826	308.425	85.6
+mammal	dog	mammal	besthit	all	CC	deep			0.0	0.0	85.6
+mammal	dog	mammal	besthit	all	CC	mid		0.31741479420050844	0.2345732969564081	3.295918367346939	85.6
+mammal	dog	mammal	besthit	all	CC	shallow		0.5725543044431154	0.5414824701893359	29.899159663865547	85.6
+mammal	dog	mammal	besthit	all	MF	deep			0.0	0.0	85.6
+mammal	dog	mammal	besthit	all	MF	mid		0.5833307668658076	0.2808926340591755	4.872881355932203	85.6
+mammal	dog	mammal	besthit	all	MF	shallow		0.7214216632402394	0.6039082778091764	28.142857142857142	85.6
+mammal	dog	mammal	besthit	exp	BP	mid		0.0	0.0	111.0	85.6
+mammal	dog	mammal	besthit	exp	BP	shallow		0.0	0.0	685.0	85.6
+mammal	dog	mammal	besthit	exp	CC	mid		0.0	0.0	3.6666666666666665	85.6
+mammal	dog	mammal	besthit	exp	CC	shallow		0.1111111111111111	0.16666666666666666	48.333333333333336	85.6
+mammal	dog	mammal	besthit	exp	MF	mid		0.0	0.0	38.0	85.6
+mammal	dog	mammal	besthit	exp	MF	shallow		0.0520833333333333	0.099009900990099	96.0	85.6
+mammal	dog	mammal	rbh	all	BP	deep			0.0	0.0	85.6
+mammal	dog	mammal	rbh	all	BP	mid		0.183111362380853	0.17976344935620972	31.7	85.6
+mammal	dog	mammal	rbh	all	BP	shallow		0.42063907997092415	0.47866843900799627	308.425	85.6
+mammal	dog	mammal	rbh	all	CC	deep			0.0	0.0	85.6
+mammal	dog	mammal	rbh	all	CC	mid		0.2714491857349	0.2111626023221418	3.3645833333333335	85.6
+mammal	dog	mammal	rbh	all	CC	shallow		0.540621235047275	0.5396287494175624	30.152542372881356	85.6
+mammal	dog	mammal	rbh	all	MF	deep			0.0	0.0	85.6
+mammal	dog	mammal	rbh	all	MF	mid		0.5014088728227015	0.2743163784294947	4.872881355932203	85.6
+mammal	dog	mammal	rbh	all	MF	shallow		0.6947822638958977	0.6226948470436172	28.142857142857142	85.6
+mammal	dog	mammal	rbh	exp	BP	mid		0.0	0.0	111.0	85.6
+mammal	dog	mammal	rbh	exp	BP	shallow		0.0	0.0	685.0	85.6
+mammal	dog	mammal	rbh	exp	CC	mid		0.0	0.0	3.6666666666666665	85.6
+mammal	dog	mammal	rbh	exp	CC	shallow		0.0	0.0	48.333333333333336	85.6
+mammal	dog	mammal	rbh	exp	MF	mid		0.0	0.0	38.0	85.6
+mammal	dog	mammal	rbh	exp	MF	shallow		0.0520833333333333	0.099009900990099	96.0	85.6
+mammal	fruitfly	mammal	besthit	all	BP	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	all	BP	mid		0.1097486286106363	0.10449645943925659	31.7	45.0
+mammal	fruitfly	mammal	besthit	all	BP	shallow		0.31496033600084977	0.3315771421679013	308.425	45.0
+mammal	fruitfly	mammal	besthit	all	CC	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	all	CC	mid		0.21927051123479696	0.1766672807098339	3.4361702127659575	45.0
+mammal	fruitfly	mammal	besthit	all	CC	shallow		0.37355001882358313	0.36770876859141494	30.41025641025641	45.0
+mammal	fruitfly	mammal	besthit	all	MF	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	all	MF	mid		0.28063150074361254	0.18112898513917156	4.914529914529915	45.0
+mammal	fruitfly	mammal	besthit	all	MF	shallow		0.5243312841687531	0.5098933464695358	28.142857142857142	45.0
+mammal	fruitfly	mammal	besthit	exp	BP	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	exp	BP	mid		0.03269243691464913	0.03803414621352182	32.47863247863248	45.0
+mammal	fruitfly	mammal	besthit	exp	BP	shallow		0.20894497397312578	0.2387328011177955	313.45762711864404	45.0
+mammal	fruitfly	mammal	besthit	exp	CC	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	exp	CC	mid		0.09149659863945578	0.0789301471716991	3.4361702127659575	45.0
+mammal	fruitfly	mammal	besthit	exp	CC	shallow		0.24488586630241482	0.267506769428813	30.41025641025641	45.0
+mammal	fruitfly	mammal	besthit	exp	MF	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	besthit	exp	MF	mid		0.1304491379263872	0.12329243683089486	5.133928571428571	45.0
+mammal	fruitfly	mammal	besthit	exp	MF	shallow		0.35245564620096764	0.40988127028348814	28.322033898305083	45.0
+mammal	fruitfly	mammal	rbh	all	BP	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	all	BP	mid		0.05409455080357899	0.06355493052816288	32.310344827586206	45.0
+mammal	fruitfly	mammal	rbh	all	BP	shallow		0.23304345553830566	0.28326181471406126	308.88034188034186	45.0
+mammal	fruitfly	mammal	rbh	all	CC	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	all	CC	mid		0.11639214444092492	0.11727875680100149	3.7209302325581395	45.0
+mammal	fruitfly	mammal	rbh	all	CC	shallow		0.27533498362981124	0.325712374304185	30.982456140350877	45.0
+mammal	fruitfly	mammal	rbh	all	MF	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	all	MF	mid		0.06499218266826624	0.0776552416198189	5.280373831775701	45.0
+mammal	fruitfly	mammal	rbh	all	MF	shallow		0.33607613601785113	0.37803321313180943	28.46551724137931	45.0
+mammal	fruitfly	mammal	rbh	exp	BP	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	exp	BP	mid		0.006372241064745112	0.010677734157298353	33.32142857142857	45.0
+mammal	fruitfly	mammal	rbh	exp	BP	shallow		0.12618461158541353	0.17160797470870867	317.9911504424779	45.0
+mammal	fruitfly	mammal	rbh	exp	CC	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	exp	CC	mid		0.03614087301587301	0.03963400032191326	3.8072289156626504	45.0
+mammal	fruitfly	mammal	rbh	exp	CC	shallow		0.15297883260446224	0.1885470954937365	31.81651376146789	45.0
+mammal	fruitfly	mammal	rbh	exp	MF	deep			0.0	0.0	45.0
+mammal	fruitfly	mammal	rbh	exp	MF	mid		0.015886644219977552	0.02337863890495469	5.747368421052632	45.0
+mammal	fruitfly	mammal	rbh	exp	MF	shallow		0.20845083103992101	0.2735548646559926	29.694444444444443	45.0
+mammal	gar	mammal	besthit	all	BP	deep			0.0	0.0	65.0
+mammal	gar	mammal	besthit	all	BP	mid		0.10417972745979329	0.12105446440551258	31.7	65.0
+mammal	gar	mammal	besthit	all	BP	shallow		0.33677937977306854	0.4079014072079803	308.425	65.0
+mammal	gar	mammal	besthit	all	CC	deep			0.0	0.0	65.0
+mammal	gar	mammal	besthit	all	CC	mid		0.24516379784236927	0.22704191946435182	3.510869565217391	65.0
+mammal	gar	mammal	besthit	all	CC	shallow		0.5248418699636193	0.52559969112579	29.899159663865547	65.0
+mammal	gar	mammal	besthit	all	MF	deep			0.0	0.0	65.0
+mammal	gar	mammal	besthit	all	MF	mid		0.4446785764193589	0.2764150728215296	4.914529914529915	65.0
+mammal	gar	mammal	besthit	all	MF	shallow		0.6579291039350511	0.5903066510384015	27.908333333333335	65.0
+mammal	gar	mammal	rbh	all	BP	deep			0.0	0.0	65.0
+mammal	gar	mammal	rbh	all	BP	mid		0.08188037351883651	0.10149565842498684	31.7	65.0
+mammal	gar	mammal	rbh	all	BP	shallow		0.3041585358934002	0.391670432761967	308.425	65.0
+mammal	gar	mammal	rbh	all	CC	deep			0.0	0.0	65.0
+mammal	gar	mammal	rbh	all	CC	mid		0.17449580842437987	0.1754650862605408	3.6704545454545454	65.0
+mammal	gar	mammal	rbh	all	CC	shallow		0.4454817943135137	0.5071475456577316	30.93913043478261	65.0
+mammal	gar	mammal	rbh	all	MF	deep			0.0	0.0	65.0
+mammal	gar	mammal	rbh	all	MF	mid		0.3304944526447482	0.25154386405120144	5.043859649122807	65.0
+mammal	gar	mammal	rbh	all	MF	shallow		0.5846063007081231	0.582467875296378	28.142857142857142	65.0
+mammal	horse	mammal	besthit	all	BP	deep			0.0	0.0	85.5
+mammal	horse	mammal	besthit	all	BP	mid		0.1548478387314547	0.1604493808200411	31.96638655462185	85.5
+mammal	horse	mammal	besthit	all	BP	shallow		0.4025905608535253	0.4592736350001838	308.425	85.5
+mammal	horse	mammal	besthit	all	CC	deep			0.0	0.0	85.5
+mammal	horse	mammal	besthit	all	CC	mid		0.26100417439703155	0.2047522321354947	3.329896907216495	85.5
+mammal	horse	mammal	besthit	all	CC	shallow		0.5302099833492478	0.5189312102269168	29.899159663865547	85.5
+mammal	horse	mammal	besthit	all	MF	deep			0.0	0.0	85.5
+mammal	horse	mammal	besthit	all	MF	mid		0.4960466907108243	0.2620825182430194	4.872881355932203	85.5
+mammal	horse	mammal	besthit	all	MF	shallow		0.7018950485348197	0.5973126373867818	28.142857142857142	85.5
+mammal	horse	mammal	rbh	all	BP	deep			0.0	0.0	85.5
+mammal	horse	mammal	rbh	all	BP	mid		0.14041491278967852	0.15109010570061635	31.96638655462185	85.5
+mammal	horse	mammal	rbh	all	BP	shallow		0.3799420895255777	0.45168294384886915	308.425	85.5
+mammal	horse	mammal	rbh	all	CC	deep			0.0	0.0	85.5
+mammal	horse	mammal	rbh	all	CC	mid		0.23620258709544423	0.20256795917556744	3.4361702127659575	85.5
+mammal	horse	mammal	rbh	all	CC	shallow		0.5107699828329887	0.5318599082457095	30.41025641025641	85.5
+mammal	horse	mammal	rbh	all	MF	deep			0.0	0.0	85.5
+mammal	horse	mammal	rbh	all	MF	mid		0.47191237945530096	0.26857830009300787	4.872881355932203	85.5
+mammal	horse	mammal	rbh	all	MF	shallow		0.6700275339456144	0.6106645288992036	28.142857142857142	85.5
+mammal	human	mammal	besthit	all	BP	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	all	BP	mid		0.28934727508406194	0.19363375949221054	31.7	86.5
+mammal	human	mammal	besthit	all	BP	shallow		0.5242875609174666	0.49342019077926125	308.425	86.5
+mammal	human	mammal	besthit	all	CC	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	all	CC	mid		0.4841862502576788	0.23761333680602761	2.9363636363636365	86.5
+mammal	human	mammal	besthit	all	CC	shallow		0.6030470384554836	0.4905417440840249	29.65	86.5
+mammal	human	mammal	besthit	all	MF	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	all	MF	mid		0.6436281394157367	0.23661471211765941	4.831932773109243	86.5
+mammal	human	mammal	besthit	all	MF	shallow		0.7885010769413539	0.5807601090962665	27.908333333333335	86.5
+mammal	human	mammal	besthit	exp	BP	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	exp	BP	mid		0.18426252691351364	0.17888854655811076	31.7	86.5
+mammal	human	mammal	besthit	exp	BP	shallow		0.39844404534572525	0.448044808742987	308.425	86.5
+mammal	human	mammal	besthit	exp	CC	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	exp	CC	mid		0.28038677592249023	0.2067066313188197	3.4	86.5
+mammal	human	mammal	besthit	exp	CC	shallow		0.42618637758866346	0.44025664316454777	30.152542372881356	86.5
+mammal	human	mammal	besthit	exp	MF	deep			0.0	0.0	86.5
+mammal	human	mammal	besthit	exp	MF	mid		0.4568558724600567	0.23235724030745103	4.914529914529915	86.5
+mammal	human	mammal	besthit	exp	MF	shallow		0.6962579410269032	0.5824264064626594	28.142857142857142	86.5
+mammal	human	mammal	rbh	all	BP	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	all	BP	mid		0.2810374523902717	0.19438794881269358	31.7	86.5
+mammal	human	mammal	rbh	all	BP	shallow		0.5214158817596619	0.5022407238410336	308.425	86.5
+mammal	human	mammal	rbh	all	CC	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	all	CC	mid		0.44984668109668113	0.23467626117755588	2.990740740740741	86.5
+mammal	human	mammal	rbh	all	CC	shallow		0.6121030886081277	0.49596961940567785	29.65	86.5
+mammal	human	mammal	rbh	all	MF	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	all	MF	mid		0.6107357231899871	0.2398565727686697	4.872881355932203	86.5
+mammal	human	mammal	rbh	all	MF	shallow		0.7800703079022298	0.6054857605342554	28.142857142857142	86.5
+mammal	human	mammal	rbh	exp	BP	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	exp	BP	mid		0.18392561607895988	0.18012135052764497	31.7	86.5
+mammal	human	mammal	rbh	exp	BP	shallow		0.4029583141309657	0.4535164993401721	308.425	86.5
+mammal	human	mammal	rbh	exp	CC	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	exp	CC	mid		0.2786860956503813	0.21710096613389449	3.510869565217391	86.5
+mammal	human	mammal	rbh	exp	CC	shallow		0.4154916907961884	0.43239835620722594	30.41025641025641	86.5
+mammal	human	mammal	rbh	exp	MF	deep			0.0	0.0	86.5
+mammal	human	mammal	rbh	exp	MF	mid		0.4414033676136125	0.231579649210383	4.914529914529915	86.5
+mammal	human	mammal	rbh	exp	MF	shallow		0.6937630817580087	0.5854186976530774	28.142857142857142	86.5
+mammal	lamprey	mammal	besthit	all	BP	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	besthit	all	BP	mid		0.07150168565197297	0.08066872760522786	31.96638655462185	56.0
+mammal	lamprey	mammal	besthit	all	BP	shallow		0.24460350368260206	0.3122561406324062	308.425	56.0
+mammal	lamprey	mammal	besthit	all	CC	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	besthit	all	CC	mid		0.14432763004191576	0.162742754703539	3.588888888888889	56.0
+mammal	lamprey	mammal	besthit	all	CC	shallow		0.369723235835316	0.4244786044217092	29.899159663865547	56.0
+mammal	lamprey	mammal	besthit	all	MF	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	besthit	all	MF	mid		0.271889266407983	0.2053496153633114	4.956896551724138	56.0
+mammal	lamprey	mammal	besthit	all	MF	shallow		0.5590995333903362	0.5455631003380264	28.142857142857142	56.0
+mammal	lamprey	mammal	rbh	all	BP	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	rbh	all	BP	mid		0.0457874097738656	0.05446979848233217	31.96638655462185	56.0
+mammal	lamprey	mammal	rbh	all	BP	shallow		0.18983559118560578	0.2658064602176388	308.425	56.0
+mammal	lamprey	mammal	rbh	all	CC	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	rbh	all	CC	mid		0.08523843880986737	0.10411104399476492	3.755813953488372	56.0
+mammal	lamprey	mammal	rbh	all	CC	shallow		0.2863647054787606	0.3620160918896244	30.41025641025641	56.0
+mammal	lamprey	mammal	rbh	all	MF	deep			0.0	0.0	56.0
+mammal	lamprey	mammal	rbh	all	MF	mid		0.10716207900746788	0.10551440439308936	5.2272727272727275	56.0
+mammal	lamprey	mammal	rbh	all	MF	shallow		0.3821929080227906	0.4439445601366751	28.142857142857142	56.0
+mammal	opossum	mammal	besthit	all	BP	deep			0.0	0.0	77.5
+mammal	opossum	mammal	besthit	all	BP	mid		0.17322409508181696	0.16442371320072016	31.7	77.5
+mammal	opossum	mammal	besthit	all	BP	shallow		0.42231036809999817	0.4615802262069802	308.425	77.5
+mammal	opossum	mammal	besthit	all	CC	deep			0.0	0.0	77.5
+mammal	opossum	mammal	besthit	all	CC	mid		0.29621770425341853	0.22823625762746313	3.3645833333333335	77.5
+mammal	opossum	mammal	besthit	all	CC	shallow		0.5517524218807703	0.5202699111655961	30.152542372881356	77.5
+mammal	opossum	mammal	besthit	all	MF	deep			0.0	0.0	77.5
+mammal	opossum	mammal	besthit	all	MF	mid		0.48548939667595264	0.23857764190751404	4.872881355932203	77.5
+mammal	opossum	mammal	besthit	all	MF	shallow		0.729709825031347	0.5982680825678566	28.142857142857142	77.5
+mammal	opossum	mammal	rbh	all	BP	deep			0.0	0.0	77.5
+mammal	opossum	mammal	rbh	all	BP	mid		0.1495825707612731	0.15841984163561706	31.7	77.5
+mammal	opossum	mammal	rbh	all	BP	shallow		0.40015908544102646	0.4612885197275927	308.425	77.5
+mammal	opossum	mammal	rbh	all	CC	deep			0.0	0.0	77.5
+mammal	opossum	mammal	rbh	all	CC	mid		0.2318327836184979	0.19015092225031374	3.4731182795698925	77.5
+mammal	opossum	mammal	rbh	all	CC	shallow		0.536077570186425	0.5518271073641166	30.67241379310345	77.5
+mammal	opossum	mammal	rbh	all	MF	deep			0.0	0.0	77.5
+mammal	opossum	mammal	rbh	all	MF	mid		0.4260640498948502	0.24708363942152017	4.872881355932203	77.5
+mammal	opossum	mammal	rbh	all	MF	shallow		0.6511723617908398	0.5950643129588795	28.142857142857142	77.5
+mammal	pig	mammal	besthit	all	BP	deep			0.0	0.0	85.2
+mammal	pig	mammal	besthit	all	BP	mid		0.19007880935097718	0.1752187704295398	31.7	85.2
+mammal	pig	mammal	besthit	all	BP	shallow		0.4428321468913074	0.4758251786460785	308.425	85.2
+mammal	pig	mammal	besthit	all	CC	deep			0.0	0.0	85.2
+mammal	pig	mammal	besthit	all	CC	mid		0.31691876245447675	0.22152332832729243	3.329896907216495	85.2
+mammal	pig	mammal	besthit	all	CC	shallow		0.5789975376604919	0.542108815444589	30.41025641025641	85.2
+mammal	pig	mammal	besthit	all	MF	deep			0.0	0.0	85.2
+mammal	pig	mammal	besthit	all	MF	mid		0.5073144991828733	0.2574971057509658	4.872881355932203	85.2
+mammal	pig	mammal	besthit	all	MF	shallow		0.7237138299509971	0.6074533078421067	28.142857142857142	85.2
+mammal	pig	mammal	besthit	exp	BP	mid		0.0	0.0	67.16666666666667	85.2
+mammal	pig	mammal	besthit	exp	BP	shallow		0.0028641398617620666	0.005637630952593683	561.3333333333334	85.2
+mammal	pig	mammal	besthit	exp	CC	mid		0.0	0.0	4.111111111111111	85.2
+mammal	pig	mammal	besthit	exp	CC	shallow		0.20178361943067824	0.14200543995648035	37.77777777777778	85.2
+mammal	pig	mammal	besthit	exp	MF	mid		0.0	0.0	14.75	85.2
+mammal	pig	mammal	besthit	exp	MF	shallow		0.04033084914182475	0.07292946780706297	43.333333333333336	85.2
+mammal	pig	mammal	rbh	all	BP	deep			0.0	0.0	85.2
+mammal	pig	mammal	rbh	all	BP	mid		0.17719646675480433	0.17355896225305834	31.7	85.2
+mammal	pig	mammal	rbh	all	BP	shallow		0.42679904777346195	0.4754643180547331	308.425	85.2
+mammal	pig	mammal	rbh	all	CC	deep			0.0	0.0	85.2
+mammal	pig	mammal	rbh	all	CC	mid		0.2836846354703497	0.2112584732657504	3.329896907216495	85.2
+mammal	pig	mammal	rbh	all	CC	shallow		0.5432315889649535	0.5352778631334392	30.41025641025641	85.2
+mammal	pig	mammal	rbh	all	MF	deep			0.0	0.0	85.2
+mammal	pig	mammal	rbh	all	MF	mid		0.46893304854065715	0.2592749402333354	4.872881355932203	85.2
+mammal	pig	mammal	rbh	all	MF	shallow		0.6930946937847547	0.6225216976720416	28.142857142857142	85.2
+mammal	pig	mammal	rbh	exp	BP	mid		0.0	0.0	67.16666666666667	85.2
+mammal	pig	mammal	rbh	exp	BP	shallow		0.0014546965918536834	0.0028806584362139833	561.3333333333334	85.2
+mammal	pig	mammal	rbh	exp	CC	mid		0.0	0.0	4.111111111111111	85.2
+mammal	pig	mammal	rbh	exp	CC	shallow		0.21188462953168835	0.16052395847499884	37.77777777777778	85.2
+mammal	pig	mammal	rbh	exp	MF	mid		0.0	0.0	12.5	85.2
+mammal	pig	mammal	rbh	exp	MF	shallow		0.0	0.0	39.714285714285715	85.2
+mammal	platypus	mammal	besthit	all	BP	deep			0.0	0.0	75.6
+mammal	platypus	mammal	besthit	all	BP	mid		0.17446609697421486	0.16490760090898388	31.7	75.6
+mammal	platypus	mammal	besthit	all	BP	shallow		0.43371907230070245	0.46331515804502094	308.425	75.6
+mammal	platypus	mammal	besthit	all	CC	deep			0.0	0.0	75.6
+mammal	platypus	mammal	besthit	all	CC	mid		0.3429013777228063	0.25265322817264707	3.329896907216495	75.6
+mammal	platypus	mammal	besthit	all	CC	shallow		0.5337937098481256	0.5059926280435304	29.65	75.6
+mammal	platypus	mammal	besthit	all	MF	deep			0.0	0.0	75.6
+mammal	platypus	mammal	besthit	all	MF	mid		0.533580446735996	0.26611217289873923	4.872881355932203	75.6
+mammal	platypus	mammal	besthit	all	MF	shallow		0.7188472542753407	0.6011623471013584	28.142857142857142	75.6
+mammal	platypus	mammal	rbh	all	BP	deep			0.0	0.0	75.6
+mammal	platypus	mammal	rbh	all	BP	mid		0.15450661673214933	0.16077713276939615	31.7	75.6
+mammal	platypus	mammal	rbh	all	BP	shallow		0.4009143814633402	0.4591608542280857	308.425	75.6
+mammal	platypus	mammal	rbh	all	CC	deep			0.0	0.0	75.6
+mammal	platypus	mammal	rbh	all	CC	mid		0.29592480931766646	0.23801592698725182	3.4731182795698925	75.6
+mammal	platypus	mammal	rbh	all	CC	shallow		0.5265722127398408	0.5365144147634249	30.67241379310345	75.6
+mammal	platypus	mammal	rbh	all	MF	deep			0.0	0.0	75.6
+mammal	platypus	mammal	rbh	all	MF	mid		0.4684719417844007	0.278268133395452	4.872881355932203	75.6
+mammal	platypus	mammal	rbh	all	MF	shallow		0.6690106058574572	0.6101988371734258	28.142857142857142	75.6
+mammal	rabbit	mammal	besthit	all	BP	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	besthit	all	BP	mid		0.16414246313085562	0.16496270315373915	31.7	85.2
+mammal	rabbit	mammal	besthit	all	BP	shallow		0.4200235941798945	0.4649722129359676	308.425	85.2
+mammal	rabbit	mammal	besthit	all	CC	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	besthit	all	CC	mid		0.2323047653404796	0.17480349540914938	3.329896907216495	85.2
+mammal	rabbit	mammal	besthit	all	CC	shallow		0.5065303232684049	0.49053309535711004	29.65	85.2
+mammal	rabbit	mammal	besthit	all	MF	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	besthit	all	MF	mid		0.41576914470830406	0.22668511122236268	4.914529914529915	85.2
+mammal	rabbit	mammal	besthit	all	MF	shallow		0.6514271190341929	0.564410066982846	28.142857142857142	85.2
+mammal	rabbit	mammal	besthit	exp	BP	mid		0.0	0.0	88.0	85.2
+mammal	rabbit	mammal	besthit	exp	BP	shallow		0.011749177773931075	0.02266776526595255	398.5	85.2
+mammal	rabbit	mammal	besthit	exp	CC	mid		0.0	0.0	3.2	85.2
+mammal	rabbit	mammal	besthit	exp	CC	shallow		0.07773109243697478	0.11146384479717814	50.666666666666664	85.2
+mammal	rabbit	mammal	besthit	exp	MF	mid		0.0	0.0	11.0	85.2
+mammal	rabbit	mammal	besthit	exp	MF	shallow		0.14430454110899973	0.18504595481635414	45.5	85.2
+mammal	rabbit	mammal	rbh	all	BP	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	rbh	all	BP	mid		0.15105184388721915	0.15948643700020526	31.7	85.2
+mammal	rabbit	mammal	rbh	all	BP	shallow		0.3900720433240255	0.45405698717320425	308.425	85.2
+mammal	rabbit	mammal	rbh	all	CC	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	rbh	all	CC	mid		0.1957255376898234	0.165413469026001	3.510869565217391	85.2
+mammal	rabbit	mammal	rbh	all	CC	shallow		0.49197970707860045	0.5218769531717252	30.152542372881356	85.2
+mammal	rabbit	mammal	rbh	all	MF	deep			0.0	0.0	85.2
+mammal	rabbit	mammal	rbh	all	MF	mid		0.32218008582231306	0.2150578580198779	4.956896551724138	85.2
+mammal	rabbit	mammal	rbh	all	MF	shallow		0.5911389370685329	0.5642215324455109	28.142857142857142	85.2
+mammal	rabbit	mammal	rbh	exp	BP	mid		0.0	0.0	87.0	85.2
+mammal	rabbit	mammal	rbh	exp	BP	shallow		0.020440251572327	0.03927492447129905	501.5	85.2
+mammal	rabbit	mammal	rbh	exp	CC	mid		0.0	0.0	3.2	85.2
+mammal	rabbit	mammal	rbh	exp	CC	shallow		0.07633053221288513	0.1092158256337361	50.666666666666664	85.2
+mammal	rabbit	mammal	rbh	exp	MF	mid		0.0	0.0	10.3	85.2
+mammal	rabbit	mammal	rbh	exp	MF	shallow		0.14005837059115747	0.16798921417565485	42.27272727272727	85.2
+mammal	rat	mammal	besthit	all	BP	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	all	BP	mid		0.8918022035259018	0.4150863228762289	31.7	94.5
+mammal	rat	mammal	besthit	all	BP	shallow		0.8919759335671068	0.6333825004579992	308.425	94.5
+mammal	rat	mammal	besthit	all	CC	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	all	CC	mid		0.8772860406788978	0.4026196738059772	3.047169811320755	94.5
+mammal	rat	mammal	besthit	all	CC	shallow		0.7507995488773795	0.5431350732271446	29.65	94.5
+mammal	rat	mammal	besthit	all	MF	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	all	MF	mid		0.8712294357125017	0.30148123740298366	4.872881355932203	94.5
+mammal	rat	mammal	besthit	all	MF	shallow		0.8670941146069818	0.6047786952250556	27.908333333333335	94.5
+mammal	rat	mammal	besthit	exp	BP	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	exp	BP	mid		0.03666321874153924	0.04715722546944285	31.96638655462185	94.5
+mammal	rat	mammal	besthit	exp	BP	shallow		0.17127276811568568	0.24043448079753565	308.425	94.5
+mammal	rat	mammal	besthit	exp	CC	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	exp	CC	mid		0.08232497087918775	0.08330178865062586	3.7325581395348837	94.5
+mammal	rat	mammal	besthit	exp	CC	shallow		0.2820363010184779	0.326623795055311	30.353448275862068	94.5
+mammal	rat	mammal	besthit	exp	MF	deep			0.0	0.0	94.5
+mammal	rat	mammal	besthit	exp	MF	mid		0.1522231016335237	0.14149895940165072	5.466666666666667	94.5
+mammal	rat	mammal	besthit	exp	MF	shallow		0.3397556669675677	0.39187206489170934	28.564102564102566	94.5
+mammal	rat	mammal	rbh	all	BP	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	all	BP	mid		0.8635368934666037	0.42945270713226963	31.7	94.5
+mammal	rat	mammal	rbh	all	BP	shallow		0.8858211162680757	0.6568284254144311	308.425	94.5
+mammal	rat	mammal	rbh	all	CC	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	all	CC	mid		0.8174787844430702	0.39009170633143836	3.047169811320755	94.5
+mammal	rat	mammal	rbh	all	CC	shallow		0.7694014653400795	0.5632717458641088	29.65	94.5
+mammal	rat	mammal	rbh	all	MF	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	all	MF	mid		0.8633730945228271	0.3063554539538349	4.872881355932203	94.5
+mammal	rat	mammal	rbh	all	MF	shallow		0.8581079084162775	0.6267341484526125	28.142857142857142	94.5
+mammal	rat	mammal	rbh	exp	BP	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	exp	BP	mid		0.033740646407912994	0.043087513536314605	31.96638655462185	94.5
+mammal	rat	mammal	rbh	exp	BP	shallow		0.16570266291341718	0.23447530933591013	308.425	94.5
+mammal	rat	mammal	rbh	exp	CC	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	exp	CC	mid		0.08232497087918775	0.08341253062183294	3.7325581395348837	94.5
+mammal	rat	mammal	rbh	exp	CC	shallow		0.27657488003798497	0.3224703120598763	30.617391304347827	94.5
+mammal	rat	mammal	rbh	exp	MF	deep			0.0	0.0	94.5
+mammal	rat	mammal	rbh	exp	MF	mid		0.15369702453601802	0.14756576619195075	5.572815533980583	94.5
+mammal	rat	mammal	rbh	exp	MF	shallow		0.33269460243296106	0.3858639330662457	28.564102564102566	94.5
+mammal	seaurchin	mammal	besthit	all	BP	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	besthit	all	BP	mid		0.08275297852551354	0.09820530021243602	31.7	48.0
+mammal	seaurchin	mammal	besthit	all	BP	shallow		0.2541390270316028	0.3257399570070211	308.425	48.0
+mammal	seaurchin	mammal	besthit	all	CC	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	besthit	all	CC	mid		0.18957044939187795	0.200420952873106	3.6704545454545454	48.0
+mammal	seaurchin	mammal	besthit	all	CC	shallow		0.38008928053239194	0.419356037784071	30.152542372881356	48.0
+mammal	seaurchin	mammal	besthit	all	MF	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	besthit	all	MF	mid		0.2725479412645188	0.20147101674816542	4.956896551724138	48.0
+mammal	seaurchin	mammal	besthit	all	MF	shallow		0.5267852167795862	0.5176249694771423	28.142857142857142	48.0
+mammal	seaurchin	mammal	rbh	all	BP	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	rbh	all	BP	mid		0.05384812060637539	0.06614204112674738	31.7	48.0
+mammal	seaurchin	mammal	rbh	all	BP	shallow		0.19996353274974477	0.2723436809409849	308.425	48.0
+mammal	seaurchin	mammal	rbh	all	CC	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	rbh	all	CC	mid		0.09814148368365234	0.10658739408739408	3.8333333333333335	48.0
+mammal	seaurchin	mammal	rbh	all	CC	shallow		0.2786638588740143	0.34173516867976744	30.878260869565217	48.0
+mammal	seaurchin	mammal	rbh	all	MF	deep			0.0	0.0	48.0
+mammal	seaurchin	mammal	rbh	all	MF	mid		0.10324311441575493	0.10771530718092524	5.287037037037037	48.0
+mammal	seaurchin	mammal	rbh	all	MF	shallow		0.3777428650295991	0.41896648384515384	28.495726495726494	48.0
+mammal	xenopus	mammal	besthit	all	BP	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	besthit	all	BP	mid		0.08961761565445979	0.1094956678643416	31.7	67.4
+mammal	xenopus	mammal	besthit	all	BP	shallow		0.31463867573654886	0.39526934481874315	308.425	67.4
+mammal	xenopus	mammal	besthit	all	CC	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	besthit	all	CC	mid		0.16667267917267917	0.15485273198039154	3.4361702127659575	67.4
+mammal	xenopus	mammal	besthit	all	CC	shallow		0.46292712654308266	0.5147596064720278	30.67241379310345	67.4
+mammal	xenopus	mammal	besthit	all	MF	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	besthit	all	MF	mid		0.39582169475803963	0.27495342739173406	4.914529914529915	67.4
+mammal	xenopus	mammal	besthit	all	MF	shallow		0.6485301125458746	0.5965382745599085	28.142857142857142	67.4
+mammal	xenopus	mammal	besthit	exp	BP	mid		0.0	0.0	77.57142857142857	67.4
+mammal	xenopus	mammal	besthit	exp	BP	shallow		0.0	0.0	718.1428571428571	67.4
+mammal	xenopus	mammal	besthit	exp	MF	mid		0.0	0.0	11.0	67.4
+mammal	xenopus	mammal	besthit	exp	MF	shallow		0.0	0.0	47.0	67.4
+mammal	xenopus	mammal	rbh	all	BP	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	rbh	all	BP	mid		0.06404511087664222	0.087155170528108	31.7	67.4
+mammal	xenopus	mammal	rbh	all	BP	shallow		0.2892322916034794	0.3776688920341679	308.425	67.4
+mammal	xenopus	mammal	rbh	all	CC	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	rbh	all	CC	mid		0.1472282347282347	0.1509305719532992	3.6704545454545454	67.4
+mammal	xenopus	mammal	rbh	all	CC	shallow		0.4262558648109673	0.4940769195815533	30.93913043478261	67.4
+mammal	xenopus	mammal	rbh	all	MF	deep			0.0	0.0	67.4
+mammal	xenopus	mammal	rbh	all	MF	mid		0.32321353930909236	0.25646898920125105	4.914529914529915	67.4
+mammal	xenopus	mammal	rbh	all	MF	shallow		0.5609276794667281	0.5721059097207948	28.142857142857142	67.4
+mammal	xenopus	mammal	rbh	exp	BP	mid		0.0	0.0	105.25	67.4
+mammal	xenopus	mammal	rbh	exp	BP	shallow		0.0	0.0	880.0	67.4
+mammal	yeast	mammal	besthit	all	BP	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	all	BP	mid		0.07926987625380333	0.07695200534405539	34.352380952380955	37.7
+mammal	yeast	mammal	besthit	all	BP	shallow		0.19205419394990805	0.21629623218415978	319.51428571428573	37.7
+mammal	yeast	mammal	besthit	all	CC	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	all	CC	mid		0.12026420217209689	0.1066583089098617	3.6785714285714284	37.7
+mammal	yeast	mammal	besthit	all	CC	shallow		0.21858078639374023	0.24831677154064602	32.9009900990099	37.7
+mammal	yeast	mammal	besthit	all	MF	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	all	MF	mid		0.12181898119462618	0.09677809357505875	5.372549019607843	37.7
+mammal	yeast	mammal	besthit	all	MF	shallow		0.28848665059748174	0.3051376967908192	29.6	37.7
+mammal	yeast	mammal	besthit	exp	BP	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	exp	BP	mid		0.05658780425124897	0.053763280532567875	34.352380952380955	37.7
+mammal	yeast	mammal	besthit	exp	BP	shallow		0.15558732674697412	0.18012968849494568	319.51428571428573	37.7
+mammal	yeast	mammal	besthit	exp	CC	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	exp	CC	mid		0.10968567251461987	0.09653194611177804	3.6785714285714284	37.7
+mammal	yeast	mammal	besthit	exp	CC	shallow		0.1611640817825872	0.19502645808490393	33.2	37.7
+mammal	yeast	mammal	besthit	exp	MF	deep			0.0	0.0	37.7
+mammal	yeast	mammal	besthit	exp	MF	mid		0.09700817471715303	0.10002445324993832	5.425742574257426	37.7
+mammal	yeast	mammal	besthit	exp	MF	shallow		0.24780034592460135	0.2976404304168614	30.174757281553397	37.7
+mammal	yeast	mammal	rbh	all	BP	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	all	BP	mid		0.0655166202264036	0.06898661137886437	35.17567567567568	37.7
+mammal	yeast	mammal	rbh	all	BP	shallow		0.1818254124555204	0.22752509218536712	271.7567567567568	37.7
+mammal	yeast	mammal	rbh	all	CC	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	all	CC	mid		0.08871252204585538	0.09199557182726889	4.2727272727272725	37.7
+mammal	yeast	mammal	rbh	all	CC	shallow		0.20964316723414136	0.2589915319333632	32.47945205479452	37.7
+mammal	yeast	mammal	rbh	all	MF	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	all	MF	mid		0.021713987287757777	0.02886474765344734	6.205882352941177	37.7
+mammal	yeast	mammal	rbh	all	MF	shallow		0.2254644872738405	0.2655123354732673	30.89041095890411	37.7
+mammal	yeast	mammal	rbh	exp	BP	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	exp	BP	mid		0.044534475419608505	0.038207377960470676	35.178082191780824	37.7
+mammal	yeast	mammal	rbh	exp	BP	shallow		0.14820133155332157	0.19258327132870087	272.64383561643837	37.7
+mammal	yeast	mammal	rbh	exp	CC	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	exp	CC	mid		0.08699294532627866	0.09075412510195119	4.2727272727272725	37.7
+mammal	yeast	mammal	rbh	exp	CC	shallow		0.143524436480544	0.1882594780448729	33.785714285714285	37.7
+mammal	yeast	mammal	rbh	exp	MF	deep			0.0	0.0	37.7
+mammal	yeast	mammal	rbh	exp	MF	mid		0.006452455590386624	0.008386688008536746	6.476190476190476	37.7
+mammal	yeast	mammal	rbh	exp	MF	shallow		0.20642488782343302	0.26048616742844893	31.66176470588235	37.7
+mammal	zebrafish	mammal	besthit	all	BP	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	besthit	all	BP	mid		0.06675661430521711	0.08456323725987729	32.23728813559322	62.6
+mammal	zebrafish	mammal	besthit	all	BP	shallow		0.3059100186325599	0.3763891430841039	308.425	62.6
+mammal	zebrafish	mammal	besthit	all	CC	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	besthit	all	CC	mid		0.08324915824915824	0.08657742744223132	3.6292134831460676	62.6
+mammal	zebrafish	mammal	besthit	all	CC	shallow		0.4152913887053826	0.4620088276959074	30.41025641025641	62.6
+mammal	zebrafish	mammal	besthit	all	MF	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	besthit	all	MF	mid		0.25847061374549885	0.2203649884962207	5.088495575221239	62.6
+mammal	zebrafish	mammal	besthit	all	MF	shallow		0.553646473895016	0.5443255506820445	27.908333333333335	62.6
+mammal	zebrafish	mammal	besthit	exp	BP	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	besthit	exp	BP	mid		0.003801509925158307	0.006119151525774355	32.69827586206897	62.6
+mammal	zebrafish	mammal	besthit	exp	BP	shallow		0.07353596398650036	0.11082230708706528	312.364406779661	62.6
+mammal	zebrafish	mammal	besthit	exp	CC	mid		0.0	0.0	4.840909090909091	62.6
+mammal	zebrafish	mammal	besthit	exp	CC	shallow		0.07259288869164969	0.10443699073506568	42.82	62.6
+mammal	zebrafish	mammal	besthit	exp	MF	mid		0.007567378591406051	0.012329670897445832	6.840579710144928	62.6
+mammal	zebrafish	mammal	besthit	exp	MF	shallow		0.09446848736088194	0.14346525520750156	33.12820512820513	62.6
+mammal	zebrafish	mammal	rbh	all	BP	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	rbh	all	BP	mid		0.05025751582636044	0.06863207192102894	32.23728813559322	62.6
+mammal	zebrafish	mammal	rbh	all	BP	shallow		0.26462422080441617	0.3437868035641625	308.425	62.6
+mammal	zebrafish	mammal	rbh	all	CC	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	rbh	all	CC	mid		0.057181508967223245	0.0629987550575786	3.8	62.6
+mammal	zebrafish	mammal	rbh	all	CC	shallow		0.35249262853754487	0.42264102818667243	30.67241379310345	62.6
+mammal	zebrafish	mammal	rbh	all	MF	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	rbh	all	MF	mid		0.19302135260714864	0.1901898071946642	5.275229357798165	62.6
+mammal	zebrafish	mammal	rbh	all	MF	shallow		0.4745260985631033	0.5159714075501031	28.142857142857142	62.6
+mammal	zebrafish	mammal	rbh	exp	BP	deep			0.0	0.0	62.6
+mammal	zebrafish	mammal	rbh	exp	BP	mid		0.002021070643763278	0.003371144100666608	33.00877192982456	62.6
+mammal	zebrafish	mammal	rbh	exp	BP	shallow		0.053993831599511134	0.08489900054858449	315.1034482758621	62.6
+mammal	zebrafish	mammal	rbh	exp	CC	mid		0.0	0.0	4.894736842105263	62.6
+mammal	zebrafish	mammal	rbh	exp	CC	shallow		0.057017810233601925	0.08959682322051161	45.285714285714285	62.6
+mammal	zebrafish	mammal	rbh	exp	MF	mid		0.0	0.0	6.841269841269841	62.6
+mammal	zebrafish	mammal	rbh	exp	MF	shallow		0.06110694840364887	0.1014348279938085	33.6	62.6
+plant_rice	amborella	plant	besthit	all	BP	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	besthit	all	BP	shallow		0.3715000840396886	0.4188063860706206	60.85245901639344	61.8
+plant_rice	amborella	plant	besthit	all	CC	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	besthit	all	CC	shallow		0.22487443201499682	0.25314710152330977	7.586956521739131	61.8
+plant_rice	amborella	plant	besthit	all	MF	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	besthit	all	MF	shallow		0.6179992628476831	0.39440861845204855	8.721311475409836	61.8
+plant_rice	amborella	plant	rbh	all	BP	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	rbh	all	BP	shallow		0.2954164298747682	0.3720124373060654	60.85245901639344	61.8
+plant_rice	amborella	plant	rbh	all	CC	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	rbh	all	CC	shallow		0.33789550218993847	0.3329748190598435	7.291666666666667	61.8
+plant_rice	amborella	plant	rbh	all	MF	mid			0.0	0.0	61.8
+plant_rice	amborella	plant	rbh	all	MF	shallow		0.4582765475303162	0.3248267693634622	8.721311475409836	61.8
+plant_rice	arabidopsis	plant	besthit	all	BP	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	all	BP	shallow		0.6126656391338519	0.4606038586998553	60.85245901639344	60.6
+plant_rice	arabidopsis	plant	besthit	all	CC	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	all	CC	shallow		0.14046343053747795	0.16344559763037256	7.608695652173913	60.6
+plant_rice	arabidopsis	plant	besthit	all	MF	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	all	MF	shallow		0.6579009664915625	0.3700890655202081	8.721311475409836	60.6
+plant_rice	arabidopsis	plant	besthit	exp	BP	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	exp	BP	shallow		0.5463063763524555	0.49332767199800615	60.85245901639344	60.6
+plant_rice	arabidopsis	plant	besthit	exp	CC	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	exp	CC	shallow		0.09451705309277555	0.11298181386490756	7.777777777777778	60.6
+plant_rice	arabidopsis	plant	besthit	exp	MF	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	besthit	exp	MF	shallow		0.6239605948002556	0.39013933349631763	8.721311475409836	60.6
+plant_rice	arabidopsis	plant	rbh	all	BP	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	all	BP	shallow		0.5742926254007709	0.49950565546024284	60.85245901639344	60.6
+plant_rice	arabidopsis	plant	rbh	all	CC	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	all	CC	shallow		0.1469780501720293	0.18245181788526407	7.954545454545454	60.6
+plant_rice	arabidopsis	plant	rbh	all	MF	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	all	MF	shallow		0.5647520874251494	0.3569818623347657	8.721311475409836	60.6
+plant_rice	arabidopsis	plant	rbh	exp	BP	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	exp	BP	shallow		0.42756722438690203	0.4748782962019455	60.85245901639344	60.6
+plant_rice	arabidopsis	plant	rbh	exp	CC	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	exp	CC	shallow		0.19160016464917995	0.21192778744266158	7.954545454545454	60.6
+plant_rice	arabidopsis	plant	rbh	exp	MF	mid			0.0	0.0	60.6
+plant_rice	arabidopsis	plant	rbh	exp	MF	shallow		0.4582854103438199	0.3389170031108845	8.721311475409836	60.6
+plant_rice	brachypodium	plant	besthit	all	BP	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	besthit	all	BP	shallow		0.40930794329092274	0.4536135292225679	60.85245901639344	77.6
+plant_rice	brachypodium	plant	besthit	all	CC	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	besthit	all	CC	shallow		0.22915882060892864	0.1876193690392273	7.142857142857143	77.6
+plant_rice	brachypodium	plant	besthit	all	MF	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	besthit	all	MF	shallow		0.553699109173849	0.3886139516886127	8.721311475409836	77.6
+plant_rice	brachypodium	plant	rbh	all	BP	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	rbh	all	BP	shallow		0.3433953907611693	0.40663441486295193	60.85245901639344	77.6
+plant_rice	brachypodium	plant	rbh	all	CC	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	rbh	all	CC	shallow		0.1827920298962755	0.15779985395842533	7.608695652173913	77.6
+plant_rice	brachypodium	plant	rbh	all	MF	mid			0.0	0.0	77.6
+plant_rice	brachypodium	plant	rbh	all	MF	shallow		0.4756059584821761	0.3274403541265521	8.866666666666667	77.6
+plant_rice	chlamydomonas	plant	besthit	all	BP	mid			0.0	0.0	46.3
+plant_rice	chlamydomonas	plant	besthit	all	BP	shallow		0.19095223673206516	0.2474199869966053	62.604166666666664	46.3
+plant_rice	chlamydomonas	plant	besthit	all	CC	mid			0.0	0.0	46.3
+plant_rice	chlamydomonas	plant	besthit	all	CC	shallow		0.2316459802499597	0.17940241722850417	7.380952380952381	46.3
+plant_rice	chlamydomonas	plant	besthit	all	MF	mid			0.0	0.0	46.3
+plant_rice	chlamydomonas	plant	besthit	all	MF	shallow		0.2464855913682722	0.17775746180741642	8.716981132075471	46.3
+plant_rice	chlamydomonas	plant	rbh	all	BP	mid			0.0	0.0	46.3
+plant_rice	chlamydomonas	plant	rbh	all	BP	shallow		0.05063479060309157	0.07668095837809957	64.44117647058823	46.3
+plant_rice	chlamydomonas	plant	rbh	all	CC	shallow		0.025510204081632647	0.04090909090909091	11.136363636363637	46.3
+plant_rice	chlamydomonas	plant	rbh	all	MF	mid			0.0	0.0	46.3
+plant_rice	chlamydomonas	plant	rbh	all	MF	shallow		0.09642865867510897	0.12017108106851697	10.435897435897436	46.3
+plant_rice	grape	plant	besthit	all	BP	mid			0.0	0.0	62.8
+plant_rice	grape	plant	besthit	all	BP	shallow		0.4210407509927379	0.43783268934320074	60.85245901639344	62.8
+plant_rice	grape	plant	besthit	all	CC	mid			0.0	0.0	62.8
+plant_rice	grape	plant	besthit	all	CC	shallow		0.22466645868090807	0.25951293408015574	7.954545454545454	62.8
+plant_rice	grape	plant	besthit	all	MF	mid			0.0	0.0	62.8
+plant_rice	grape	plant	besthit	all	MF	shallow		0.6604401210108829	0.4174558705361446	8.721311475409836	62.8
+plant_rice	grape	plant	rbh	all	BP	mid			0.0	0.0	62.8
+plant_rice	grape	plant	rbh	all	BP	shallow		0.3708834723271608	0.42940952245388947	60.85245901639344	62.8
+plant_rice	grape	plant	rbh	all	CC	mid			0.0	0.0	62.8
+plant_rice	grape	plant	rbh	all	CC	shallow		0.35647314051537726	0.3312748354675154	6.60377358490566	62.8
+plant_rice	grape	plant	rbh	all	MF	mid			0.0	0.0	62.8
+plant_rice	grape	plant	rbh	all	MF	shallow		0.4692953030257189	0.33488531919332326	8.721311475409836	62.8
+plant_rice	leersia	plant	besthit	all	BP	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	besthit	all	BP	shallow		0.45556999269900783	0.48872079932973733	60.85245901639344	84.5
+plant_rice	leersia	plant	besthit	all	CC	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	besthit	all	CC	shallow		0.22766152815113333	0.18777503927724867	7.608695652173913	84.5
+plant_rice	leersia	plant	besthit	all	MF	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	besthit	all	MF	shallow		0.5818531595569634	0.39618608189754806	8.721311475409836	84.5
+plant_rice	leersia	plant	rbh	all	BP	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	rbh	all	BP	shallow		0.3614425835503077	0.4129623643222646	60.85245901639344	84.5
+plant_rice	leersia	plant	rbh	all	CC	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	rbh	all	CC	shallow		0.1984915814223244	0.18178220579495122	7.777777777777778	84.5
+plant_rice	leersia	plant	rbh	all	MF	mid			0.0	0.0	84.5
+plant_rice	leersia	plant	rbh	all	MF	shallow		0.5105398854903466	0.3541960933956601	8.721311475409836	84.5
+plant_rice	maize	plant	besthit	all	BP	mid			0.0	0.0	76.8
+plant_rice	maize	plant	besthit	all	BP	shallow		0.5593944852639203	0.5571969559136174	60.85245901639344	76.8
+plant_rice	maize	plant	besthit	all	CC	mid			0.0	0.0	76.8
+plant_rice	maize	plant	besthit	all	CC	shallow		0.24103059585206063	0.22420404430366261	8.097560975609756	76.8
+plant_rice	maize	plant	besthit	all	MF	mid			0.0	0.0	76.8
+plant_rice	maize	plant	besthit	all	MF	shallow		0.6275431231772207	0.3979360261651029	8.721311475409836	76.8
+plant_rice	maize	plant	besthit	exp	BP	shallow		0.013279924873175069	0.02528837689923072	96.2	76.8
+plant_rice	maize	plant	besthit	exp	CC	shallow		0.0	0.0	45.0	76.8
+plant_rice	maize	plant	besthit	exp	MF	shallow		0.01727621037965865	0.03215890967087138	12.727272727272727	76.8
+plant_rice	maize	plant	rbh	all	BP	mid			0.0	0.0	76.8
+plant_rice	maize	plant	rbh	all	BP	shallow		0.5096215856718574	0.5283513285131195	60.85245901639344	76.8
+plant_rice	maize	plant	rbh	all	CC	mid			0.0	0.0	76.8
+plant_rice	maize	plant	rbh	all	CC	shallow		0.20509409097342343	0.20274715780561828	8.15	76.8
+plant_rice	maize	plant	rbh	all	MF	mid			0.0	0.0	76.8
+plant_rice	maize	plant	rbh	all	MF	shallow		0.592576089468104	0.3877546846597264	8.721311475409836	76.8
+plant_rice	maize	plant	rbh	exp	BP	shallow		0.0037012654524175223	0.007275300778485477	91.77777777777777	76.8
+plant_rice	maize	plant	rbh	exp	MF	shallow		0.03259897828863345	0.06031746031746029	20.833333333333332	76.8
+plant_rice	marchantia	plant	besthit	all	BP	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	besthit	all	BP	shallow		0.28666283994672276	0.3292092125354728	60.85245901639344	55.3
+plant_rice	marchantia	plant	besthit	all	CC	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	besthit	all	CC	shallow		0.4209078553512474	0.348433160830285	6.730769230769231	55.3
+plant_rice	marchantia	plant	besthit	all	MF	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	besthit	all	MF	shallow		0.5921582671087282	0.4111219796002677	8.721311475409836	55.3
+plant_rice	marchantia	plant	rbh	all	BP	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	rbh	all	BP	shallow		0.13107491178498273	0.19535694874003293	62.74074074074074	55.3
+plant_rice	marchantia	plant	rbh	all	CC	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	rbh	all	CC	shallow		0.09828305519897303	0.1161072261072261	8.425	55.3
+plant_rice	marchantia	plant	rbh	all	MF	mid			0.0	0.0	55.3
+plant_rice	marchantia	plant	rbh	all	MF	shallow		0.21735702921458028	0.2082967198853203	9.454545454545455	55.3
+plant_rice	moss	plant	besthit	all	BP	mid			0.0	0.0	54.8
+plant_rice	moss	plant	besthit	all	BP	shallow		0.2690597655025196	0.3210268965205044	60.85245901639344	54.8
+plant_rice	moss	plant	besthit	all	CC	mid			0.0	0.0	54.8
+plant_rice	moss	plant	besthit	all	CC	shallow		0.42633218357215663	0.35008806702607614	6.60377358490566	54.8
+plant_rice	moss	plant	besthit	all	MF	mid			0.0	0.0	54.8
+plant_rice	moss	plant	besthit	all	MF	shallow		0.5715844932010345	0.41005843851595664	8.721311475409836	54.8
+plant_rice	moss	plant	rbh	all	BP	mid			0.0	0.0	54.8
+plant_rice	moss	plant	rbh	all	BP	shallow		0.14224021359185476	0.20022713869123365	60.98275862068966	54.8
+plant_rice	moss	plant	rbh	all	CC	mid			0.0	0.0	54.8
+plant_rice	moss	plant	rbh	all	CC	shallow		0.23395123367609982	0.25614660728537614	7.608695652173913	54.8
+plant_rice	moss	plant	rbh	all	MF	mid			0.0	0.0	54.8
+plant_rice	moss	plant	rbh	all	MF	shallow		0.25023793862963833	0.21857358678549318	8.866666666666667	54.8
+plant_rice	o_barthii	plant	besthit	all	BP	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	besthit	all	BP	shallow		0.3896084329454913	0.4321779918006656	60.85245901639344	98.1
+plant_rice	o_barthii	plant	besthit	all	CC	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	besthit	all	CC	shallow		0.22372927410733853	0.18083768969658942	7.446808510638298	98.1
+plant_rice	o_barthii	plant	besthit	all	MF	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	besthit	all	MF	shallow		0.5825379290840974	0.3981211433511186	8.721311475409836	98.1
+plant_rice	o_barthii	plant	rbh	all	BP	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	rbh	all	BP	shallow		0.3598155535808975	0.410938529999196	60.85245901639344	98.1
+plant_rice	o_barthii	plant	rbh	all	CC	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	rbh	all	CC	shallow		0.20676896733207198	0.17947317533700816	7.608695652173913	98.1
+plant_rice	o_barthii	plant	rbh	all	MF	mid			0.0	0.0	98.1
+plant_rice	o_barthii	plant	rbh	all	MF	shallow		0.5443797811445688	0.3725761440687767	8.721311475409836	98.1
+plant_rice	o_brachyantha	plant	besthit	all	BP	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	besthit	all	BP	shallow		0.45021007950068964	0.48401679195984004	60.85245901639344	88.0
+plant_rice	o_brachyantha	plant	besthit	all	CC	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	besthit	all	CC	shallow		0.22863565069723682	0.1790677994286335	7.446808510638298	88.0
+plant_rice	o_brachyantha	plant	besthit	all	MF	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	besthit	all	MF	shallow		0.5937868158607816	0.40731465327112076	8.721311475409836	88.0
+plant_rice	o_brachyantha	plant	rbh	all	BP	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	rbh	all	BP	shallow		0.4044236037018625	0.4554535949047588	60.85245901639344	88.0
+plant_rice	o_brachyantha	plant	rbh	all	CC	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	rbh	all	CC	shallow		0.20004066531587744	0.17576958852951294	7.608695652173913	88.0
+plant_rice	o_brachyantha	plant	rbh	all	MF	mid			0.0	0.0	88.0
+plant_rice	o_brachyantha	plant	rbh	all	MF	shallow		0.53519831701894	0.362202257365234	8.721311475409836	88.0
+plant_rice	o_glaberrima	plant	besthit	all	BP	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	besthit	all	BP	shallow		0.38555054716679094	0.4443579746108562	60.85245901639344	99.1
+plant_rice	o_glaberrima	plant	besthit	all	CC	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	besthit	all	CC	shallow		0.23209164344531763	0.18343461201459166	7.446808510638298	99.1
+plant_rice	o_glaberrima	plant	besthit	all	MF	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	besthit	all	MF	shallow		0.590505316493779	0.39744401816438546	8.721311475409836	99.1
+plant_rice	o_glaberrima	plant	rbh	all	BP	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	rbh	all	BP	shallow		0.35471568732087644	0.413860508133325	60.85245901639344	99.1
+plant_rice	o_glaberrima	plant	rbh	all	CC	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	rbh	all	CC	shallow		0.21301569658828806	0.17358386498412073	7.608695652173913	99.1
+plant_rice	o_glaberrima	plant	rbh	all	MF	mid			0.0	0.0	99.1
+plant_rice	o_glaberrima	plant	rbh	all	MF	shallow		0.5522585575837548	0.37289868011161686	8.721311475409836	99.1
+plant_rice	o_nivara	plant	besthit	all	BP	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	besthit	all	BP	shallow		0.40167687137272556	0.453881939063711	60.85245901639344	99.0
+plant_rice	o_nivara	plant	besthit	all	CC	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	besthit	all	CC	shallow		0.23502321762168654	0.19960734674816932	7.446808510638298	99.0
+plant_rice	o_nivara	plant	besthit	all	MF	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	besthit	all	MF	shallow		0.6005510956731372	0.40485375248521926	8.721311475409836	99.0
+plant_rice	o_nivara	plant	rbh	all	BP	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	rbh	all	BP	shallow		0.4070498011281553	0.4540448958733218	60.85245901639344	99.0
+plant_rice	o_nivara	plant	rbh	all	CC	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	rbh	all	CC	shallow		0.2042454067947978	0.17590535785805173	7.608695652173913	99.0
+plant_rice	o_nivara	plant	rbh	all	MF	mid			0.0	0.0	99.0
+plant_rice	o_nivara	plant	rbh	all	MF	shallow		0.5618530238645798	0.3910608798476265	8.721311475409836	99.0
+plant_rice	o_punctata	plant	besthit	all	BP	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	besthit	all	BP	shallow		0.43438943241656636	0.47982324919958397	60.85245901639344	91.9
+plant_rice	o_punctata	plant	besthit	all	CC	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	besthit	all	CC	shallow		0.2318686799787492	0.18573714440795697	7.446808510638298	91.9
+plant_rice	o_punctata	plant	besthit	all	MF	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	besthit	all	MF	shallow		0.5967171553234926	0.40435089953352316	8.721311475409836	91.9
+plant_rice	o_punctata	plant	rbh	all	BP	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	rbh	all	BP	shallow		0.3871208467614653	0.439621595533402	60.85245901639344	91.9
+plant_rice	o_punctata	plant	rbh	all	CC	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	rbh	all	CC	shallow		0.21337829254874247	0.16994186365411265	7.608695652173913	91.9
+plant_rice	o_punctata	plant	rbh	all	MF	mid			0.0	0.0	91.9
+plant_rice	o_punctata	plant	rbh	all	MF	shallow		0.5387055123804633	0.37342832025966394	8.721311475409836	91.9
+plant_rice	o_rufipogon	plant	besthit	all	BP	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	besthit	all	BP	shallow		0.3829180956721602	0.4401117143608618	60.85245901639344	99.6
+plant_rice	o_rufipogon	plant	besthit	all	CC	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	besthit	all	CC	shallow		0.23008709683190723	0.18296201687745806	7.291666666666667	99.6
+plant_rice	o_rufipogon	plant	besthit	all	MF	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	besthit	all	MF	shallow		0.5838564449962094	0.3978645823854052	8.721311475409836	99.6
+plant_rice	o_rufipogon	plant	rbh	all	BP	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	rbh	all	BP	shallow		0.3756589864216858	0.4262029439736198	60.85245901639344	99.6
+plant_rice	o_rufipogon	plant	rbh	all	CC	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	rbh	all	CC	shallow		0.23039197488068774	0.18004130390084774	7.142857142857143	99.6
+plant_rice	o_rufipogon	plant	rbh	all	MF	mid			0.0	0.0	99.6
+plant_rice	o_rufipogon	plant	rbh	all	MF	shallow		0.531403444091414	0.3730374612076706	8.721311475409836	99.6
+plant_rice	poplar	plant	besthit	all	BP	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	besthit	all	BP	shallow		0.42755182437282196	0.4432645079331331	60.85245901639344	61.8
+plant_rice	poplar	plant	besthit	all	CC	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	besthit	all	CC	shallow		0.23205732703760193	0.24972999013202032	7.446808510638298	61.8
+plant_rice	poplar	plant	besthit	all	MF	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	besthit	all	MF	shallow		0.6657592467205786	0.4104883033725805	8.721311475409836	61.8
+plant_rice	poplar	plant	rbh	all	BP	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	rbh	all	BP	shallow		0.3700317067335895	0.4298328212962225	60.85245901639344	61.8
+plant_rice	poplar	plant	rbh	all	CC	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	rbh	all	CC	shallow		0.3920891983080843	0.3678894234173841	6.862745098039215	61.8
+plant_rice	poplar	plant	rbh	all	MF	mid			0.0	0.0	61.8
+plant_rice	poplar	plant	rbh	all	MF	shallow		0.4427161373798286	0.31975972721125506	9.016949152542374	61.8
+plant_rice	potato	plant	besthit	all	BP	mid			0.0	0.0	60.9
+plant_rice	potato	plant	besthit	all	BP	shallow		0.4192918311130741	0.42567142312359535	60.85245901639344	60.9
+plant_rice	potato	plant	besthit	all	CC	mid			0.0	0.0	60.9
+plant_rice	potato	plant	besthit	all	CC	shallow		0.18794463292377284	0.21183245483171428	7.586956521739131	60.9
+plant_rice	potato	plant	besthit	all	MF	mid			0.0	0.0	60.9
+plant_rice	potato	plant	besthit	all	MF	shallow		0.665693039896714	0.41106054526188146	8.721311475409836	60.9
+plant_rice	potato	plant	rbh	all	BP	mid			0.0	0.0	60.9
+plant_rice	potato	plant	rbh	all	BP	shallow		0.32161498547839806	0.3861863565974353	60.85245901639344	60.9
+plant_rice	potato	plant	rbh	all	CC	mid			0.0	0.0	60.9
+plant_rice	potato	plant	rbh	all	CC	shallow		0.298696330604421	0.2988194901981782	7.446808510638298	60.9
+plant_rice	potato	plant	rbh	all	MF	mid			0.0	0.0	60.9
+plant_rice	potato	plant	rbh	all	MF	shallow		0.5138036153425612	0.3438501522414696	8.866666666666667	60.9
+plant_rice	selaginella	plant	besthit	all	BP	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	besthit	all	BP	shallow		0.28416339340226066	0.32937676134846855	60.85245901639344	55.9
+plant_rice	selaginella	plant	besthit	all	CC	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	besthit	all	CC	shallow		0.4200476590544376	0.3213960430094262	6.363636363636363	55.9
+plant_rice	selaginella	plant	besthit	all	MF	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	besthit	all	MF	shallow		0.5565622730952928	0.3984605780668798	8.721311475409836	55.9
+plant_rice	selaginella	plant	rbh	all	BP	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	rbh	all	BP	shallow		0.16270788520120835	0.22555933212208437	61.083333333333336	55.9
+plant_rice	selaginella	plant	rbh	all	CC	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	rbh	all	CC	shallow		0.15670235970652388	0.1827302943486329	7.954545454545454	55.9
+plant_rice	selaginella	plant	rbh	all	MF	mid			0.0	0.0	55.9
+plant_rice	selaginella	plant	rbh	all	MF	shallow		0.23139239937686173	0.21944513728269982	9.851851851851851	55.9
+plant_rice	sorghum	plant	besthit	all	BP	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	besthit	all	BP	shallow		0.408086925233662	0.45263167532939225	60.85245901639344	77.6
+plant_rice	sorghum	plant	besthit	all	CC	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	besthit	all	CC	shallow		0.2201732394639186	0.20789176478672278	7.777777777777778	77.6
+plant_rice	sorghum	plant	besthit	all	MF	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	besthit	all	MF	shallow		0.5678798153153685	0.38370226396608365	8.721311475409836	77.6
+plant_rice	sorghum	plant	rbh	all	BP	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	rbh	all	BP	shallow		0.3615382367298077	0.4194025709580085	60.85245901639344	77.6
+plant_rice	sorghum	plant	rbh	all	CC	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	rbh	all	CC	shallow		0.1763576972373428	0.15907249816584854	7.777777777777778	77.6
+plant_rice	sorghum	plant	rbh	all	MF	mid			0.0	0.0	77.6
+plant_rice	sorghum	plant	rbh	all	MF	shallow		0.5065282485538791	0.34799382626363684	8.721311475409836	77.6
+plant_rice	soybean	plant	besthit	all	BP	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	besthit	all	BP	shallow		0.4253909751525221	0.4424431163542262	60.85245901639344	61.3
+plant_rice	soybean	plant	besthit	all	CC	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	besthit	all	CC	shallow		0.22598225420754303	0.26751505187696417	8.047619047619047	61.3
+plant_rice	soybean	plant	besthit	all	MF	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	besthit	all	MF	shallow		0.5502855214631577	0.36966433258143655	8.721311475409836	61.3
+plant_rice	soybean	plant	rbh	all	BP	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	rbh	all	BP	shallow		0.36137823963838284	0.4031279580950449	60.85245901639344	61.3
+plant_rice	soybean	plant	rbh	all	CC	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	rbh	all	CC	shallow		0.38784132525444087	0.344589255502393	6.60377358490566	61.3
+plant_rice	soybean	plant	rbh	all	MF	mid			0.0	0.0	61.3
+plant_rice	soybean	plant	rbh	all	MF	shallow		0.4641600064749996	0.3530155418280889	9.016949152542374	61.3
+plant_rice	tomato	plant	besthit	all	BP	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	besthit	all	BP	shallow		0.4069161505978043	0.4293725045662227	60.85245901639344	60.5
+plant_rice	tomato	plant	besthit	all	CC	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	besthit	all	CC	shallow		0.18701159998946404	0.20582852496075946	7.142857142857143	60.5
+plant_rice	tomato	plant	besthit	all	MF	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	besthit	all	MF	shallow		0.6495802577300965	0.41054155411677695	8.721311475409836	60.5
+plant_rice	tomato	plant	rbh	all	BP	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	rbh	all	BP	shallow		0.34021488523776683	0.4115592313359428	60.85245901639344	60.5
+plant_rice	tomato	plant	rbh	all	CC	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	rbh	all	CC	shallow		0.35116509919454597	0.357126263664916	7.291666666666667	60.5
+plant_rice	tomato	plant	rbh	all	MF	mid			0.0	0.0	60.5
+plant_rice	tomato	plant	rbh	all	MF	shallow		0.4987388678747618	0.3612011708380503	8.866666666666667	60.5
+plant_arabidopsis	a_halleri	plant	besthit	all	BP	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	BP	mid		0.11867142455815224	0.1205882842527257	7.694915254237288	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	BP	shallow		0.3500814238262137	0.4138193374747184	89.05833333333334	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	CC	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	CC	mid		0.13966846161968113	0.15146198830409358	2.5555555555555554	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	CC	shallow		0.3625680685807886	0.3913948116217559	17.373831775700936	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	MF	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	MF	mid		0.3093308255929615	0.3440555467470007	3.9622641509433962	93.8
+plant_arabidopsis	a_halleri	plant	besthit	all	MF	shallow		0.44191355014877703	0.4624396327250383	19.208333333333332	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	BP	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	BP	mid		0.1092740179982743	0.11127116963810603	7.694915254237288	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	BP	shallow		0.3364709457353917	0.4053398636805468	89.05833333333334	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	CC	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	CC	mid		0.12991236405870552	0.13876357560568087	2.5555555555555554	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	CC	shallow		0.3534477119021694	0.36846352932419146	16.8018018018018	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	MF	deep			0.0	0.0	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	MF	mid		0.30565327337172	0.34542308472618877	3.9622641509433962	93.8
+plant_arabidopsis	a_halleri	plant	rbh	all	MF	shallow		0.42708440420085186	0.4463424923350291	19.208333333333332	93.8
+plant_arabidopsis	amborella	plant	besthit	all	BP	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	besthit	all	BP	mid		0.17869848272156794	0.13675632497289983	7.566666666666666	61.8
+plant_arabidopsis	amborella	plant	besthit	all	BP	shallow		0.36109464452956214	0.39875668416856513	89.05833333333334	61.8
+plant_arabidopsis	amborella	plant	besthit	all	CC	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	besthit	all	CC	mid		0.2106627499484642	0.11668990731490732	1.8125	61.8
+plant_arabidopsis	amborella	plant	besthit	all	CC	shallow		0.43993819653726857	0.4290469181958521	16.62280701754386	61.8
+plant_arabidopsis	amborella	plant	besthit	all	MF	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	besthit	all	MF	mid		0.4626759432584675	0.2778458686318045	3.58974358974359	61.8
+plant_arabidopsis	amborella	plant	besthit	all	MF	shallow		0.5007969431030287	0.4654173312450313	19.208333333333332	61.8
+plant_arabidopsis	amborella	plant	rbh	all	BP	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	rbh	all	BP	mid		0.09292078787636736	0.0968823220333411	7.694915254237288	61.8
+plant_arabidopsis	amborella	plant	rbh	all	BP	shallow		0.2698121871843934	0.32949958039607863	89.05833333333334	61.8
+plant_arabidopsis	amborella	plant	rbh	all	CC	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	rbh	all	CC	mid		0.11415687487116058	0.07222658294086866	1.8412698412698412	61.8
+plant_arabidopsis	amborella	plant	rbh	all	CC	shallow		0.32815180354117557	0.3489633841543549	16.76991150442478	61.8
+plant_arabidopsis	amborella	plant	rbh	all	MF	deep			0.0	0.0	61.8
+plant_arabidopsis	amborella	plant	rbh	all	MF	mid		0.19627069262991595	0.1543535517219728	3.7837837837837838	61.8
+plant_arabidopsis	amborella	plant	rbh	all	MF	shallow		0.3896230818597061	0.4042532684930359	19.369747899159663	61.8
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	BP	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	BP	mid		0.2277887209782485	0.15377322361165174	7.630252100840337	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	BP	shallow		0.4287360290984399	0.46337537628231906	89.05833333333334	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	CC	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	CC	mid		0.3147392290249433	0.1831526519132631	1.8709677419354838	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	CC	shallow		0.4859373942991526	0.4784373718149068	16.76991150442478	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	MF	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	MF	mid		0.4988030577836403	0.28846837725643104	3.652173913043478	83.2
+plant_arabidopsis	brassica_oleracea	plant	besthit	all	MF	shallow		0.5396979124483425	0.502631235289329	19.208333333333332	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	BP	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	BP	mid		0.2056357093572735	0.14754128064831531	7.630252100840337	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	BP	shallow		0.39567729904626636	0.44958633560066474	89.05833333333334	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	CC	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	CC	mid		0.28537414965986396	0.16622531401818327	1.8709677419354838	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	CC	shallow		0.465383649221155	0.46378802763963795	16.76991150442478	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	MF	deep			0.0	0.0	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	MF	mid		0.39330389136214383	0.26127471776415107	3.652173913043478	83.2
+plant_arabidopsis	brassica_oleracea	plant	rbh	all	MF	shallow		0.5066439941590436	0.47343115081661985	19.208333333333332	83.2
+plant_arabidopsis	brassica_rapa	plant	besthit	all	BP	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	BP	mid		0.240587846853495	0.16941256633983234	7.566666666666666	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	BP	shallow		0.40689617181887583	0.43458558677790005	89.05833333333334	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	CC	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	CC	mid		0.2421201814058957	0.14080485128239942	1.901639344262295	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	CC	shallow		0.4875211973285517	0.4918835459156367	17.07207207207207	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	MF	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	MF	mid		0.5829309848727324	0.32078699601312693	3.58974358974359	83.4
+plant_arabidopsis	brassica_rapa	plant	besthit	all	MF	shallow		0.5643275167650736	0.5088603471104128	19.208333333333332	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	BP	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	BP	mid		0.1801785472794357	0.15208568327017558	7.630252100840337	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	BP	shallow		0.3827157458180283	0.42436617871875193	89.05833333333334	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	CC	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	CC	mid		0.19255308183879613	0.12302832244008716	1.9333333333333333	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	CC	shallow		0.47932049332073434	0.4865681242629577	17.227272727272727	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	MF	deep			0.0	0.0	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	MF	mid		0.5217305617791055	0.3264566206388386	3.652173913043478	83.4
+plant_arabidopsis	brassica_rapa	plant	rbh	all	MF	shallow		0.5176100630698992	0.47913924437562483	19.208333333333332	83.4
+plant_arabidopsis	camelina	plant	besthit	all	BP	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	besthit	all	BP	mid		0.21305539556986589	0.14553065609494412	7.630252100840337	89.5
+plant_arabidopsis	camelina	plant	besthit	all	BP	shallow		0.41664000934044076	0.4544994877840796	89.05833333333334	89.5
+plant_arabidopsis	camelina	plant	besthit	all	CC	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	besthit	all	CC	mid		0.21819727891156462	0.14675061309186946	1.8709677419354838	89.5
+plant_arabidopsis	camelina	plant	besthit	all	CC	shallow		0.48340269757846854	0.4804142191895886	16.62280701754386	89.5
+plant_arabidopsis	camelina	plant	besthit	all	MF	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	besthit	all	MF	mid		0.3970963233099155	0.2354877749851922	3.6842105263157894	89.5
+plant_arabidopsis	camelina	plant	besthit	all	MF	shallow		0.5107947882185401	0.4851267027306358	19.208333333333332	89.5
+plant_arabidopsis	camelina	plant	rbh	all	BP	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	rbh	all	BP	mid		0.2059564888828585	0.139347432791581	7.630252100840337	89.5
+plant_arabidopsis	camelina	plant	rbh	all	BP	shallow		0.4098767992593736	0.4546500097702579	89.05833333333334	89.5
+plant_arabidopsis	camelina	plant	rbh	all	CC	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	rbh	all	CC	mid		0.21819727891156462	0.14675061309186946	1.8709677419354838	89.5
+plant_arabidopsis	camelina	plant	rbh	all	CC	shallow		0.4849259608275871	0.4821664108417559	16.62280701754386	89.5
+plant_arabidopsis	camelina	plant	rbh	all	MF	deep			0.0	0.0	89.5
+plant_arabidopsis	camelina	plant	rbh	all	MF	mid		0.3921684033334518	0.24111003749354992	3.6842105263157894	89.5
+plant_arabidopsis	camelina	plant	rbh	all	MF	shallow		0.4962868244145777	0.46827205453826015	19.208333333333332	89.5
+plant_arabidopsis	capsella	plant	besthit	all	BP	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	besthit	all	BP	mid		0.23850069016847858	0.16188245209185673	7.630252100840337	89.3
+plant_arabidopsis	capsella	plant	besthit	all	BP	shallow		0.4426553874170246	0.4761571052205366	89.05833333333334	89.3
+plant_arabidopsis	capsella	plant	besthit	all	CC	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	besthit	all	CC	mid		0.3219954648526077	0.1885476153727427	1.8709677419354838	89.3
+plant_arabidopsis	capsella	plant	besthit	all	CC	shallow		0.5440286413061637	0.5342159220189486	16.76991150442478	89.3
+plant_arabidopsis	capsella	plant	besthit	all	MF	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	besthit	all	MF	mid		0.6055503557930743	0.3290065639425961	3.652173913043478	89.3
+plant_arabidopsis	capsella	plant	besthit	all	MF	shallow		0.6203087521465883	0.5482021388324458	19.208333333333332	89.3
+plant_arabidopsis	capsella	plant	rbh	all	BP	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	rbh	all	BP	mid		0.2219967491565284	0.1522803970512556	7.630252100840337	89.3
+plant_arabidopsis	capsella	plant	rbh	all	BP	shallow		0.4239701357682413	0.47004664152945647	89.05833333333334	89.3
+plant_arabidopsis	capsella	plant	rbh	all	CC	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	rbh	all	CC	mid		0.3172335600907029	0.17963849016480593	1.8412698412698412	89.3
+plant_arabidopsis	capsella	plant	rbh	all	CC	shallow		0.5366056685226849	0.5280204600650052	16.76991150442478	89.3
+plant_arabidopsis	capsella	plant	rbh	all	MF	deep			0.0	0.0	89.3
+plant_arabidopsis	capsella	plant	rbh	all	MF	mid		0.58289032973499	0.33773376880933426	3.6206896551724137	89.3
+plant_arabidopsis	capsella	plant	rbh	all	MF	shallow		0.6017650327043418	0.5358884373238801	19.208333333333332	89.3
+plant_arabidopsis	chlamydomonas	plant	besthit	all	BP	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	BP	mid		0.09336343803255567	0.09759218766747074	7.732758620689655	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	BP	shallow		0.2010855027672671	0.2549716859366442	88.92307692307692	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	CC	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	CC	mid		0.17177386105957534	0.10131407754358575	1.901639344262295	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	CC	shallow		0.30223742759464906	0.3161267145588402	17.476635514018692	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	MF	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	MF	mid		0.34060988031576267	0.23505123914586828	3.643478260869565	45.5
+plant_arabidopsis	chlamydomonas	plant	besthit	all	MF	shallow		0.3927882461407106	0.36875044572640153	19.084033613445378	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	BP	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	BP	mid		0.05154535624978735	0.06674387990177463	8.418367346938776	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	BP	shallow		0.14034268829111624	0.19905154281023169	90.98019801980197	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	CC	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	CC	mid		0.13259199134199134	0.10245468150630216	2.326530612244898	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	CC	shallow		0.2205881563675112	0.274163601987307	19.853932584269664	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	MF	deep			0.0	0.0	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	MF	mid		0.11035714285714285	0.10275414549608099	4.172043010752688	45.5
+plant_arabidopsis	chlamydomonas	plant	rbh	all	MF	shallow		0.2278919960710289	0.23948015298142641	19.403846153846153	45.5
+plant_arabidopsis	grape	plant	besthit	all	BP	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	besthit	all	BP	mid		0.19202640003689941	0.15012869118959418	7.630252100840337	66.1
+plant_arabidopsis	grape	plant	besthit	all	BP	shallow		0.39558838146645453	0.43174245776323905	89.05833333333334	66.1
+plant_arabidopsis	grape	plant	besthit	all	CC	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	besthit	all	CC	mid		0.22826736755308183	0.15268879697960877	1.9661016949152543	66.1
+plant_arabidopsis	grape	plant	besthit	all	CC	shallow		0.47913277440573254	0.46509972312451053	16.62280701754386	66.1
+plant_arabidopsis	grape	plant	besthit	all	MF	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	besthit	all	MF	mid		0.5044912207533566	0.29230806322017755	3.6206896551724137	66.1
+plant_arabidopsis	grape	plant	besthit	all	MF	shallow		0.5421956761506315	0.5045235162606551	19.208333333333332	66.1
+plant_arabidopsis	grape	plant	rbh	all	BP	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	rbh	all	BP	mid		0.08849710795329317	0.0956955351617738	7.630252100840337	66.1
+plant_arabidopsis	grape	plant	rbh	all	BP	shallow		0.30786154725777853	0.3699274999456293	89.05833333333334	66.1
+plant_arabidopsis	grape	plant	rbh	all	CC	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	rbh	all	CC	mid		0.1866367759224902	0.13084371102012823	2.0	66.1
+plant_arabidopsis	grape	plant	rbh	all	CC	shallow		0.33261537304120553	0.356277019569119	16.76991150442478	66.1
+plant_arabidopsis	grape	plant	rbh	all	MF	deep			0.0	0.0	66.1
+plant_arabidopsis	grape	plant	rbh	all	MF	mid		0.24398872432853014	0.19644022895779642	3.7168141592920354	66.1
+plant_arabidopsis	grape	plant	rbh	all	MF	shallow		0.44006726491813497	0.44580129965835813	19.369747899159663	66.1
+plant_arabidopsis	maize	plant	besthit	all	BP	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	besthit	all	BP	mid		0.19472682508858305	0.15989670074231274	7.630252100840337	59.5
+plant_arabidopsis	maize	plant	besthit	all	BP	shallow		0.3618426021694359	0.4127396151987116	89.05833333333334	59.5
+plant_arabidopsis	maize	plant	besthit	all	CC	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	besthit	all	CC	mid		0.20632859204287773	0.14374469670909298	1.9333333333333333	59.5
+plant_arabidopsis	maize	plant	besthit	all	CC	shallow		0.43242036834794	0.4446061502515965	16.76991150442478	59.5
+plant_arabidopsis	maize	plant	besthit	all	MF	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	besthit	all	MF	mid		0.413178218760743	0.29326226003645	3.7168141592920354	59.5
+plant_arabidopsis	maize	plant	besthit	all	MF	shallow		0.46538726132765473	0.449088087892924	19.369747899159663	59.5
+plant_arabidopsis	maize	plant	besthit	exp	BP	mid		0.0	0.0	10.0	59.5
+plant_arabidopsis	maize	plant	besthit	exp	BP	shallow		0.06818181818181815	0.10909090909090904	95.0	59.5
+plant_arabidopsis	maize	plant	besthit	exp	CC	mid		0.0	0.0	1.0	59.5
+plant_arabidopsis	maize	plant	besthit	exp	CC	shallow		0.1111111111111111	0.16216216216216214	29.0	59.5
+plant_arabidopsis	maize	plant	besthit	exp	MF	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	besthit	exp	MF	mid		0.0	0.0	10.5	59.5
+plant_arabidopsis	maize	plant	besthit	exp	MF	shallow		0.15148885641213009	0.1904053929264013	30.4	59.5
+plant_arabidopsis	maize	plant	rbh	all	BP	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	rbh	all	BP	mid		0.08651035519422919	0.10028311050745163	7.694915254237288	59.5
+plant_arabidopsis	maize	plant	rbh	all	BP	shallow		0.26250428282691246	0.34191869192702673	89.05833333333334	59.5
+plant_arabidopsis	maize	plant	rbh	all	CC	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	rbh	all	CC	mid		0.13612657184085755	0.10778434830722412	2.1481481481481484	59.5
+plant_arabidopsis	maize	plant	rbh	all	CC	shallow		0.34059647539623106	0.37594481069645397	17.227272727272727	59.5
+plant_arabidopsis	maize	plant	rbh	all	MF	deep			0.0	0.0	59.5
+plant_arabidopsis	maize	plant	rbh	all	MF	mid		0.20097028106736844	0.17155654951109495	3.8181818181818183	59.5
+plant_arabidopsis	maize	plant	rbh	all	MF	shallow		0.3616617814119047	0.38415258379024997	19.369747899159663	59.5
+plant_arabidopsis	marchantia	plant	besthit	all	BP	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	BP	mid		0.1633986709212177	0.13760775652038282	7.566666666666666	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	BP	shallow		0.3178519774184075	0.3603575276161208	89.05833333333334	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	CC	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	CC	mid		0.19017212945784373	0.1217242584639968	1.8709677419354838	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	CC	shallow		0.3647138272218333	0.38455418198310987	17.31192660550459	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	MF	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	MF	mid		0.489186433846628	0.2792234441629519	3.6206896551724137	54.7
+plant_arabidopsis	marchantia	plant	besthit	all	MF	shallow		0.46991996426891763	0.4384709647724284	19.208333333333332	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	BP	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	BP	mid		0.06680223970532752	0.08230783178613822	7.810344827586207	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	BP	shallow		0.19087750492431713	0.2504240889648638	89.49579831932773	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	CC	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	CC	mid		0.11372397443826014	0.0796673055186987	2.0350877192982457	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	CC	shallow		0.2678704540632896	0.3180234165467584	17.849056603773583	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	MF	deep			0.0	0.0	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	MF	mid		0.13856810400928046	0.12131255220864896	3.9158878504672896	54.7
+plant_arabidopsis	marchantia	plant	rbh	all	MF	shallow		0.2882905738235862	0.31417660007113185	19.24576271186441	54.7
+plant_arabidopsis	moss	plant	besthit	all	BP	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	besthit	all	BP	mid		0.18656973030509172	0.16172322920278567	7.566666666666666	54.3
+plant_arabidopsis	moss	plant	besthit	all	BP	shallow		0.3259989371998617	0.3722537637594489	89.05833333333334	54.3
+plant_arabidopsis	moss	plant	besthit	all	CC	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	besthit	all	CC	mid		0.22826736755308183	0.14081027996937315	1.8709677419354838	54.3
+plant_arabidopsis	moss	plant	besthit	all	CC	shallow		0.3902525348148165	0.4025413332640229	16.910714285714285	54.3
+plant_arabidopsis	moss	plant	besthit	all	MF	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	besthit	all	MF	mid		0.4554740028040999	0.2750055418792684	3.58974358974359	54.3
+plant_arabidopsis	moss	plant	besthit	all	MF	shallow		0.4910005886667286	0.4583474989168146	19.208333333333332	54.3
+plant_arabidopsis	moss	plant	besthit	exp	BP	mid		0.0	0.0	4.5	54.3
+plant_arabidopsis	moss	plant	besthit	exp	BP	shallow		0.21604024859425863	0.33956043956043946	85.5	54.3
+plant_arabidopsis	moss	plant	besthit	exp	MF	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	besthit	exp	MF	mid		0.0	0.0	1.0	54.3
+plant_arabidopsis	moss	plant	besthit	exp	MF	shallow		0.5	0.6153846153846154	8.0	54.3
+plant_arabidopsis	moss	plant	rbh	all	BP	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	rbh	all	BP	mid		0.05452401994380974	0.06226222133317197	7.743589743589744	54.3
+plant_arabidopsis	moss	plant	rbh	all	BP	shallow		0.2015447155809884	0.26294305906029747	89.49579831932773	54.3
+plant_arabidopsis	moss	plant	rbh	all	CC	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	rbh	all	CC	mid		0.13298804370232942	0.09675084888066632	2.0	54.3
+plant_arabidopsis	moss	plant	rbh	all	CC	shallow		0.26373808243801267	0.3091916626916837	17.376146788990827	54.3
+plant_arabidopsis	moss	plant	rbh	all	MF	deep			0.0	0.0	54.3
+plant_arabidopsis	moss	plant	rbh	all	MF	mid		0.1225969836263954	0.1133489944787361	3.9158878504672896	54.3
+plant_arabidopsis	moss	plant	rbh	all	MF	shallow		0.30185814702441616	0.33227299940389854	19.24576271186441	54.3
+plant_arabidopsis	poplar	plant	besthit	all	BP	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	besthit	all	BP	mid		0.19801860095304705	0.15741015380367682	7.630252100840337	65.9
+plant_arabidopsis	poplar	plant	besthit	all	BP	shallow		0.3970094368832921	0.4396728429887052	89.05833333333334	65.9
+plant_arabidopsis	poplar	plant	besthit	all	CC	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	besthit	all	CC	mid		0.21257472686044113	0.13690048181573605	1.9661016949152543	65.9
+plant_arabidopsis	poplar	plant	besthit	all	CC	shallow		0.4814542538334354	0.490581363267305	17.227272727272727	65.9
+plant_arabidopsis	poplar	plant	besthit	all	MF	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	besthit	all	MF	mid		0.5342802289404232	0.32843222899354274	3.652173913043478	65.9
+plant_arabidopsis	poplar	plant	besthit	all	MF	shallow		0.5445793798857429	0.5087896931763304	19.208333333333332	65.9
+plant_arabidopsis	poplar	plant	rbh	all	BP	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	rbh	all	BP	mid		0.09144192057773966	0.10070668255530227	7.694915254237288	65.9
+plant_arabidopsis	poplar	plant	rbh	all	BP	shallow		0.3070689560394968	0.3761691430873903	89.05833333333334	65.9
+plant_arabidopsis	poplar	plant	rbh	all	CC	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	rbh	all	CC	mid		0.12443826015254586	0.09160401002506266	2.0350877192982457	65.9
+plant_arabidopsis	poplar	plant	rbh	all	CC	shallow		0.3918998924735187	0.425699068944977	17.227272727272727	65.9
+plant_arabidopsis	poplar	plant	rbh	all	MF	deep			0.0	0.0	65.9
+plant_arabidopsis	poplar	plant	rbh	all	MF	mid		0.29565016967929586	0.2364223697929055	3.75	65.9
+plant_arabidopsis	poplar	plant	rbh	all	MF	shallow		0.44095765173179163	0.4372940670543755	19.369747899159663	65.9
+plant_arabidopsis	potato	plant	besthit	all	BP	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	besthit	all	BP	mid		0.20649308249220755	0.16398800207922232	7.630252100840337	63.9
+plant_arabidopsis	potato	plant	besthit	all	BP	shallow		0.37214593527452844	0.4118432467647107	89.05833333333334	63.9
+plant_arabidopsis	potato	plant	besthit	all	CC	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	besthit	all	CC	mid		0.2084982477839621	0.1186436967949573	1.8412698412698412	63.9
+plant_arabidopsis	potato	plant	besthit	all	CC	shallow		0.4578014502869966	0.45643070006899517	17.07207207207207	63.9
+plant_arabidopsis	potato	plant	besthit	all	MF	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	besthit	all	MF	mid		0.47927700670419116	0.2743882344965246	3.58974358974359	63.9
+plant_arabidopsis	potato	plant	besthit	all	MF	shallow		0.49797187279459376	0.4698253119232223	19.208333333333332	63.9
+plant_arabidopsis	potato	plant	rbh	all	BP	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	rbh	all	BP	mid		0.08299676822930288	0.09228343214078241	7.630252100840337	63.9
+plant_arabidopsis	potato	plant	rbh	all	BP	shallow		0.27739777121056663	0.3425588755046399	89.05833333333334	63.9
+plant_arabidopsis	potato	plant	rbh	all	CC	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	rbh	all	CC	mid		0.12156926406926408	0.08412249515190692	2.1923076923076925	63.9
+plant_arabidopsis	potato	plant	rbh	all	CC	shallow		0.3455897902804015	0.3601837853425021	16.660714285714285	63.9
+plant_arabidopsis	potato	plant	rbh	all	MF	deep			0.0	0.0	63.9
+plant_arabidopsis	potato	plant	rbh	all	MF	mid		0.15658871872464106	0.14032245532245533	3.8181818181818183	63.9
+plant_arabidopsis	potato	plant	rbh	all	MF	shallow		0.38987943271072756	0.4106133936117201	19.369747899159663	63.9
+plant_arabidopsis	rice	plant	besthit	all	BP	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	besthit	all	BP	mid		0.20408465351223462	0.15569740375129323	7.694915254237288	60.4
+plant_arabidopsis	rice	plant	besthit	all	BP	shallow		0.39144405695823864	0.4280760390483225	89.05833333333334	60.4
+plant_arabidopsis	rice	plant	besthit	all	CC	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	besthit	all	CC	mid		0.2221346114203257	0.12578735197782817	1.8412698412698412	60.4
+plant_arabidopsis	rice	plant	besthit	all	CC	shallow		0.4480805180396892	0.4482522266825492	16.76991150442478	60.4
+plant_arabidopsis	rice	plant	besthit	all	MF	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	besthit	all	MF	mid		0.5158729619894669	0.30439925351885877	3.559322033898305	60.4
+plant_arabidopsis	rice	plant	besthit	all	MF	shallow		0.508539353735439	0.47411868290597536	19.208333333333332	60.4
+plant_arabidopsis	rice	plant	besthit	exp	BP	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	besthit	exp	BP	mid		0.0016722408026755842	0.0031439306801625626	9.18840579710145	60.4
+plant_arabidopsis	rice	plant	besthit	exp	BP	shallow		0.11466879345342681	0.1698940504095685	100.68115942028986	60.4
+plant_arabidopsis	rice	plant	besthit	exp	CC	mid		0.0	0.0	4.294117647058823	60.4
+plant_arabidopsis	rice	plant	besthit	exp	CC	shallow		0.1529717346037044	0.16866326605542764	18.435897435897434	60.4
+plant_arabidopsis	rice	plant	besthit	exp	MF	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	besthit	exp	MF	mid		0.013813628899835796	0.022509578544061302	4.724137931034483	60.4
+plant_arabidopsis	rice	plant	besthit	exp	MF	shallow		0.11529509361409765	0.16304688918406635	23.0	60.4
+plant_arabidopsis	rice	plant	rbh	all	BP	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	rbh	all	BP	mid		0.10593014211973693	0.11210649724865208	7.694915254237288	60.4
+plant_arabidopsis	rice	plant	rbh	all	BP	shallow		0.29004305319161544	0.35154432379355066	89.05833333333334	60.4
+plant_arabidopsis	rice	plant	rbh	all	CC	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	rbh	all	CC	mid		0.1315038136466708	0.08248408454290806	1.9333333333333333	60.4
+plant_arabidopsis	rice	plant	rbh	all	CC	shallow		0.3297737274801585	0.3526122345754814	16.62280701754386	60.4
+plant_arabidopsis	rice	plant	rbh	all	MF	deep			0.0	0.0	60.4
+plant_arabidopsis	rice	plant	rbh	all	MF	mid		0.22109788808817935	0.18560950833678105	3.8181818181818183	60.4
+plant_arabidopsis	rice	plant	rbh	all	MF	shallow		0.3961380497992494	0.40353847874515036	19.369747899159663	60.4
+plant_arabidopsis	rice	plant	rbh	exp	BP	mid		0.0	0.0	9.823529411764707	60.4
+plant_arabidopsis	rice	plant	rbh	exp	BP	shallow		0.06730012993828632	0.10558409735502337	110.03921568627452	60.4
+plant_arabidopsis	rice	plant	rbh	exp	CC	mid		0.0	0.0	5.0	60.4
+plant_arabidopsis	rice	plant	rbh	exp	CC	shallow		0.10072668325518644	0.13852786728726577	22.285714285714285	60.4
+plant_arabidopsis	rice	plant	rbh	exp	MF	mid		0.0	0.0	4.641025641025641	60.4
+plant_arabidopsis	rice	plant	rbh	exp	MF	shallow		0.05658187599951982	0.08784649998418115	24.047619047619047	60.4
+plant_arabidopsis	selaginella	plant	besthit	all	BP	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	BP	mid		0.162122679447353	0.13499644158480734	7.566666666666666	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	BP	shallow		0.3172764310858637	0.35882425765920994	89.05833333333334	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	CC	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	CC	mid		0.17848381776953207	0.11204731828421031	1.8709677419354838	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	CC	shallow		0.36537434548144954	0.37029620282847714	16.901785714285715	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	MF	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	MF	mid		0.4949557454411823	0.29742570851797934	3.6206896551724137	55.4
+plant_arabidopsis	selaginella	plant	besthit	all	MF	shallow		0.4901170850439646	0.4418747357388355	19.208333333333332	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	BP	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	BP	mid		0.060977848012433306	0.07100763187761673	7.810344827586207	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	BP	shallow		0.18886445278831887	0.2567236168817458	89.49579831932773	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	CC	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	CC	mid		0.14705730777159348	0.11163548752834467	2.0714285714285716	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	CC	shallow		0.26688876352062507	0.31456467591155546	17.537037037037038	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	MF	deep			0.0	0.0	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	MF	mid		0.15168279432985315	0.12246423737555359	3.9158878504672896	55.4
+plant_arabidopsis	selaginella	plant	rbh	all	MF	shallow		0.2966090660264876	0.3184445410198061	19.24576271186441	55.4
+plant_arabidopsis	soybean	plant	besthit	all	BP	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	besthit	all	BP	mid		0.22630172145349156	0.16931746238694123	7.566666666666666	64.6
+plant_arabidopsis	soybean	plant	besthit	all	BP	shallow		0.4100955058459891	0.4333720656673222	89.05833333333334	64.6
+plant_arabidopsis	soybean	plant	besthit	all	CC	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	besthit	all	CC	mid		0.24807256235827665	0.16343247890973137	1.9661016949152543	64.6
+plant_arabidopsis	soybean	plant	besthit	all	CC	shallow		0.4837350705580605	0.4793720522888504	16.919642857142858	64.6
+plant_arabidopsis	soybean	plant	besthit	all	MF	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	besthit	all	MF	mid		0.5272516588050569	0.3074991496962794	3.652173913043478	64.6
+plant_arabidopsis	soybean	plant	besthit	all	MF	shallow		0.548685157502895	0.501714349190051	19.208333333333332	64.6
+plant_arabidopsis	soybean	plant	rbh	all	BP	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	rbh	all	BP	mid		0.10697723777546095	0.09829621584670528	7.694915254237288	64.6
+plant_arabidopsis	soybean	plant	rbh	all	BP	shallow		0.3228605598928036	0.3755213554925804	89.05833333333334	64.6
+plant_arabidopsis	soybean	plant	rbh	all	CC	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	rbh	all	CC	mid		0.1616367759224902	0.12433621933621934	2.109090909090909	64.6
+plant_arabidopsis	soybean	plant	rbh	all	CC	shallow		0.38604352664565983	0.41979050027204495	17.227272727272727	64.6
+plant_arabidopsis	soybean	plant	rbh	all	MF	deep			0.0	0.0	64.6
+plant_arabidopsis	soybean	plant	rbh	all	MF	mid		0.30330448946953803	0.22429162953707132	3.7837837837837838	64.6
+plant_arabidopsis	soybean	plant	rbh	all	MF	shallow		0.44793753103523376	0.4397647529244242	19.369747899159663	64.6
+plant_arabidopsis	tomato	plant	besthit	all	BP	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	besthit	all	BP	mid		0.1977166226035522	0.16077844407153927	7.566666666666666	63.4
+plant_arabidopsis	tomato	plant	besthit	all	BP	shallow		0.3837634664273038	0.41528629425703584	89.05833333333334	63.4
+plant_arabidopsis	tomato	plant	besthit	all	CC	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	besthit	all	CC	mid		0.22155741084312514	0.1322780080735722	1.901639344262295	63.4
+plant_arabidopsis	tomato	plant	besthit	all	CC	shallow		0.4761519161757163	0.4738841795867523	17.227272727272727	63.4
+plant_arabidopsis	tomato	plant	besthit	all	MF	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	besthit	all	MF	mid		0.49817566468051905	0.2837820207132126	3.58974358974359	63.4
+plant_arabidopsis	tomato	plant	besthit	all	MF	shallow		0.5002259536655201	0.4764329521789017	19.208333333333332	63.4
+plant_arabidopsis	tomato	plant	besthit	exp	BP	mid		0.0	0.0	13.5	63.4
+plant_arabidopsis	tomato	plant	besthit	exp	BP	shallow		0.0722763618190904	0.12186220402350005	92.5	63.4
+plant_arabidopsis	tomato	plant	besthit	exp	MF	mid		0.0	0.0	1.0	63.4
+plant_arabidopsis	tomato	plant	besthit	exp	MF	shallow		0.25	0.4	8.0	63.4
+plant_arabidopsis	tomato	plant	rbh	all	BP	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	rbh	all	BP	mid		0.10853820249835863	0.10812049496032884	7.630252100840337	63.4
+plant_arabidopsis	tomato	plant	rbh	all	BP	shallow		0.2959838080470355	0.3571318420785852	89.05833333333334	63.4
+plant_arabidopsis	tomato	plant	rbh	all	CC	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	rbh	all	CC	mid		0.16880411255411254	0.12491639079874373	2.0727272727272728	63.4
+plant_arabidopsis	tomato	plant	rbh	all	CC	shallow		0.3698572982700903	0.3867315751636591	16.81081081081081	63.4
+plant_arabidopsis	tomato	plant	rbh	all	MF	deep			0.0	0.0	63.4
+plant_arabidopsis	tomato	plant	rbh	all	MF	mid		0.2536059409845817	0.18804992655245475	3.75	63.4
+plant_arabidopsis	tomato	plant	rbh	all	MF	shallow		0.4341421952777292	0.4469519725971056	19.369747899159663	63.4
+fungi	aspergillus	fungi	besthit	all	BP	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	besthit	all	BP	mid		0.09162807382806892	0.0930039359851043	15.172413793103448	41.4
+fungi	aspergillus	fungi	besthit	all	BP	shallow		0.39570762987412983	0.4916535922783159	136.20833333333334	41.4
+fungi	aspergillus	fungi	besthit	all	CC	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	besthit	all	CC	mid		0.056247555663443506	0.08350650368998994	4.724770642201835	41.4
+fungi	aspergillus	fungi	besthit	all	CC	shallow		0.5111951604385098	0.5643444323506166	33.09166666666667	41.4
+fungi	aspergillus	fungi	besthit	all	MF	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	besthit	all	MF	mid		0.18177535147232116	0.1853538734343688	4.36936936936937	41.4
+fungi	aspergillus	fungi	besthit	all	MF	shallow		0.5270947481906578	0.5131141081855908	27.605042016806724	41.4
+fungi	aspergillus	fungi	besthit	exp	BP	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	besthit	exp	BP	mid		0.004825426343915721	0.007871034592698868	17.170731707317074	41.4
+fungi	aspergillus	fungi	besthit	exp	BP	shallow		0.03596805510558346	0.06028343592396954	149.32530120481928	41.4
+fungi	aspergillus	fungi	besthit	exp	CC	mid		0.0	0.0	5.131578947368421	41.4
+fungi	aspergillus	fungi	besthit	exp	CC	shallow		0.05565846245845074	0.08846877495458583	36.80769230769231	41.4
+fungi	aspergillus	fungi	besthit	exp	MF	mid		0.00980392156862745	0.014705882352941176	5.676470588235294	41.4
+fungi	aspergillus	fungi	besthit	exp	MF	shallow		0.08981163862596948	0.1307068860186991	33.58536585365854	41.4
+fungi	aspergillus	fungi	rbh	all	BP	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	rbh	all	BP	mid		0.06134696170034592	0.0709902483438713	15.172413793103448	41.4
+fungi	aspergillus	fungi	rbh	all	BP	shallow		0.3509667375371498	0.45765489563668377	136.20833333333334	41.4
+fungi	aspergillus	fungi	rbh	all	CC	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	rbh	all	CC	mid		0.05217175088670416	0.07933655850322517	4.768518518518518	41.4
+fungi	aspergillus	fungi	rbh	all	CC	shallow		0.4634975952673406	0.5268418901737554	33.09166666666667	41.4
+fungi	aspergillus	fungi	rbh	all	MF	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	rbh	all	MF	mid		0.11018524124584729	0.12829219925373772	4.663461538461538	41.4
+fungi	aspergillus	fungi	rbh	all	MF	shallow		0.4707827918407031	0.4882339353920509	27.838983050847457	41.4
+fungi	aspergillus	fungi	rbh	exp	BP	deep			0.0	0.0	41.4
+fungi	aspergillus	fungi	rbh	exp	BP	mid		0.0	0.0	18.577464788732396	41.4
+fungi	aspergillus	fungi	rbh	exp	BP	shallow		0.029268825796108202	0.049391613431753835	157.13888888888889	41.4
+fungi	aspergillus	fungi	rbh	exp	CC	mid		0.0	0.0	5.6909090909090905	41.4
+fungi	aspergillus	fungi	rbh	exp	CC	shallow		0.049345982792298605	0.07956202738730632	38.35087719298246	41.4
+fungi	aspergillus	fungi	rbh	exp	MF	mid		0.0	0.0	6.842105263157895	41.4
+fungi	aspergillus	fungi	rbh	exp	MF	shallow		0.032044894169591484	0.05825998788698382	43.7	41.4
+fungi	c_albicans	fungi	besthit	all	BP	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	besthit	all	BP	mid		0.13957200867406966	0.1272843362341418	15.042735042735043	45.2
+fungi	c_albicans	fungi	besthit	all	BP	shallow		0.49535050230361843	0.577036049113678	136.20833333333334	45.2
+fungi	c_albicans	fungi	besthit	all	CC	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	besthit	all	CC	mid		0.12049449771412388	0.16572769737907353	4.724770642201835	45.2
+fungi	c_albicans	fungi	besthit	all	CC	shallow		0.6255083346643355	0.6580331452685485	33.36974789915966	45.2
+fungi	c_albicans	fungi	besthit	all	MF	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	besthit	all	MF	mid		0.2493522470795198	0.2311194817097424	4.5327102803738315	45.2
+fungi	c_albicans	fungi	besthit	all	MF	shallow		0.6101715785832912	0.5560164505005133	27.605042016806724	45.2
+fungi	c_albicans	fungi	besthit	exp	BP	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	besthit	exp	BP	mid		0.008887451435572534	0.013781730519748977	15.226086956521739	45.2
+fungi	c_albicans	fungi	besthit	exp	BP	shallow		0.12671519207478338	0.19274800884883272	136.90677966101694	45.2
+fungi	c_albicans	fungi	besthit	exp	CC	mid		0.0	0.0	4.979166666666667	45.2
+fungi	c_albicans	fungi	besthit	exp	CC	shallow		0.15910722483165324	0.2280729044925196	34.73076923076923	45.2
+fungi	c_albicans	fungi	besthit	exp	MF	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	besthit	exp	MF	mid		0.013429752066115703	0.014693171996542784	5.01123595505618	45.2
+fungi	c_albicans	fungi	besthit	exp	MF	shallow		0.12814700383953306	0.17939325217365873	28.752380952380953	45.2
+fungi	c_albicans	fungi	rbh	all	BP	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	rbh	all	BP	mid		0.08286570722957531	0.08029916349636065	15.042735042735043	45.2
+fungi	c_albicans	fungi	rbh	all	BP	shallow		0.4378044853994503	0.5369413327283422	136.20833333333334	45.2
+fungi	c_albicans	fungi	rbh	all	CC	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	rbh	all	CC	mid		0.10171204703914984	0.142370609188791	4.681818181818182	45.2
+fungi	c_albicans	fungi	rbh	all	CC	shallow		0.564576477830496	0.6087491484550566	33.36974789915966	45.2
+fungi	c_albicans	fungi	rbh	all	MF	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	rbh	all	MF	mid		0.1742982046012349	0.18184551282407246	4.5327102803738315	45.2
+fungi	c_albicans	fungi	rbh	all	MF	shallow		0.5663454849871103	0.5489824991416943	28.31896551724138	45.2
+fungi	c_albicans	fungi	rbh	exp	BP	deep			0.0	0.0	45.2
+fungi	c_albicans	fungi	rbh	exp	BP	mid		0.0017391304347826088	0.002745995423340961	15.226086956521739	45.2
+fungi	c_albicans	fungi	rbh	exp	BP	shallow		0.09365720212724794	0.1466210888943146	136.90677966101694	45.2
+fungi	c_albicans	fungi	rbh	exp	CC	mid		0.0	0.0	5.263736263736264	45.2
+fungi	c_albicans	fungi	rbh	exp	CC	shallow		0.12018122124138227	0.18454887203889372	36.01010101010101	45.2
+fungi	c_albicans	fungi	rbh	exp	MF	mid		0.0	0.0	5.0	45.2
+fungi	c_albicans	fungi	rbh	exp	MF	shallow		0.09918675600120715	0.15522256640455454	31.677777777777777	45.2
+fungi	c_glabrata	fungi	besthit	all	BP	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	besthit	all	BP	mid		0.032862400150291717	0.03309713997112102	15.042735042735043	58.1
+fungi	c_glabrata	fungi	besthit	all	BP	shallow		0.36038553225632514	0.46496479633754234	136.20833333333334	58.1
+fungi	c_glabrata	fungi	besthit	all	CC	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	besthit	all	CC	mid		0.010565939771547248	0.01527858106805475	4.768518518518518	58.1
+fungi	c_glabrata	fungi	besthit	all	CC	shallow		0.41442561631718766	0.49813013005155354	33.36974789915966	58.1
+fungi	c_glabrata	fungi	besthit	all	MF	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	besthit	all	MF	mid		0.07166635272695879	0.08457210001327649	4.754901960784314	58.1
+fungi	c_glabrata	fungi	besthit	all	MF	shallow		0.4412163273870177	0.4590401342787188	28.31896551724138	58.1
+fungi	c_glabrata	fungi	besthit	exp	BP	mid		0.0	0.0	16.904761904761905	58.1
+fungi	c_glabrata	fungi	besthit	exp	BP	shallow		0.029933439627522748	0.05233779753954628	140.76190476190476	58.1
+fungi	c_glabrata	fungi	besthit	exp	CC	mid		0.0	0.0	5.096153846153846	58.1
+fungi	c_glabrata	fungi	besthit	exp	CC	shallow		0.03896308841283857	0.04056128831034143	32.224137931034484	58.1
+fungi	c_glabrata	fungi	besthit	exp	MF	mid		0.0	0.0	5.8	58.1
+fungi	c_glabrata	fungi	besthit	exp	MF	shallow		0.057417999872819925	0.09922173407652074	35.705882352941174	58.1
+fungi	c_glabrata	fungi	rbh	all	BP	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	rbh	all	BP	mid		0.029274901833292007	0.03329162797217238	15.172413793103448	58.1
+fungi	c_glabrata	fungi	rbh	all	BP	shallow		0.3260012513455795	0.4358869793854882	136.20833333333334	58.1
+fungi	c_glabrata	fungi	rbh	all	CC	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	rbh	all	CC	mid		0.010565939771547248	0.01527858106805475	4.768518518518518	58.1
+fungi	c_glabrata	fungi	rbh	all	CC	shallow		0.3923761450583944	0.4645330254871192	33.09166666666667	58.1
+fungi	c_glabrata	fungi	rbh	all	MF	deep			0.0	0.0	58.1
+fungi	c_glabrata	fungi	rbh	all	MF	mid		0.05032960866294199	0.06560607148842443	4.754901960784314	58.1
+fungi	c_glabrata	fungi	rbh	all	MF	shallow		0.3958165751132944	0.4343458307070727	28.81578947368421	58.1
+fungi	c_glabrata	fungi	rbh	exp	BP	mid		0.0	0.0	18.0	58.1
+fungi	c_glabrata	fungi	rbh	exp	BP	shallow		0.02880714408243292	0.0509997186140944	149.84848484848484	58.1
+fungi	c_glabrata	fungi	rbh	exp	CC	mid		0.0	0.0	6.0	58.1
+fungi	c_glabrata	fungi	rbh	exp	CC	shallow		0.023706113250465944	0.039419823705021506	35.166666666666664	58.1
+fungi	c_glabrata	fungi	rbh	exp	MF	mid		0.0	0.0	5.461538461538462	58.1
+fungi	c_glabrata	fungi	rbh	exp	MF	shallow		0.04810792122338395	0.08345555856263832	36.733333333333334	58.1
+fungi	cryptococcus	fungi	besthit	all	BP	deep			0.0	0.0	39.9
+fungi	cryptococcus	fungi	besthit	all	BP	mid		0.08132026083631978	0.08266177376834559	15.042735042735043	39.9
+fungi	cryptococcus	fungi	besthit	all	BP	shallow		0.32195141628011287	0.4194847691523732	136.20833333333334	39.9
+fungi	cryptococcus	fungi	besthit	all	CC	mid		0.044752936575366484	0.0661469338742066	4.681818181818182	39.9
+fungi	cryptococcus	fungi	besthit	all	CC	shallow		0.3943820191954528	0.46278283127915654	33.09166666666667	39.9
+fungi	cryptococcus	fungi	besthit	all	MF	deep			0.0	0.0	39.9
+fungi	cryptococcus	fungi	besthit	all	MF	mid		0.1822751883357944	0.20191279215423996	4.5327102803738315	39.9
+fungi	cryptococcus	fungi	besthit	all	MF	shallow		0.4771413344311713	0.4863738531989153	28.076923076923077	39.9
+fungi	cryptococcus	fungi	besthit	exp	BP	mid		0.0	0.0	17.625	39.9
+fungi	cryptococcus	fungi	besthit	exp	BP	shallow		0.0	0.0	140.625	39.9
+fungi	cryptococcus	fungi	besthit	exp	CC	mid		0.0	0.0	4.5	39.9
+fungi	cryptococcus	fungi	besthit	exp	CC	shallow		0.0	0.0	35.0	39.9
+fungi	cryptococcus	fungi	besthit	exp	MF	mid		0.0	0.0	5.333333333333333	39.9
+fungi	cryptococcus	fungi	besthit	exp	MF	shallow		0.0	0.0	16.285714285714285	39.9
+fungi	cryptococcus	fungi	rbh	all	BP	deep			0.0	0.0	39.9
+fungi	cryptococcus	fungi	rbh	all	BP	mid		0.042098867613424434	0.05747544837523808	15.172413793103448	39.9
+fungi	cryptococcus	fungi	rbh	all	BP	shallow		0.27426037318749846	0.36561708470063803	136.20833333333334	39.9
+fungi	cryptococcus	fungi	rbh	all	CC	mid		0.042379401491551026	0.06536570425459313	4.768518518518518	39.9
+fungi	cryptococcus	fungi	rbh	all	CC	shallow		0.3571005656363959	0.4313436332481478	33.09166666666667	39.9
+fungi	cryptococcus	fungi	rbh	all	MF	deep			0.0	0.0	39.9
+fungi	cryptococcus	fungi	rbh	all	MF	mid		0.05916614249947583	0.08107518842812961	4.754901960784314	39.9
+fungi	cryptococcus	fungi	rbh	all	MF	shallow		0.4148329798055526	0.45573227549128176	28.076923076923077	39.9
+fungi	e_gossypii	fungi	besthit	all	BP	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	besthit	all	BP	mid		0.12736323037061734	0.14413207406195438	15.042735042735043	53.4
+fungi	e_gossypii	fungi	besthit	all	BP	shallow		0.5105533021356119	0.6132054019708941	136.20833333333334	53.4
+fungi	e_gossypii	fungi	besthit	all	CC	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	besthit	all	CC	mid		0.18356293239470808	0.24579572339075262	4.768518518518518	53.4
+fungi	e_gossypii	fungi	besthit	all	CC	shallow		0.6581821440524613	0.7156129631207274	33.09166666666667	53.4
+fungi	e_gossypii	fungi	besthit	all	MF	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	besthit	all	MF	mid		0.3002647184465366	0.28994356265340904	4.5327102803738315	53.4
+fungi	e_gossypii	fungi	besthit	all	MF	shallow		0.6268581280032582	0.5795623226102095	27.605042016806724	53.4
+fungi	e_gossypii	fungi	rbh	all	BP	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	rbh	all	BP	mid		0.08222412928825971	0.10063851471001317	15.172413793103448	53.4
+fungi	e_gossypii	fungi	rbh	all	BP	shallow		0.4633822877080848	0.5778990842941891	136.20833333333334	53.4
+fungi	e_gossypii	fungi	rbh	all	CC	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	rbh	all	CC	mid		0.15106741648797725	0.20571635831138757	4.768518518518518	53.4
+fungi	e_gossypii	fungi	rbh	all	CC	shallow		0.6269060842925167	0.6941154367415153	33.09166666666667	53.4
+fungi	e_gossypii	fungi	rbh	all	MF	deep			0.0	0.0	53.4
+fungi	e_gossypii	fungi	rbh	all	MF	mid		0.20115263524354432	0.21721226680993605	4.5754716981132075	53.4
+fungi	e_gossypii	fungi	rbh	all	MF	shallow		0.5899237528479786	0.6071111268079051	29.330357142857142	53.4
+fungi	human	fungi	besthit	all	BP	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	all	BP	mid		0.13347138693920693	0.10276513637823186	14.915254237288135	37.8
+fungi	human	fungi	besthit	all	BP	shallow		0.3986588316945759	0.4574570735384933	136.20833333333334	37.8
+fungi	human	fungi	besthit	all	CC	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	all	CC	mid		0.19372658753499875	0.20879447839028842	4.681818181818182	37.8
+fungi	human	fungi	besthit	all	CC	shallow		0.44957454262819085	0.48660415874419094	33.09166666666667	37.8
+fungi	human	fungi	besthit	all	MF	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	all	MF	mid		0.3216081056990148	0.2398808162513541	4.292035398230088	37.8
+fungi	human	fungi	besthit	all	MF	shallow		0.5315664578680468	0.512651295176322	28.565217391304348	37.8
+fungi	human	fungi	besthit	exp	BP	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	exp	BP	mid		0.0648900231457475	0.06490460198504924	15.042735042735043	37.8
+fungi	human	fungi	besthit	exp	BP	shallow		0.27914058172798223	0.35970923002833816	137.27731092436974	37.8
+fungi	human	fungi	besthit	exp	CC	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	exp	CC	mid		0.13600720411468076	0.1676942548367265	4.724770642201835	37.8
+fungi	human	fungi	besthit	exp	CC	shallow		0.3402273915068739	0.39362017396948085	33.36974789915966	37.8
+fungi	human	fungi	besthit	exp	MF	deep			0.0	0.0	37.8
+fungi	human	fungi	besthit	exp	MF	mid		0.1795146492116189	0.1665295561052979	4.292035398230088	37.8
+fungi	human	fungi	besthit	exp	MF	shallow		0.36860728228192935	0.39522210099883026	27.605042016806724	37.8
+fungi	human	fungi	rbh	all	BP	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	all	BP	mid		0.09348597964191298	0.08955243983608455	14.915254237288135	37.8
+fungi	human	fungi	rbh	all	BP	shallow		0.35218739428792634	0.4280973920328466	136.20833333333334	37.8
+fungi	human	fungi	rbh	all	CC	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	all	CC	mid		0.13127463139145382	0.1523348401342649	4.724770642201835	37.8
+fungi	human	fungi	rbh	all	CC	shallow		0.38626454778051017	0.4422711712602274	33.36974789915966	37.8
+fungi	human	fungi	rbh	all	MF	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	all	MF	mid		0.15037863371196705	0.16055189338102502	4.619047619047619	37.8
+fungi	human	fungi	rbh	all	MF	shallow		0.4559613391738282	0.46616928279865744	28.076923076923077	37.8
+fungi	human	fungi	rbh	exp	BP	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	exp	BP	mid		0.03717765158335651	0.04490918038948168	15.327433628318584	37.8
+fungi	human	fungi	rbh	exp	BP	shallow		0.24038291867334785	0.32636106950656124	140.17391304347825	37.8
+fungi	human	fungi	rbh	exp	CC	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	exp	CC	mid		0.08241527889586142	0.11068516917256412	4.866666666666666	37.8
+fungi	human	fungi	rbh	exp	CC	shallow		0.31666209509403426	0.3815213301943705	34.18260869565217	37.8
+fungi	human	fungi	rbh	exp	MF	deep			0.0	0.0	37.8
+fungi	human	fungi	rbh	exp	MF	mid		0.07986581319914653	0.09342827473668595	4.5327102803738315	37.8
+fungi	human	fungi	rbh	exp	MF	shallow		0.28977384611239515	0.33515536265175566	27.605042016806724	37.8
+fungi	k_lactis	fungi	besthit	all	BP	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	besthit	all	BP	mid		0.1229548213087154	0.134225058974719	15.042735042735043	54.3
+fungi	k_lactis	fungi	besthit	all	BP	shallow		0.4755634268072451	0.5861441860194455	136.20833333333334	54.3
+fungi	k_lactis	fungi	besthit	all	CC	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	besthit	all	CC	mid		0.19776355524019076	0.26212286110161925	4.768518518518518	54.3
+fungi	k_lactis	fungi	besthit	all	CC	shallow		0.6214392512485537	0.6883976634997754	33.09166666666667	54.3
+fungi	k_lactis	fungi	besthit	all	MF	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	besthit	all	MF	mid		0.30252550479823204	0.2936649880517805	4.5754716981132075	54.3
+fungi	k_lactis	fungi	besthit	all	MF	shallow		0.6117990517675338	0.5815578069980185	27.838983050847457	54.3
+fungi	k_lactis	fungi	besthit	exp	MF	mid		0.0	0.0	14.0	54.3
+fungi	k_lactis	fungi	besthit	exp	MF	shallow		0.0	0.0	40.0	54.3
+fungi	k_lactis	fungi	rbh	all	BP	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	rbh	all	BP	mid		0.0941546117377151	0.10485873774455748	15.042735042735043	54.3
+fungi	k_lactis	fungi	rbh	all	BP	shallow		0.4348278871899939	0.5496908251417305	136.20833333333334	54.3
+fungi	k_lactis	fungi	rbh	all	CC	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	rbh	all	CC	mid		0.14794450098188416	0.20034278992612325	4.768518518518518	54.3
+fungi	k_lactis	fungi	rbh	all	CC	shallow		0.6004602898254128	0.6784081160421167	33.09166666666667	54.3
+fungi	k_lactis	fungi	rbh	all	MF	deep			0.0	0.0	54.3
+fungi	k_lactis	fungi	rbh	all	MF	mid		0.20917544856938794	0.22262663227969975	4.5754716981132075	54.3
+fungi	k_lactis	fungi	rbh	all	MF	shallow		0.5772794472412837	0.6015571783318566	29.330357142857142	54.3
+fungi	k_marxianus	fungi	besthit	all	BP	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	besthit	all	BP	mid		0.12346320268225265	0.13834103788317406	15.042735042735043	54.0
+fungi	k_marxianus	fungi	besthit	all	BP	shallow		0.474636174981274	0.5848119989441015	136.20833333333334	54.0
+fungi	k_marxianus	fungi	besthit	all	CC	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	besthit	all	CC	mid		0.1800286940473856	0.24290354707021372	4.768518518518518	54.0
+fungi	k_marxianus	fungi	besthit	all	CC	shallow		0.626309628592876	0.6945342972013229	33.09166666666667	54.0
+fungi	k_marxianus	fungi	besthit	all	MF	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	besthit	all	MF	mid		0.28299010192949586	0.29042495705837607	4.5754716981132075	54.0
+fungi	k_marxianus	fungi	besthit	all	MF	shallow		0.585552611163104	0.5665797774311508	27.838983050847457	54.0
+fungi	k_marxianus	fungi	rbh	all	BP	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	rbh	all	BP	mid		0.08532460239168424	0.10180718156238001	15.172413793103448	54.0
+fungi	k_marxianus	fungi	rbh	all	BP	shallow		0.4268114562560885	0.5452133113598484	136.20833333333334	54.0
+fungi	k_marxianus	fungi	rbh	all	CC	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	rbh	all	CC	mid		0.14145436598707625	0.19349387752165528	4.768518518518518	54.0
+fungi	k_marxianus	fungi	rbh	all	CC	shallow		0.5880813220894371	0.6682845421731833	33.09166666666667	54.0
+fungi	k_marxianus	fungi	rbh	all	MF	deep			0.0	0.0	54.0
+fungi	k_marxianus	fungi	rbh	all	MF	mid		0.20044590650651256	0.227532817443151	4.5754716981132075	54.0
+fungi	k_marxianus	fungi	rbh	all	MF	shallow		0.5462167981041164	0.5823817805915014	29.330357142857142	54.0
+fungi	magnaporthe	fungi	besthit	all	BP	deep			0.0	0.0	41.1
+fungi	magnaporthe	fungi	besthit	all	BP	mid		0.07715236883710516	0.08347325351682114	14.915254237288135	41.1
+fungi	magnaporthe	fungi	besthit	all	BP	shallow		0.3631543211361604	0.4647587516835398	136.20833333333334	41.1
+fungi	magnaporthe	fungi	besthit	all	CC	mid		0.102522996214585	0.14175486244535013	4.724770642201835	41.1
+fungi	magnaporthe	fungi	besthit	all	CC	shallow		0.44679715280159243	0.5212478668327981	33.09166666666667	41.1
+fungi	magnaporthe	fungi	besthit	all	MF	deep			0.0	0.0	41.1
+fungi	magnaporthe	fungi	besthit	all	MF	mid		0.18893056999117605	0.19316383101212822	4.36936936936937	41.1
+fungi	magnaporthe	fungi	besthit	all	MF	shallow		0.5226619057565577	0.5136060068517055	27.605042016806724	41.1
+fungi	magnaporthe	fungi	besthit	exp	BP	mid		0.0	0.0	36.0	41.1
+fungi	magnaporthe	fungi	besthit	exp	BP	shallow		0.0380116959064327	0.072829131652661	342.0	41.1
+fungi	magnaporthe	fungi	besthit	exp	MF	mid		0.0	0.0	8.0	41.1
+fungi	magnaporthe	fungi	besthit	exp	MF	shallow		0.0	0.0	41.0	41.1
+fungi	magnaporthe	fungi	rbh	all	BP	deep			0.0	0.0	41.1
+fungi	magnaporthe	fungi	rbh	all	BP	mid		0.05013111607014152	0.06408731355402131	15.172413793103448	41.1
+fungi	magnaporthe	fungi	rbh	all	BP	shallow		0.3083164734341008	0.4083828258482734	136.20833333333334	41.1
+fungi	magnaporthe	fungi	rbh	all	CC	mid		0.07435951898568721	0.10856215435654687	4.813084112149533	41.1
+fungi	magnaporthe	fungi	rbh	all	CC	shallow		0.37807385900866386	0.4492262574224502	33.09166666666667	41.1
+fungi	magnaporthe	fungi	rbh	all	MF	deep			0.0	0.0	41.1
+fungi	magnaporthe	fungi	rbh	all	MF	mid		0.12474105580166185	0.14800006742880045	4.663461538461538	41.1
+fungi	magnaporthe	fungi	rbh	all	MF	shallow		0.46606036988456034	0.5216499228321164	29.863636363636363	41.1
+fungi	neurospora	fungi	besthit	all	BP	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	besthit	all	BP	mid		0.0839819858765588	0.09207687140289345	15.042735042735043	41.3
+fungi	neurospora	fungi	besthit	all	BP	shallow		0.3795135962405086	0.47749629921740333	136.20833333333334	41.3
+fungi	neurospora	fungi	besthit	all	CC	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	besthit	all	CC	mid		0.0797128494558401	0.11567979075289017	4.768518518518518	41.3
+fungi	neurospora	fungi	besthit	all	CC	shallow		0.5034554710668709	0.5638596712405829	33.09166666666667	41.3
+fungi	neurospora	fungi	besthit	all	MF	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	besthit	all	MF	mid		0.17164275118820574	0.17240320634182527	4.217391304347826	41.3
+fungi	neurospora	fungi	besthit	all	MF	shallow		0.524388775510786	0.5034435316694899	27.605042016806724	41.3
+fungi	neurospora	fungi	besthit	exp	CC	mid		0.0	0.0	6.666666666666667	41.3
+fungi	neurospora	fungi	besthit	exp	CC	shallow		0.09315113240418117	0.1346790890269151	33.0	41.3
+fungi	neurospora	fungi	besthit	exp	MF	mid		0.0	0.0	14.0	41.3
+fungi	neurospora	fungi	besthit	exp	MF	shallow		0.0	0.0	40.0	41.3
+fungi	neurospora	fungi	rbh	all	BP	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	rbh	all	BP	mid		0.05416743723380884	0.06798171770467624	15.172413793103448	41.3
+fungi	neurospora	fungi	rbh	all	BP	shallow		0.3409420261702806	0.4433284069855522	136.20833333333334	41.3
+fungi	neurospora	fungi	rbh	all	CC	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	rbh	all	CC	mid		0.0710450634516055	0.105045714776336	4.813084112149533	41.3
+fungi	neurospora	fungi	rbh	all	CC	shallow		0.4527051812882017	0.5248345925618104	33.09166666666667	41.3
+fungi	neurospora	fungi	rbh	all	MF	deep			0.0	0.0	41.3
+fungi	neurospora	fungi	rbh	all	MF	mid		0.09000676652191802	0.1138436742218255	4.619047619047619	41.3
+fungi	neurospora	fungi	rbh	all	MF	shallow		0.4591345945272204	0.486774175866877	28.31896551724138	41.3
+fungi	neurospora	fungi	rbh	exp	CC	mid		0.0	0.0	6.666666666666667	41.3
+fungi	neurospora	fungi	rbh	exp	CC	shallow		0.09847028134035138	0.14509575569358174	33.0	41.3
+fungi	pombe	fungi	besthit	all	BP	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	all	BP	mid		0.19455853528165634	0.15948270523380498	14.915254237288135	41.2
+fungi	pombe	fungi	besthit	all	BP	shallow		0.5220876730202507	0.580924751329381	136.20833333333334	41.2
+fungi	pombe	fungi	besthit	all	CC	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	all	CC	mid		0.18354790329089393	0.20567375973933813	4.681818181818182	41.2
+fungi	pombe	fungi	besthit	all	CC	shallow		0.643257336770085	0.6364928835102567	33.09166666666667	41.2
+fungi	pombe	fungi	besthit	all	MF	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	all	MF	mid		0.303263291142079	0.2503965621894133	4.409090909090909	41.2
+fungi	pombe	fungi	besthit	all	MF	shallow		0.6209197999434095	0.5434082165570168	27.375	41.2
+fungi	pombe	fungi	besthit	exp	BP	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	exp	BP	mid		0.06674925528438086	0.07335071174383903	15.042735042735043	41.2
+fungi	pombe	fungi	besthit	exp	BP	shallow		0.32041313525726706	0.4169907115301972	138.16101694915255	41.2
+fungi	pombe	fungi	besthit	exp	CC	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	exp	CC	mid		0.05612089105079759	0.07274796130421432	4.724770642201835	41.2
+fungi	pombe	fungi	besthit	exp	CC	shallow		0.4850581732454703	0.5127920860477514	33.09166666666667	41.2
+fungi	pombe	fungi	besthit	exp	MF	deep			0.0	0.0	41.2
+fungi	pombe	fungi	besthit	exp	MF	mid		0.07107737941071274	0.08175769184943496	4.4495412844036695	41.2
+fungi	pombe	fungi	besthit	exp	MF	shallow		0.26566234381665743	0.3283715338928478	28.771929824561404	41.2
+fungi	pombe	fungi	rbh	all	BP	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	all	BP	mid		0.1460829659063169	0.1455064402577879	14.915254237288135	41.2
+fungi	pombe	fungi	rbh	all	BP	shallow		0.46339664148938264	0.5463196454374974	136.20833333333334	41.2
+fungi	pombe	fungi	rbh	all	CC	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	all	CC	mid		0.14139367901050143	0.18155210815066708	4.768518518518518	41.2
+fungi	pombe	fungi	rbh	all	CC	shallow		0.5468906440562021	0.5851223070905843	33.09166666666667	41.2
+fungi	pombe	fungi	rbh	all	MF	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	all	MF	mid		0.1775008661372298	0.17537749640770386	4.5327102803738315	41.2
+fungi	pombe	fungi	rbh	all	MF	shallow		0.5590301139610391	0.5184994276260652	27.375	41.2
+fungi	pombe	fungi	rbh	exp	BP	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	exp	BP	mid		0.04819373248843768	0.05843251013658992	15.172413793103448	41.2
+fungi	pombe	fungi	rbh	exp	BP	shallow		0.26168558571120826	0.3622581099818848	138.16101694915255	41.2
+fungi	pombe	fungi	rbh	exp	CC	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	exp	CC	mid		0.04717748502795231	0.06625892280097888	4.813084112149533	41.2
+fungi	pombe	fungi	rbh	exp	CC	shallow		0.39100504928798097	0.44146247016319423	33.09166666666667	41.2
+fungi	pombe	fungi	rbh	exp	MF	deep			0.0	0.0	41.2
+fungi	pombe	fungi	rbh	exp	MF	mid		0.032489732489732484	0.0426881055452484	4.619047619047619	41.2
+fungi	pombe	fungi	rbh	exp	MF	shallow		0.21405365616457528	0.2830641832378487	29.285714285714285	41.2
+fungi	s_uvarum	fungi	besthit	all	BP	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	besthit	all	BP	mid		0.12969641451096361	0.1411658030805089	15.042735042735043	84.3
+fungi	s_uvarum	fungi	besthit	all	BP	shallow		0.5059766583288458	0.6132641307524089	136.20833333333334	84.3
+fungi	s_uvarum	fungi	besthit	all	CC	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	besthit	all	CC	mid		0.25469131076607715	0.3322291761640747	4.768518518518518	84.3
+fungi	s_uvarum	fungi	besthit	all	CC	shallow		0.6574621461411259	0.7095636807867604	33.09166666666667	84.3
+fungi	s_uvarum	fungi	besthit	all	MF	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	besthit	all	MF	mid		0.2932502121896061	0.28358587940875735	4.5754716981132075	84.3
+fungi	s_uvarum	fungi	besthit	all	MF	shallow		0.6249827224919648	0.6002893499244957	28.076923076923077	84.3
+fungi	s_uvarum	fungi	rbh	all	BP	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	rbh	all	BP	mid		0.12918533613559158	0.1412783061301929	15.042735042735043	84.3
+fungi	s_uvarum	fungi	rbh	all	BP	shallow		0.4996490875535322	0.6074267336498768	136.20833333333334	84.3
+fungi	s_uvarum	fungi	rbh	all	CC	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	rbh	all	CC	mid		0.2483309784711654	0.3266500844738719	4.768518518518518	84.3
+fungi	s_uvarum	fungi	rbh	all	CC	shallow		0.6535227590341244	0.7089292367544283	33.09166666666667	84.3
+fungi	s_uvarum	fungi	rbh	all	MF	deep			0.0	0.0	84.3
+fungi	s_uvarum	fungi	rbh	all	MF	mid		0.29281731175670567	0.2852162562614908	4.5754716981132075	84.3
+fungi	s_uvarum	fungi	rbh	all	MF	shallow		0.6269598578392233	0.6098267893022851	28.31896551724138	84.3
+fungi	torulaspora	fungi	besthit	all	BP	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	besthit	all	BP	mid		0.03870156970269269	0.04271009865560063	15.042735042735043	59.9
+fungi	torulaspora	fungi	besthit	all	BP	shallow		0.350996964647894	0.45601121550882184	136.20833333333334	59.9
+fungi	torulaspora	fungi	besthit	all	CC	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	besthit	all	CC	mid		0.008229491173416406	0.011683172794283905	4.768518518518518	59.9
+fungi	torulaspora	fungi	besthit	all	CC	shallow		0.3836866629488177	0.4680085852970202	33.36974789915966	59.9
+fungi	torulaspora	fungi	besthit	all	MF	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	besthit	all	MF	mid		0.06802739908800513	0.08357753357753359	4.70873786407767	59.9
+fungi	torulaspora	fungi	besthit	all	MF	shallow		0.3869994563332793	0.41200511871498713	28.076923076923077	59.9
+fungi	torulaspora	fungi	rbh	all	BP	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	rbh	all	BP	mid		0.029750301387571815	0.03558137957670156	15.172413793103448	59.9
+fungi	torulaspora	fungi	rbh	all	BP	shallow		0.30427970447020164	0.4130879468454664	136.20833333333334	59.9
+fungi	torulaspora	fungi	rbh	all	CC	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	rbh	all	CC	mid		0.008229491173416406	0.011683172794283905	4.768518518518518	59.9
+fungi	torulaspora	fungi	rbh	all	CC	shallow		0.35036751448640263	0.43008975649285136	33.09166666666667	59.9
+fungi	torulaspora	fungi	rbh	all	MF	deep			0.0	0.0	59.9
+fungi	torulaspora	fungi	rbh	all	MF	mid		0.04877560710894043	0.06225565157603992	4.70873786407767	59.9
+fungi	torulaspora	fungi	rbh	all	MF	shallow		0.3455106638376413	0.400329665044207	29.330357142857142	59.9
+fungi	yarrowia	fungi	besthit	all	BP	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	besthit	all	BP	mid		0.10411058907696719	0.11161754864903237	15.042735042735043	43.9
+fungi	yarrowia	fungi	besthit	all	BP	shallow		0.43655812077014655	0.5358611007717541	136.20833333333334	43.9
+fungi	yarrowia	fungi	besthit	all	CC	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	besthit	all	CC	mid		0.1149500681042737	0.15465028222037566	4.813084112149533	43.9
+fungi	yarrowia	fungi	besthit	all	CC	shallow		0.5698045815838625	0.6216060854102676	33.09166666666667	43.9
+fungi	yarrowia	fungi	besthit	all	MF	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	besthit	all	MF	mid		0.21929448217327005	0.2232231101197886	4.5754716981132075	43.9
+fungi	yarrowia	fungi	besthit	all	MF	shallow		0.5491909481155829	0.524279047983999	27.605042016806724	43.9
+fungi	yarrowia	fungi	rbh	all	BP	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	rbh	all	BP	mid		0.05251214726188763	0.06574064121347391	15.172413793103448	43.9
+fungi	yarrowia	fungi	rbh	all	BP	shallow		0.36392092595717446	0.4672616381529378	136.20833333333334	43.9
+fungi	yarrowia	fungi	rbh	all	CC	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	rbh	all	CC	mid		0.09979029278094698	0.14326561461064385	4.768518518518518	43.9
+fungi	yarrowia	fungi	rbh	all	CC	shallow		0.5217548785652495	0.5821081622400204	33.09166666666667	43.9
+fungi	yarrowia	fungi	rbh	all	MF	deep			0.0	0.0	43.9
+fungi	yarrowia	fungi	rbh	all	MF	mid		0.08102859542253481	0.09903909652821603	4.70873786407767	43.9
+fungi	yarrowia	fungi	rbh	all	MF	shallow		0.4886868306880088	0.505632408612728	28.076923076923077	43.9
+fungi	z_rouxii	fungi	besthit	all	BP	deep			0.0	0.0	58.5
+fungi	z_rouxii	fungi	besthit	all	BP	mid		0.12577401940536748	0.1379385066139065	15.042735042735043	58.5
+fungi	z_rouxii	fungi	besthit	all	BP	shallow		0.47935491398200636	0.5877970651336415	136.20833333333334	58.5
+fungi	z_rouxii	fungi	besthit	all	CC	mid		0.2094269178381328	0.27236097236097234	4.724770642201835	58.5
+fungi	z_rouxii	fungi	besthit	all	CC	shallow		0.6215442036846341	0.6806304531817158	33.09166666666667	58.5
+fungi	z_rouxii	fungi	besthit	all	MF	deep			0.0	0.0	58.5
+fungi	z_rouxii	fungi	besthit	all	MF	mid		0.2759135365195971	0.2771551001693521	4.5754716981132075	58.5
+fungi	z_rouxii	fungi	besthit	all	MF	shallow		0.6154208010331871	0.5853479755344115	27.838983050847457	58.5
+fungi	z_rouxii	fungi	rbh	all	BP	deep			0.0	0.0	58.5
+fungi	z_rouxii	fungi	rbh	all	BP	mid		0.09366645000402969	0.10577840086524369	15.042735042735043	58.5
+fungi	z_rouxii	fungi	rbh	all	BP	shallow		0.43704529801921077	0.5503430575299304	136.20833333333334	58.5
+fungi	z_rouxii	fungi	rbh	all	CC	mid		0.1519093834514395	0.20504991949946078	4.724770642201835	58.5
+fungi	z_rouxii	fungi	rbh	all	CC	shallow		0.5936721648751916	0.6650305285471061	33.09166666666667	58.5
+fungi	z_rouxii	fungi	rbh	all	MF	deep			0.0	0.0	58.5
+fungi	z_rouxii	fungi	rbh	all	MF	mid		0.1996815474088201	0.21690455770644448	4.5754716981132075	58.5
+fungi	z_rouxii	fungi	rbh	all	MF	shallow		0.5786889506156161	0.6042737935842034	29.330357142857142	58.5
+insect	aedes	insect	besthit	all	BP	deep			0.0	0.0	55.5
+insect	aedes	insect	besthit	all	BP	mid		0.12266934870786098	0.144304620982617	30.4	55.5
+insect	aedes	insect	besthit	all	BP	shallow		0.3566004036623059	0.45650321105454955	274.80833333333334	55.5
+insect	aedes	insect	besthit	all	CC	deep			0.0	0.0	55.5
+insect	aedes	insect	besthit	all	CC	mid		0.2708843847838155	0.2451721142933775	5.465346534653466	55.5
+insect	aedes	insect	besthit	all	CC	shallow		0.48154301287736484	0.5484496686995655	33.36440677966102	55.5
+insect	aedes	insect	besthit	all	MF	deep			0.0	0.0	55.5
+insect	aedes	insect	besthit	all	MF	mid		0.4660317911773939	0.3592717721593931	5.2631578947368425	55.5
+insect	aedes	insect	besthit	all	MF	shallow		0.6531284973044206	0.5316799638193516	21.258333333333333	55.5
+insect	aedes	insect	rbh	all	BP	deep			0.0	0.0	55.5
+insect	aedes	insect	rbh	all	BP	mid		0.10223827242458144	0.1261217589855813	30.4	55.5
+insect	aedes	insect	rbh	all	BP	shallow		0.3335666720277493	0.4327159571573547	274.80833333333334	55.5
+insect	aedes	insect	rbh	all	CC	deep			0.0	0.0	55.5
+insect	aedes	insect	rbh	all	CC	mid		0.2599937222802498	0.24769042499878297	5.575757575757576	55.5
+insect	aedes	insect	rbh	all	CC	shallow		0.4757822158975526	0.5465135845884147	33.36440677966102	55.5
+insect	aedes	insect	rbh	all	MF	deep			0.0	0.0	55.5
+insect	aedes	insect	rbh	all	MF	mid		0.42441164526924574	0.3444199353512929	5.2631578947368425	55.5
+insect	aedes	insect	rbh	all	MF	shallow		0.5790591514073964	0.5143904327459413	21.258333333333333	55.5
+insect	anopheles	insect	besthit	all	BP	deep			0.0	0.0	55.2
+insect	anopheles	insect	besthit	all	BP	mid		0.12982650075358493	0.15171300150813188	30.4	55.2
+insect	anopheles	insect	besthit	all	BP	shallow		0.37747151509560894	0.471962863590007	274.80833333333334	55.2
+insect	anopheles	insect	besthit	all	CC	deep			0.0	0.0	55.2
+insect	anopheles	insect	besthit	all	CC	mid		0.3164420037759696	0.2702379878279793	5.52	55.2
+insect	anopheles	insect	besthit	all	CC	shallow		0.5162618892456129	0.5661262049036094	33.36440677966102	55.2
+insect	anopheles	insect	besthit	all	MF	deep			0.0	0.0	55.2
+insect	anopheles	insect	besthit	all	MF	mid		0.4953575157127866	0.34382395763434315	5.172413793103448	55.2
+insect	anopheles	insect	besthit	all	MF	shallow		0.6620948884347597	0.5364886664765962	21.258333333333333	55.2
+insect	anopheles	insect	besthit	exp	BP	mid		0.0	0.0	14.5	55.2
+insect	anopheles	insect	besthit	exp	BP	shallow		0.01803816338700055	0.034722222222222196	60.5	55.2
+insect	anopheles	insect	rbh	all	BP	deep			0.0	0.0	55.2
+insect	anopheles	insect	rbh	all	BP	mid		0.1126522698443975	0.14052888569305985	30.4	55.2
+insect	anopheles	insect	rbh	all	BP	shallow		0.3528871788596162	0.4500811568544984	274.80833333333334	55.2
+insect	anopheles	insect	rbh	all	CC	deep			0.0	0.0	55.2
+insect	anopheles	insect	rbh	all	CC	mid		0.298050717642748	0.27907065992579183	5.63265306122449	55.2
+insect	anopheles	insect	rbh	all	CC	shallow		0.49116225450182754	0.5523772967778082	33.36440677966102	55.2
+insect	anopheles	insect	rbh	all	MF	deep			0.0	0.0	55.2
+insect	anopheles	insect	rbh	all	MF	mid		0.4432550395203278	0.34375455701894436	5.217391304347826	55.2
+insect	anopheles	insect	rbh	all	MF	shallow		0.6138143580458423	0.5383763761811184	21.436974789915965	55.2
+insect	aphid	insect	besthit	all	BP	deep			0.0	0.0	48.3
+insect	aphid	insect	besthit	all	BP	mid		0.10424090498278907	0.13293519752271962	30.4	48.3
+insect	aphid	insect	besthit	all	BP	shallow		0.3227041490747194	0.41726330448522725	274.80833333333334	48.3
+insect	aphid	insect	besthit	all	CC	deep			0.0	0.0	48.3
+insect	aphid	insect	besthit	all	CC	mid		0.2549493341713455	0.261937530905889	5.52	48.3
+insect	aphid	insect	besthit	all	CC	shallow		0.44421208083205554	0.5143839838611686	33.36440677966102	48.3
+insect	aphid	insect	besthit	all	MF	deep			0.0	0.0	48.3
+insect	aphid	insect	besthit	all	MF	mid		0.40542334587908263	0.32614419321238913	5.357142857142857	48.3
+insect	aphid	insect	besthit	all	MF	shallow		0.5748412430290906	0.5036883429270955	21.436974789915965	48.3
+insect	aphid	insect	rbh	all	BP	deep			0.0	0.0	48.3
+insect	aphid	insect	rbh	all	BP	mid		0.08257172853878197	0.11155025946062001	30.4	48.3
+insect	aphid	insect	rbh	all	BP	shallow		0.2889471247000366	0.3779518507249656	274.80833333333334	48.3
+insect	aphid	insect	rbh	all	CC	deep			0.0	0.0	48.3
+insect	aphid	insect	rbh	all	CC	mid		0.1984052913844185	0.21683042232006966	5.575757575757576	48.3
+insect	aphid	insect	rbh	all	CC	shallow		0.41866508469794295	0.4988774412401473	33.36440677966102	48.3
+insect	aphid	insect	rbh	all	MF	deep			0.0	0.0	48.3
+insect	aphid	insect	rbh	all	MF	mid		0.3194196911072275	0.30164776253589454	5.454545454545454	48.3
+insect	aphid	insect	rbh	all	MF	shallow		0.4971634299690832	0.4817663106003109	21.436974789915965	48.3
+insect	apis	insect	besthit	all	BP	deep			0.0	0.0	50.4
+insect	apis	insect	besthit	all	BP	mid		0.1116332790176136	0.13214626931820286	30.4	50.4
+insect	apis	insect	besthit	all	BP	shallow		0.34475597569160404	0.4428594337904033	274.80833333333334	50.4
+insect	apis	insect	besthit	all	CC	deep			0.0	0.0	50.4
+insect	apis	insect	besthit	all	CC	mid		0.26645269482081624	0.23979603041183117	5.465346534653466	50.4
+insect	apis	insect	besthit	all	CC	shallow		0.45404548122348587	0.5329945015596318	33.64957264957265	50.4
+insect	apis	insect	besthit	all	MF	deep			0.0	0.0	50.4
+insect	apis	insect	besthit	all	MF	mid		0.4391253470315788	0.3483572979411893	5.2631578947368425	50.4
+insect	apis	insect	besthit	all	MF	shallow		0.6151733150493102	0.5188176805977389	21.436974789915965	50.4
+insect	apis	insect	besthit	exp	MF	mid		0.0	0.0	4.0	50.4
+insect	apis	insect	besthit	exp	MF	shallow		0.0	0.0	16.0	50.4
+insect	apis	insect	rbh	all	BP	deep			0.0	0.0	50.4
+insect	apis	insect	rbh	all	BP	mid		0.09185496555895249	0.11738216605442418	30.4	50.4
+insect	apis	insect	rbh	all	BP	shallow		0.3156748711474396	0.40990934060375156	274.80833333333334	50.4
+insect	apis	insect	rbh	all	CC	deep			0.0	0.0	50.4
+insect	apis	insect	rbh	all	CC	mid		0.24695692774440403	0.23657717154727234	5.575757575757576	50.4
+insect	apis	insect	rbh	all	CC	shallow		0.4453000497443882	0.5250670101638862	33.64957264957265	50.4
+insect	apis	insect	rbh	all	MF	deep			0.0	0.0	50.4
+insect	apis	insect	rbh	all	MF	mid		0.37805181401570453	0.33724066551773807	5.357142857142857	50.4
+insect	apis	insect	rbh	all	MF	shallow		0.5325207872548317	0.49009203786161265	21.436974789915965	50.4
+insect	bombyx	insect	besthit	all	BP	deep			0.0	0.0	49.8
+insect	bombyx	insect	besthit	all	BP	mid		0.09545817753361445	0.11908330450498807	30.4	49.8
+insect	bombyx	insect	besthit	all	BP	shallow		0.32279423092648635	0.416616717171792	274.80833333333334	49.8
+insect	bombyx	insect	besthit	all	CC	deep			0.0	0.0	49.8
+insect	bombyx	insect	besthit	all	CC	mid		0.2185907405546874	0.2265650284157842	5.411764705882353	49.8
+insect	bombyx	insect	besthit	all	CC	shallow		0.43797932304525705	0.521439108390713	33.36440677966102	49.8
+insect	bombyx	insect	besthit	all	MF	deep			0.0	0.0	49.8
+insect	bombyx	insect	besthit	all	MF	mid		0.41947185237808415	0.34431886135450573	5.2631578947368425	49.8
+insect	bombyx	insect	besthit	all	MF	shallow		0.5921005332409064	0.5175089726246517	21.436974789915965	49.8
+insect	bombyx	insect	rbh	all	BP	deep			0.0	0.0	49.8
+insect	bombyx	insect	rbh	all	BP	mid		0.08277082288967484	0.10762337749517699	30.4	49.8
+insect	bombyx	insect	rbh	all	BP	shallow		0.2940885507160093	0.38426416542796243	274.80833333333334	49.8
+insect	bombyx	insect	rbh	all	CC	deep			0.0	0.0	49.8
+insect	bombyx	insect	rbh	all	CC	mid		0.19567184344224192	0.2173778356511258	5.575757575757576	49.8
+insect	bombyx	insect	rbh	all	CC	shallow		0.42516561659992513	0.5138781848240779	33.36440677966102	49.8
+insect	bombyx	insect	rbh	all	MF	deep			0.0	0.0	49.8
+insect	bombyx	insect	rbh	all	MF	mid		0.3648281570238472	0.3405983744119187	5.357142857142857	49.8
+insect	bombyx	insect	rbh	all	MF	shallow		0.5192940970973072	0.4947437697678571	21.436974789915965	49.8
+insect	celegans	insect	besthit	all	BP	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	all	BP	mid		0.11380277192687822	0.13101656605342127	30.47008547008547	40.6
+insect	celegans	insect	besthit	all	BP	shallow		0.3514956429577534	0.42492242311303924	275.36752136752136	40.6
+insect	celegans	insect	besthit	all	CC	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	all	CC	mid		0.23744752155568094	0.21713741441113002	5.52	40.6
+insect	celegans	insect	besthit	all	CC	shallow		0.5213958624000886	0.5313657169148357	33.89655172413793	40.6
+insect	celegans	insect	besthit	all	MF	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	all	MF	mid		0.35702206984469886	0.2743052005303614	5.288288288288288	40.6
+insect	celegans	insect	besthit	all	MF	shallow		0.5510278977591225	0.47864784344894057	21.637931034482758	40.6
+insect	celegans	insect	besthit	exp	BP	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	exp	BP	mid		0.020716152730704162	0.032424861652213005	31.732142857142858	40.6
+insect	celegans	insect	besthit	exp	BP	shallow		0.16536347209851013	0.2330241148931255	279.61739130434785	40.6
+insect	celegans	insect	besthit	exp	CC	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	exp	CC	mid		0.013045928430543812	0.02011113886113886	5.9021739130434785	40.6
+insect	celegans	insect	besthit	exp	CC	shallow		0.19768653078238593	0.26724762288485376	34.29203539823009	40.6
+insect	celegans	insect	besthit	exp	MF	deep			0.0	0.0	40.6
+insect	celegans	insect	besthit	exp	MF	mid		0.08527839697270236	0.1090922545468	5.838383838383838	40.6
+insect	celegans	insect	besthit	exp	MF	shallow		0.23342332224752463	0.28271219423986166	22.38888888888889	40.6
+insect	celegans	insect	rbh	all	BP	deep			0.0	0.0	40.6
+insect	celegans	insect	rbh	all	BP	mid		0.07667994537653361	0.09964137794344975	30.70689655172414	40.6
+insect	celegans	insect	rbh	all	BP	shallow		0.31507268730433585	0.39476174920701096	277.17241379310343	40.6
+insect	celegans	insect	rbh	all	CC	deep			0.0	0.0	40.6
+insect	celegans	insect	rbh	all	CC	mid		0.18802332223048335	0.19647128461464525	5.622448979591836	40.6
+insect	celegans	insect	rbh	all	CC	shallow		0.4780701891293022	0.5047866376887615	34.03478260869565	40.6
+insect	celegans	insect	rbh	all	MF	deep			0.0	0.0	40.6
+insect	celegans	insect	rbh	all	MF	mid		0.2384963270467472	0.22362844498551568	5.537735849056604	40.6
+insect	celegans	insect	rbh	all	MF	shallow		0.4871088022331881	0.45306894058964126	21.765217391304347	40.6
+insect	celegans	insect	rbh	exp	BP	deep			0.0	0.0	40.6
+insect	celegans	insect	rbh	exp	BP	mid		0.006190703231108714	0.011073302053678978	32.45871559633027	40.6
+insect	celegans	insect	rbh	exp	BP	shallow		0.1336504653043838	0.200025169553273	285.39285714285717	40.6
+insect	celegans	insect	rbh	exp	CC	deep			0.0	0.0	40.6
+insect	celegans	insect	rbh	exp	CC	mid		0.005217742527722699	0.008628824359161437	6.078651685393258	40.6
+insect	celegans	insect	rbh	exp	CC	shallow		0.16778760065827056	0.23423440667243367	34.96330275229358	40.6
+insect	celegans	insect	rbh	exp	MF	mid		0.017536630036630037	0.024296034203154945	5.926315789473684	40.6
+insect	celegans	insect	rbh	exp	MF	shallow		0.19615331320336937	0.25029750280688023	22.89423076923077	40.6
+insect	d_ananassae	insect	besthit	all	BP	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	besthit	all	BP	mid		0.09091811698815928	0.1111447516958725	30.4	81.0
+insect	d_ananassae	insect	besthit	all	BP	shallow		0.30301269153248983	0.39698588902013765	274.80833333333334	81.0
+insect	d_ananassae	insect	besthit	all	CC	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	besthit	all	CC	mid		0.13368531461510588	0.14104997992159196	5.411764705882353	81.0
+insect	d_ananassae	insect	besthit	all	CC	shallow		0.41144574009350976	0.4862346883254942	33.36440677966102	81.0
+insect	d_ananassae	insect	besthit	all	MF	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	besthit	all	MF	mid		0.358646304998955	0.29878749799791304	5.3097345132743365	81.0
+insect	d_ananassae	insect	besthit	all	MF	shallow		0.5884502360310573	0.4901934216526016	21.258333333333333	81.0
+insect	d_ananassae	insect	rbh	all	BP	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	rbh	all	BP	mid		0.08734083650009292	0.10937010689033859	30.4	81.0
+insect	d_ananassae	insect	rbh	all	BP	shallow		0.29697271555002885	0.39011831649165807	274.80833333333334	81.0
+insect	d_ananassae	insect	rbh	all	CC	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	rbh	all	CC	mid		0.13153477698069727	0.13765665555303538	5.411764705882353	81.0
+insect	d_ananassae	insect	rbh	all	CC	shallow		0.41281625218211004	0.4870847946814735	33.36440677966102	81.0
+insect	d_ananassae	insect	rbh	all	MF	deep			0.0	0.0	81.0
+insect	d_ananassae	insect	rbh	all	MF	mid		0.325670507419197	0.2771727138463993	5.3097345132743365	81.0
+insect	d_ananassae	insect	rbh	all	MF	shallow		0.5756220988255945	0.49145118464161436	21.258333333333333	81.0
+insect	d_grimshawi	insect	besthit	all	BP	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	besthit	all	BP	mid		0.09311164870071746	0.11261305217522725	30.4	73.3
+insect	d_grimshawi	insect	besthit	all	BP	shallow		0.3215745205776063	0.4160882987290819	274.80833333333334	73.3
+insect	d_grimshawi	insect	besthit	all	CC	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	besthit	all	CC	mid		0.17451422883111686	0.1673249616515119	5.359223300970874	73.3
+insect	d_grimshawi	insect	besthit	all	CC	shallow		0.4523212161969741	0.5178842095509384	33.36440677966102	73.3
+insect	d_grimshawi	insect	besthit	all	MF	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	besthit	all	MF	mid		0.3807089376250704	0.3073201306404075	5.2631578947368425	73.3
+insect	d_grimshawi	insect	besthit	all	MF	shallow		0.6102051455214238	0.5000982189871781	21.258333333333333	73.3
+insect	d_grimshawi	insect	rbh	all	BP	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	rbh	all	BP	mid		0.08525548148542304	0.1046868546469027	30.4	73.3
+insect	d_grimshawi	insect	rbh	all	BP	shallow		0.3133625766497102	0.40780632606828787	274.80833333333334	73.3
+insect	d_grimshawi	insect	rbh	all	CC	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	rbh	all	CC	mid		0.1378270808536463	0.13828194690559054	5.359223300970874	73.3
+insect	d_grimshawi	insect	rbh	all	CC	shallow		0.44171290219518594	0.5123556423900043	33.36440677966102	73.3
+insect	d_grimshawi	insect	rbh	all	MF	deep			0.0	0.0	73.3
+insect	d_grimshawi	insect	rbh	all	MF	mid		0.331162221749001	0.2770465207925573	5.2631578947368425	73.3
+insect	d_grimshawi	insect	rbh	all	MF	shallow		0.5819332306309832	0.49461562903654094	21.258333333333333	73.3
+insect	d_simulans	insect	besthit	all	BP	deep			0.0	0.0	96.3
+insect	d_simulans	insect	besthit	all	BP	mid		0.06945334506371678	0.08838055933486867	30.4	96.3
+insect	d_simulans	insect	besthit	all	BP	shallow		0.2735389017470466	0.36459439352663453	274.80833333333334	96.3
+insect	d_simulans	insect	besthit	all	CC	deep			0.0	0.0	96.3
+insect	d_simulans	insect	besthit	all	CC	mid		0.09932814392017428	0.10162113956346795	5.3076923076923075	96.3
+insect	d_simulans	insect	besthit	all	CC	shallow		0.3790695135495283	0.4644658652783232	33.64957264957265	96.3
+insect	d_simulans	insect	besthit	all	MF	deep			0.0	0.0	96.3
+insect	d_simulans	insect	besthit	all	MF	mid		0.29327758459965797	0.25776508095143486	5.3097345132743365	96.3
+insect	d_simulans	insect	besthit	all	MF	shallow		0.5442849572759674	0.4726873009271057	21.436974789915965	96.3
+insect	d_simulans	insect	rbh	all	BP	deep			0.0	0.0	96.3
+insect	d_simulans	insect	rbh	all	BP	mid		0.06231621333745288	0.08146032341665037	30.4	96.3
+insect	d_simulans	insect	rbh	all	BP	shallow		0.2565927336225703	0.3477401825792837	274.80833333333334	96.3
+insect	d_simulans	insect	rbh	all	CC	deep			0.0	0.0	96.3
+insect	d_simulans	insect	rbh	all	CC	mid		0.09556470305995923	0.09975995946569152	5.359223300970874	96.3
+insect	d_simulans	insect	rbh	all	CC	shallow		0.3573377885610697	0.4442594073181435	33.64957264957265	96.3
+insect	d_simulans	insect	rbh	all	MF	deep			0.0	0.0	96.3
+insect	d_simulans	insect	rbh	all	MF	mid		0.2538521876320362	0.23931425597356945	5.405405405405405	96.3
+insect	d_simulans	insect	rbh	all	MF	shallow		0.5108848752798647	0.46184582088652515	21.436974789915965	96.3
+insect	d_virilis	insect	besthit	all	BP	deep			0.0	0.0	73.8
+insect	d_virilis	insect	besthit	all	BP	mid		0.10392690181085469	0.12904069954409417	30.4	73.8
+insect	d_virilis	insect	besthit	all	BP	shallow		0.32327977755679854	0.41913676310053066	274.80833333333334	73.8
+insect	d_virilis	insect	besthit	all	CC	deep			0.0	0.0	73.8
+insect	d_virilis	insect	besthit	all	CC	mid		0.1818665135553181	0.17526949168201242	5.411764705882353	73.8
+insect	d_virilis	insect	besthit	all	CC	shallow		0.43512566260885915	0.5105994791119546	33.36440677966102	73.8
+insect	d_virilis	insect	besthit	all	MF	deep			0.0	0.0	73.8
+insect	d_virilis	insect	besthit	all	MF	mid		0.38005704955326386	0.31509738442545815	5.357142857142857	73.8
+insect	d_virilis	insect	besthit	all	MF	shallow		0.6056383051103704	0.496169066914631	21.258333333333333	73.8
+insect	d_virilis	insect	rbh	all	BP	deep			0.0	0.0	73.8
+insect	d_virilis	insect	rbh	all	BP	mid		0.09829537934411009	0.12375540377032776	30.4	73.8
+insect	d_virilis	insect	rbh	all	BP	shallow		0.31549837078432863	0.4128828052838279	274.80833333333334	73.8
+insect	d_virilis	insect	rbh	all	CC	deep			0.0	0.0	73.8
+insect	d_virilis	insect	rbh	all	CC	mid		0.1460829528191957	0.14284136358162147	5.411764705882353	73.8
+insect	d_virilis	insect	rbh	all	CC	shallow		0.43581530702507554	0.5122580917469896	33.36440677966102	73.8
+insect	d_virilis	insect	rbh	all	MF	deep			0.0	0.0	73.8
+insect	d_virilis	insect	rbh	all	MF	mid		0.3633163873918096	0.30891298216194396	5.357142857142857	73.8
+insect	d_virilis	insect	rbh	all	MF	shallow		0.5924554689758852	0.4986880753070154	21.258333333333333	73.8
+insect	d_yakuba	insect	besthit	all	BP	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	besthit	all	BP	mid		0.07595731600122246	0.09469336973828243	30.4	93.1
+insect	d_yakuba	insect	besthit	all	BP	shallow		0.2875850714838172	0.38315172309095374	274.80833333333334	93.1
+insect	d_yakuba	insect	besthit	all	CC	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	besthit	all	CC	mid		0.10217845967371585	0.10084787226922491	5.411764705882353	93.1
+insect	d_yakuba	insect	besthit	all	CC	shallow		0.4026600457209169	0.4733512982249114	33.36440677966102	93.1
+insect	d_yakuba	insect	besthit	all	MF	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	besthit	all	MF	mid		0.34663890112346724	0.2902918241846734	5.3097345132743365	93.1
+insect	d_yakuba	insect	besthit	all	MF	shallow		0.5881217073704121	0.49265014821264536	21.258333333333333	93.1
+insect	d_yakuba	insect	rbh	all	BP	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	rbh	all	BP	mid		0.07568160604809314	0.09446288028053126	30.4	93.1
+insect	d_yakuba	insect	rbh	all	BP	shallow		0.28529680822104414	0.38026113917948107	274.80833333333334	93.1
+insect	d_yakuba	insect	rbh	all	CC	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	rbh	all	CC	mid		0.10217845967371585	0.10084787226922491	5.411764705882353	93.1
+insect	d_yakuba	insect	rbh	all	CC	shallow		0.39389038915547325	0.46476387085016413	33.36440677966102	93.1
+insect	d_yakuba	insect	rbh	all	MF	deep			0.0	0.0	93.1
+insect	d_yakuba	insect	rbh	all	MF	mid		0.33696084998502007	0.2835613539781491	5.3097345132743365	93.1
+insect	d_yakuba	insect	rbh	all	MF	shallow		0.5876961615915868	0.4930439128360389	21.258333333333333	93.1
+insect	daphnia	insect	besthit	all	BP	deep			0.0	0.0	49.1
+insect	daphnia	insect	besthit	all	BP	mid		0.11067187955284392	0.13574775286047863	30.4	49.1
+insect	daphnia	insect	besthit	all	BP	shallow		0.3313198465168359	0.4234850747513015	274.80833333333334	49.1
+insect	daphnia	insect	besthit	all	CC	deep			0.0	0.0	49.1
+insect	daphnia	insect	besthit	all	CC	mid		0.28772150086191833	0.27179049824400664	5.575757575757576	49.1
+insect	daphnia	insect	besthit	all	CC	shallow		0.4929576006237095	0.5479913383661126	33.64957264957265	49.1
+insect	daphnia	insect	besthit	all	MF	deep			0.0	0.0	49.1
+insect	daphnia	insect	besthit	all	MF	mid		0.39112409894296907	0.3050165672600265	5.2631578947368425	49.1
+insect	daphnia	insect	besthit	all	MF	shallow		0.6153727145771797	0.5246208541100715	21.436974789915965	49.1
+insect	daphnia	insect	rbh	all	BP	deep			0.0	0.0	49.1
+insect	daphnia	insect	rbh	all	BP	mid		0.09632878745811624	0.12679556064846223	30.4	49.1
+insect	daphnia	insect	rbh	all	BP	shallow		0.3034287446127486	0.39218138370817035	274.80833333333334	49.1
+insect	daphnia	insect	rbh	all	CC	deep			0.0	0.0	49.1
+insect	daphnia	insect	rbh	all	CC	mid		0.22422400671926287	0.22276274661953763	5.465346534653466	49.1
+insect	daphnia	insect	rbh	all	CC	shallow		0.45710701227674355	0.5332043622776725	33.64957264957265	49.1
+insect	daphnia	insect	rbh	all	MF	deep			0.0	0.0	49.1
+insect	daphnia	insect	rbh	all	MF	mid		0.30243752935948626	0.27334730774171767	5.357142857142857	49.1
+insect	daphnia	insect	rbh	all	MF	shallow		0.5442502742785899	0.4971243587803851	21.559322033898304	49.1
+insect	mouse	insect	besthit	all	BP	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	all	BP	mid		0.27540515226779855	0.18364996911182088	30.4	44.9
+insect	mouse	insect	besthit	all	BP	shallow		0.4820083166368743	0.4836360058403878	274.80833333333334	44.9
+insect	mouse	insect	besthit	all	CC	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	all	CC	mid		0.3955824851934909	0.1969737926360179	4.972972972972973	44.9
+insect	mouse	insect	besthit	all	CC	shallow		0.5884063742843404	0.5052770856920902	32.80833333333333	44.9
+insect	mouse	insect	besthit	all	MF	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	all	MF	mid		0.5007770212487743	0.23387844959914794	5.084745762711864	44.9
+insect	mouse	insect	besthit	all	MF	shallow		0.654599124106338	0.48019907359435215	21.258333333333333	44.9
+insect	mouse	insect	besthit	exp	BP	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	exp	BP	mid		0.09768392095133072	0.10599090426097844	30.4	44.9
+insect	mouse	insect	besthit	exp	BP	shallow		0.3020714714623669	0.37475948057842307	274.80833333333334	44.9
+insect	mouse	insect	besthit	exp	CC	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	exp	CC	mid		0.0916706913860614	0.06992840225334628	5.3076923076923075	44.9
+insect	mouse	insect	besthit	exp	CC	shallow		0.4289450045610267	0.4639723612335072	33.08403361344538	44.9
+insect	mouse	insect	besthit	exp	MF	deep			0.0	0.0	44.9
+insect	mouse	insect	besthit	exp	MF	mid		0.1865882480835888	0.17337928895842075	5.454545454545454	44.9
+insect	mouse	insect	besthit	exp	MF	shallow		0.43854765543430707	0.44208999657114245	21.436974789915965	44.9
+insect	mouse	insect	rbh	all	BP	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	all	BP	mid		0.25274387657645236	0.1927332439887933	30.4	44.9
+insect	mouse	insect	rbh	all	BP	shallow		0.44738393904458257	0.47222477169079075	274.80833333333334	44.9
+insect	mouse	insect	rbh	all	CC	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	all	CC	mid		0.3188040963183278	0.1918278747197334	5.064220183486238	44.9
+insect	mouse	insect	rbh	all	CC	shallow		0.612498577330058	0.5250031380319568	33.08403361344538	44.9
+insect	mouse	insect	rbh	all	MF	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	all	MF	mid		0.39990892889116536	0.22716605364822406	5.172413793103448	44.9
+insect	mouse	insect	rbh	all	MF	shallow		0.5956243196036357	0.4666889045725078	21.258333333333333	44.9
+insect	mouse	insect	rbh	exp	BP	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	exp	BP	mid		0.07678937826105071	0.09386189801985095	30.83050847457627	44.9
+insect	mouse	insect	rbh	exp	BP	shallow		0.25637561944609294	0.335109286078058	278.89830508474574	44.9
+insect	mouse	insect	rbh	exp	CC	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	exp	CC	mid		0.07989184915493901	0.08320885309549013	5.5	44.9
+insect	mouse	insect	rbh	exp	CC	shallow		0.3856389959012479	0.4356523689850688	33.30769230769231	44.9
+insect	mouse	insect	rbh	exp	MF	deep			0.0	0.0	44.9
+insect	mouse	insect	rbh	exp	MF	mid		0.08718824610832929	0.10196883287198527	5.75	44.9
+insect	mouse	insect	rbh	exp	MF	shallow		0.4116033851728466	0.42127208466133875	21.5982905982906	44.9
+insect	nasonia	insect	besthit	all	BP	deep			0.0	0.0	50.8
+insect	nasonia	insect	besthit	all	BP	mid		0.10897351400552382	0.126904484093978	30.4	50.8
+insect	nasonia	insect	besthit	all	BP	shallow		0.33476622789153676	0.4338383286125715	274.80833333333334	50.8
+insect	nasonia	insect	besthit	all	CC	deep			0.0	0.0	50.8
+insect	nasonia	insect	besthit	all	CC	mid		0.25876355003489726	0.2306922353918077	5.411764705882353	50.8
+insect	nasonia	insect	besthit	all	CC	shallow		0.45792908652930453	0.5320490589788421	33.64957264957265	50.8
+insect	nasonia	insect	besthit	all	MF	deep			0.0	0.0	50.8
+insect	nasonia	insect	besthit	all	MF	mid		0.4450495200349598	0.34051075706071077	5.2631578947368425	50.8
+insect	nasonia	insect	besthit	all	MF	shallow		0.6324647432738411	0.5178570409338533	21.436974789915965	50.8
+insect	nasonia	insect	rbh	all	BP	deep			0.0	0.0	50.8
+insect	nasonia	insect	rbh	all	BP	mid		0.08670408289774828	0.10873495228782838	30.4	50.8
+insect	nasonia	insect	rbh	all	BP	shallow		0.30669091679998495	0.4034604318788314	274.80833333333334	50.8
+insect	nasonia	insect	rbh	all	CC	deep			0.0	0.0	50.8
+insect	nasonia	insect	rbh	all	CC	mid		0.21265034424427215	0.2185247019503818	5.575757575757576	50.8
+insect	nasonia	insect	rbh	all	CC	shallow		0.43072574898630933	0.5117639938040123	33.36440677966102	50.8
+insect	nasonia	insect	rbh	all	MF	deep			0.0	0.0	50.8
+insect	nasonia	insect	rbh	all	MF	mid		0.379822708892307	0.3391194314574926	5.3097345132743365	50.8
+insect	nasonia	insect	rbh	all	MF	shallow		0.5495701229016569	0.4905397442206259	21.436974789915965	50.8
+insect	tribolium	insect	besthit	all	BP	deep			0.0	0.0	51.3
+insect	tribolium	insect	besthit	all	BP	mid		0.12102130054306993	0.14554539774870506	30.4	51.3
+insect	tribolium	insect	besthit	all	BP	shallow		0.35491862702796895	0.4499446537629994	274.80833333333334	51.3
+insect	tribolium	insect	besthit	all	CC	deep			0.0	0.0	51.3
+insect	tribolium	insect	besthit	all	CC	mid		0.26921515654912237	0.2535551964998218	5.465346534653466	51.3
+insect	tribolium	insect	besthit	all	CC	shallow		0.4904019395371079	0.5536325198189438	33.64957264957265	51.3
+insect	tribolium	insect	besthit	all	MF	deep			0.0	0.0	51.3
+insect	tribolium	insect	besthit	all	MF	mid		0.470411436478705	0.34828646109048017	5.3097345132743365	51.3
+insect	tribolium	insect	besthit	all	MF	shallow		0.6394031498417811	0.5312103317870852	21.258333333333333	51.3
+insect	tribolium	insect	rbh	all	BP	deep			0.0	0.0	51.3
+insect	tribolium	insect	rbh	all	BP	mid		0.10900475759767111	0.13746618862784016	30.4	51.3
+insect	tribolium	insect	rbh	all	BP	shallow		0.3299955356652912	0.42325478648495546	274.80833333333334	51.3
+insect	tribolium	insect	rbh	all	CC	deep			0.0	0.0	51.3
+insect	tribolium	insect	rbh	all	CC	mid		0.21239193198396233	0.22019537452275345	5.575757575757576	51.3
+insect	tribolium	insect	rbh	all	CC	shallow		0.47470098118856435	0.5503836968098402	33.64957264957265	51.3
+insect	tribolium	insect	rbh	all	MF	deep			0.0	0.0	51.3
+insect	tribolium	insect	rbh	all	MF	mid		0.4048045054451577	0.3420330324812651	5.357142857142857	51.3
+insect	tribolium	insect	rbh	all	MF	shallow		0.5547022788540031	0.5134054871856104	21.436974789915965	51.3
+insect	yeast	insect	besthit	all	BP	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	all	BP	mid		0.12687456825100193	0.13530783007554475	31.88679245283019	37.9
+insect	yeast	insect	besthit	all	BP	shallow		0.23360076882470532	0.2995273216708953	285.5377358490566	37.9
+insect	yeast	insect	besthit	all	CC	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	all	CC	mid		0.144623899745007	0.13335260249370393	5.373737373737374	37.9
+insect	yeast	insect	besthit	all	CC	shallow		0.3518086998804757	0.3946534681992844	34.971698113207545	37.9
+insect	yeast	insect	besthit	all	MF	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	all	MF	mid		0.2362685553371828	0.1895617861130824	5.536082474226804	37.9
+insect	yeast	insect	besthit	all	MF	shallow		0.3830580468976217	0.35061889748345754	21.150943396226417	37.9
+insect	yeast	insect	besthit	exp	BP	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	exp	BP	mid		0.08859481550979464	0.1084886932270879	31.88679245283019	37.9
+insect	yeast	insect	besthit	exp	BP	shallow		0.2124083777554119	0.27774083416263257	285.5377358490566	37.9
+insect	yeast	insect	besthit	exp	CC	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	exp	CC	mid		0.13425755712952944	0.1284814164458127	5.32	37.9
+insect	yeast	insect	besthit	exp	CC	shallow		0.3204965825157362	0.36425116278004255	34.971698113207545	37.9
+insect	yeast	insect	besthit	exp	MF	deep			0.0	0.0	37.9
+insect	yeast	insect	besthit	exp	MF	mid		0.16446613511155994	0.16553060433121464	5.712765957446808	37.9
+insect	yeast	insect	besthit	exp	MF	shallow		0.31394465528136495	0.3378062166220087	21.557692307692307	37.9
+insect	yeast	insect	rbh	all	BP	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	all	BP	mid		0.09693512350426307	0.11682363668122117	32.57843137254902	37.9
+insect	yeast	insect	rbh	all	BP	shallow		0.22057673456172686	0.2827285317283118	290.6470588235294	37.9
+insect	yeast	insect	rbh	all	CC	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	all	CC	mid		0.10005200840925374	0.10516322541209419	5.758241758241758	37.9
+insect	yeast	insect	rbh	all	CC	shallow		0.29469733534061326	0.35513582340405836	35.801980198019805	37.9
+insect	yeast	insect	rbh	all	MF	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	all	MF	mid		0.1305773715679057	0.13948692865028423	5.739130434782608	37.9
+insect	yeast	insect	rbh	all	MF	shallow		0.2833597137433966	0.30305324316886867	21.534653465346533	37.9
+insect	yeast	insect	rbh	exp	BP	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	exp	BP	mid		0.07188027647446116	0.09646198793709809	32.81188118811881	37.9
+insect	yeast	insect	rbh	exp	BP	shallow		0.19758569755087077	0.2635888252639025	291.58415841584156	37.9
+insect	yeast	insect	rbh	exp	CC	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	exp	CC	mid		0.09348351403498462	0.10232350591480693	5.786516853932584	37.9
+insect	yeast	insect	rbh	exp	CC	shallow		0.2643868126541352	0.3274538972104228	35.535353535353536	37.9
+insect	yeast	insect	rbh	exp	MF	deep			0.0	0.0	37.9
+insect	yeast	insect	rbh	exp	MF	mid		0.09131075831767872	0.11545616637240276	5.863636363636363	37.9
+insect	yeast	insect	rbh	exp	MF	shallow		0.25294611966310937	0.2990299236544748	21.969072164948454	37.9

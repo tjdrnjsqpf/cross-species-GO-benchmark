@@ -1,0 +1,51 @@
+=== D1a: Spearman(Wang, list_size) by source (pooled all tracks, RBH/all) ===
+  synthetic: rho=+0.116 p=1.63e-101  (n=33721, median size=79)
+  real     : rho=+0.021 p=3.39e-01  (n=2048, median size=1098)
+
+=== D1b: real vs synthetic Wang within MATCHED size bins (pooled) ===
+  if real < synthetic even at same size -> low real score is NOT a size artifact
+                    mean   size
+szbin   source                 
+<100    real       0.230    173
+        synthetic  0.659  21727
+100-250 real       0.310    347
+        synthetic  0.711  11994
+250-500 real       0.457    138
+500-1k  real       0.360    292
+1k-2.5k real       0.282    497
+>2.5k   real       0.365    601
+
+  per-bin (real - synthetic):
+source    real  synthetic  real_minus_syn
+szbin                                    
+<100     0.230      0.659          -0.429
+100-250  0.310      0.711          -0.401
+250-500  0.457        NaN             NaN
+500-1k   0.360        NaN             NaN
+1k-2.5k  0.282        NaN             NaN
+>2.5k    0.365        NaN             NaN
+
+=== D3: focal truth coverage vs mean real-DEG Wang (per track) ===
+            track  truth_cov  n_truth  wang_real  wang_syn   gap
+       plant_rice      0.024     1064      0.114     0.536 0.421
+             fish      0.138     3666      0.138     0.582 0.444
+           insect      0.456     6258      0.356     0.750 0.394
+plant_arabidopsis      0.495    13458      0.369     0.635 0.265
+           mammal      0.587    12829      0.579     0.741 0.162
+            fungi      0.908     5506      0.355     0.773 0.418
+  Spearman(truth_coverage, real_Wang) = +0.657 (p=0.156)
+  Spearman(truth_coverage, real-syn gap) = -0.600 (p=0.208)  [<0 => more truth, smaller gap]
+
+=== D2: threshold sensitivity — does stricter DEG calling raise truth-overlap? ===
+  truth_overlap = fraction of DEG genes that carry ANY focal EXP-truth annotation
+  if strict (less noise) does NOT raise overlap -> missing signal is in the TRUTH, not the lists
+kind               lenient  strict  delta_overlap  size_shrink_x
+track                                                           
+fish                 0.165   0.154         -0.011            5.0
+fungi                0.828   0.888          0.060            1.0
+insect               0.639   0.666          0.027            1.5
+mammal               0.722   0.707         -0.015            2.9
+plant_arabidopsis    0.656   0.667          0.011            5.7
+plant_rice           0.019   0.025          0.006            3.1
+  => lists shrink 1.0-5.7x but truth-overlap barely moves (|delta|<=0.06):
+     real-DEG validity is capped by focal-truth coverage, robust to DEG threshold.
