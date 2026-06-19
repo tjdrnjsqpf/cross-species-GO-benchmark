@@ -10,7 +10,7 @@ Outputs: results/<track>/enrichment/{lists_large.tsv, lists_large_meta.tsv}
 import os, sys, argparse
 from collections import defaultdict
 import lib_go
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 OUT=os.environ.get("GOTX_OUT", ROOT+"/results")
 BINS=[(250,500,"250-500"),(500,1000,"500-1k"),(1000,2500,"1k-2.5k"),(2500,10**9,">2.5k")]
 PER=3   # single terms per (aspect,bin)

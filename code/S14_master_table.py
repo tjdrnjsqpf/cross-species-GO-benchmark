@@ -7,7 +7,7 @@ Outputs: results/crossclade/master_table.{tsv,md}
 import os, json, glob
 import numpy as np, pandas as pd
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"; OUTD=f"{ROOT}/results/crossclade"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__)))); OUTD=f"{ROOT}/results/crossclade"
 TRACKS={"fish":"zebrafish","mammal":"mouse","plant_rice":"rice",
         "plant_arabidopsis":"arabidopsis","fungi":"yeast","insect":"fruitfly"}
 

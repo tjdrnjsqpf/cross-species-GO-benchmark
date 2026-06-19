@@ -6,7 +6,7 @@ Outputs: <species>.prot.fasta (header = accession) + <species>.gene2acc.tsv (gen
 """
 import gzip, os, re, sys, glob
 
-PDIR = "/var2/lsg/Claude_Code/Cross-species-GeneOntology/data/proteomes"
+PDIR = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) + "/data/proteomes"
 GN_RE = re.compile(r"\bGN=(\S+)")
 ACC_RE = re.compile(r"^(?:sp|tr)\|([^|]+)\|")
 

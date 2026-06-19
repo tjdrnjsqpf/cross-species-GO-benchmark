@@ -3,7 +3,7 @@
 # gene x anatomy mean-rank table (Bgee Rank = cross-condition normalised expression; lower=higher).
 # Writes data/bgee/<bgee_name>.slim.tsv. Skips species already done.
 suppressMessages({library(BgeeDB); library(data.table)})
-ROOT <- "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT <- Sys.getenv("GOTX_ROOT", unset = "..")
 setwd(file.path(ROOT,"data/bgee"))
 tg <- fread(file.path(ROOT,"data/bgee/targets.tsv"))
 species <- unique(tg$bgee_name)

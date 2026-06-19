@@ -4,7 +4,7 @@ and emit a track YAML (same schema as track_fish.yaml). GO source auto: GOA dir 
 species has one, else QuickGO by taxid. Logs species with no reference proteome (skipped).
 Registries are defined inline below; run:  gen_config.py <trackname>
 """
-import sys, time, urllib.request, urllib.parse
+import os, sys, time, urllib.request, urllib.parse
 
 GOA_DIRS = {  # species with a dedicated UniProt-GOA species GAF (keeps MOD experimental codes)
  "human":"HUMAN/goa_human.gaf.gz","mouse":"MOUSE/goa_mouse.gaf.gz","rat":"RAT/goa_rat.gaf.gz",
@@ -123,7 +123,7 @@ EXTRA = {
 
 def extend(track, which="EXTRA"):
     import yaml
-    path=f"/var2/lsg/Claude_Code/Cross-species-GeneOntology/config/track_{track}.yaml"
+    path=f"{os.environ.get('GOTX_ROOT', os.path.dirname(os.path.dirname(os.path.realpath(__file__))))}/config/track_{track}.yaml"
     cfg=yaml.safe_load(open(path)); added=0
     reg = (ANCHORS if which=="ANCHORS" else EXTRA).get(track, [])
     for name,taxid,My,rich,wgd in reg:
@@ -161,7 +161,7 @@ def emit(track):
         wgd = dict(kv.split("=") for kv in flags.split(",")).get("wgd","none")
         print(f"  {name:16s} {up}_{org}  goa={gs}  My={My} wgd={wgd}")
         lines.append(f"  {name}: {{role: {role}, proteome: {up}_{org}, taxid: {org}, go_source: {gs}{goa}, timetree_My: {My}, richness_class: {rich}, wgd: {wgd}}}")
-    path=f"/var2/lsg/Claude_Code/Cross-species-GeneOntology/config/track_{track}.yaml"
+    path=f"{os.environ.get('GOTX_ROOT', os.path.dirname(os.path.dirname(os.path.realpath(__file__))))}/config/track_{track}.yaml"
     open(path,"w").write("\n".join(lines)+"\n")
     print(f"[gen] wrote {path} ({len(r['species'])-len(skipped)} species, {len(skipped)} skipped)")
 

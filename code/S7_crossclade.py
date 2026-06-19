@@ -12,7 +12,7 @@ import statsmodels.formula.api as smf
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 TRACKS = {"fish":"fish", "mammal":"mammal", "plant_rice":"plant", "plant_arabidopsis":"plant",
           "fungi":"fungi", "insect":"insect"}
 OUTD = f"{ROOT}/results/crossclade"; os.makedirs(OUTD, exist_ok=True)

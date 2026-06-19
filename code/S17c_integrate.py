@@ -10,7 +10,7 @@ import numpy as np, pandas as pd
 from scipy.stats import spearmanr
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"; OUTD=f"{ROOT}/results/crossclade"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__)))); OUTD=f"{ROOT}/results/crossclade"
 clade_color={"fish":"#1b9e77","mammal":"#d95f02","plant_rice":"#7570b3",
              "plant_arabidopsis":"#9e8fd0","fungi":"#e7298a","insect":"#66a61e"}
 

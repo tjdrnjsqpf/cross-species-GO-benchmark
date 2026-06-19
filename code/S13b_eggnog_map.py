@@ -15,7 +15,7 @@ Outputs also: results/crossclade/eggnog_retention.txt (eggnog vs rbh retention o
 import os, glob, yaml, shutil
 import pandas as pd
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 ANN  = f"{ROOT}/results/eggnog_eval/annotations"
 OUTX = f"{ROOT}/results/crossclade"; os.makedirs(OUTX, exist_ok=True)
 

@@ -4,13 +4,13 @@
 #   method 2 (rbh):     reciprocal best hit (focal<->ref)
 # Params logged per Primmer Box 6.
 set -eu
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 OUT=${GOTX_OUT:-$ROOT/results}
 PDIR=$ROOT/data/proteomes
 MDIR=$OUT/mapping
 DBDIR=$MDIR/db
 mkdir -p "$DBDIR"
-DIAMOND=/var2/lsg/miniforge3/envs/gotx/bin/diamond
+DIAMOND=diamond
 THREADS=${THREADS:-32}
 EVALUE=1e-5; QCOV=50; SCOV=50; SENS=--more-sensitive
 FMT="6 qseqid sseqid pident length evalue bitscore"

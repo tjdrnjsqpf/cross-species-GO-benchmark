@@ -6,7 +6,7 @@ UTF-8, tab-sep, header, missing=blank, ASCII names. Metric defs unchanged; colum
 import os, glob, gzip
 import numpy as np, pandas as pd, yaml
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 TAB=f"{ROOT}/deliverable/tables"; os.makedirs(TAB,exist_ok=True)
 CLADE={"fish":"fish","mammal":"mammal","plant_rice":"plant","plant_arabidopsis":"plant",
        "fungi":"fungi","insect":"insect"}

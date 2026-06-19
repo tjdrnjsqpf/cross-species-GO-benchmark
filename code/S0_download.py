@@ -5,7 +5,7 @@ Usage: S0_download.py config/track_mammal.yaml
 """
 import os, sys, gzip, time, urllib.request, yaml
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 PBASE = "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota"
 GBASE = "https://ftp.ebi.ac.uk/pub/databases/GO/goa"
 QGO = "https://www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch"

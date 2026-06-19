@@ -4,7 +4,7 @@
 # Background = focal measured proteome (same for all -> fair set comparison; Primmer Box 3).
 suppressMessages({library(clusterProfiler); library(data.table)})
 
-ROOT <- "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT <- Sys.getenv("GOTX_ROOT", unset = "..")
 args <- commandArgs(trailingOnly=TRUE)
 # args: manifest(label\tpath) lists.tsv background.tsv out.tsv
 manifest <- fread(args[1], header=TRUE)

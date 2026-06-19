@@ -7,7 +7,7 @@ Outputs: results/crossclade/guide_table_unified.tsv (+ .md)
 import os
 import numpy as np, pandas as pd
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"; OUTD=f"{ROOT}/results/crossclade"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__)))); OUTD=f"{ROOT}/results/crossclade"
 TRACKS={"fish":"zebrafish","mammal":"mouse","plant_rice":"rice",
         "plant_arabidopsis":"arabidopsis","fungi":"yeast","insect":"fruitfly"}
 BINS=[0,55,70,100]; BLAB=["far (<55%)","mid (55-70%)","near (>70%)"]

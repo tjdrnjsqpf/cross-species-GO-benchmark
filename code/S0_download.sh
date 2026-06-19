@@ -1,7 +1,7 @@
 #!/bin/bash
 # S0 — data acquisition for Fish track. UniProt-centric. Logs sizes + access date (Primmer Box 6).
 set -u
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 PDIR=$ROOT/data/proteomes; GDIR=$ROOT/data/gaf; ODIR=$ROOT/data/ontology
 PBASE=https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota
 GBASE=https://ftp.ebi.ac.uk/pub/databases/GO/goa

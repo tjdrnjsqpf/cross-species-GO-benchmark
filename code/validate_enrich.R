@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # Validate fast hypergeometric enricher against clusterProfiler::enricher on truth annotation.
 suppressMessages({library(clusterProfiler); library(data.table)})
-ROOT <- "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT <- Sys.getenv("GOTX_ROOT", unset = "..")
 ann <- fread(file.path(ROOT,"results/truth/zebrafish_truth_annotation.tsv"))
 setnames(ann,1:3,c("gene","go","ns"))
 lists <- fread(file.path(ROOT,"results/enrichment/lists_synthetic.tsv"))

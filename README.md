@@ -17,6 +17,10 @@ of cross-species Gene Ontology enrichment in non-model organisms."*
 - `DATA_SOURCES.md` — public databases and versions used (raw data are not redistributed here).
 
 ## Reproducing
+**Paths.** Scripts resolve the project root automatically (the parent of `code/`), so run them from
+inside `code/` or set `export GOTX_ROOT=/path/to/this/repo`. External tools (`diamond`, `emapper.py`,
+`Rscript`, `python3`) are expected on `$PATH` (e.g. via the conda environments below).
+
 Raw inputs are obtained from public resources (see `DATA_SOURCES.md`) by `code/S0_download.*`.
 The pipeline runs per track via `code/run_track.sh <config>` and `code/S13_run_all.sh`; figures and
 tables are produced by `code/make_figures.R` and `code/export_tables.R` from the `data/` tables.

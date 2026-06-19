@@ -9,7 +9,7 @@ import os, glob, yaml
 import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"; OUTD=f"{ROOT}/results/crossclade"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__)))); OUTD=f"{ROOT}/results/crossclade"
 cfg=yaml.safe_load(open(f"{ROOT}/config/track_fungi.yaml"))
 wgd={s:v.get("wgd","none") for s,v in cfg["species"].items()}
 focal=cfg["focal"]; base=f"{ROOT}/results/fungi"

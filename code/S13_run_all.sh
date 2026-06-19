@@ -2,9 +2,9 @@
 # S13 orchestrator — waits for eggNOG DB, smoke-tests emapper on yeast, then runs the full
 # eggNOG method-comparison: S13a (emapper all) -> S13b (maps+configs) -> S13c (eval) -> S13d (compare).
 set -u
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
-EMAPPER=/var2/lsg/miniforge3/envs/eggnog/bin/emapper.py
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
+GOTX=python3
+EMAPPER=emapper.py
 DB=$ROOT/data/eggnog_db
 cd $ROOT
 S=logs/s13_orchestrator.log

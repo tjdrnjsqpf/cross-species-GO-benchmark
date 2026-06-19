@@ -2,8 +2,8 @@
 # S19 — generate large synthetic lists and compute their set-level + Wang metrics in an isolated
 # eval dir (does NOT touch existing per-track results). Reuses S4_enrich_fast/S5_metrics/S5c_semantic.
 set -eu
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology; cd $ROOT
-G=/var2/lsg/miniforge3/envs/gotx/bin/python
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"; cd $ROOT
+G=python3
 declare -A FOCAL=( [fish]=zebrafish [mammal]=mouse [plant_rice]=rice [plant_arabidopsis]=arabidopsis [fungi]=yeast [insect]=fruitfly )
 for t in "$@"; do
   f=${FOCAL[$t]}; M=$ROOT/results/$t; E=$ROOT/results/synth_large_eval/$t

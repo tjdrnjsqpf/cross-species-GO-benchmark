@@ -4,9 +4,9 @@
 #  - other tracks: regenerate S6 only (fig2 dodge fix; fig4 auto-skips w/o real)
 #  - cross-clade: S7 (6 tracks), S9 (category), S10 (ID50), S11 (fungi WGD)
 set -u
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
-RS=/var2/lsg/miniforge3/envs/gotx-r/bin/Rscript
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
+GOTX=python3
+RS=Rscript
 cd $ROOT
 declare -A FOCAL=( [fish]=zebrafish [mammal]=mouse [plant_rice]=rice [plant_arabidopsis]=arabidopsis [fungi]=yeast [insect]=fruitfly )
 declare -A EQD=( [fish]=chicken,mouse,human [mammal]=human,cow,dog,pig [plant_rice]=arabidopsis,tomato,soybean,poplar [plant_arabidopsis]=rice,maize [fungi]=pombe,aspergillus,neurospora [insect]=apis,tribolium,anopheles )

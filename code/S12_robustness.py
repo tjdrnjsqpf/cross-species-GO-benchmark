@@ -15,7 +15,7 @@ import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 OUTD = f"{ROOT}/results/crossclade"; os.makedirs(OUTD, exist_ok=True)
 TRACKS = {"fish":"zebrafish","mammal":"mouse","plant_rice":"rice",
           "plant_arabidopsis":"arabidopsis","fungi":"yeast","insect":"fruitfly"}

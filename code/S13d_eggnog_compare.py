@@ -9,7 +9,7 @@ import os
 import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 OUTD=f"{ROOT}/results/crossclade"
 TRACKS=["fish","mammal","plant_rice","plant_arabidopsis","fungi","insect"]
 rows=[]

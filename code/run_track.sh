@@ -2,10 +2,10 @@
 # run_track.sh <config.yaml> — full pipeline for one track into results/<track>/.
 # Data (proteomes/gaf) shared in data/. Reuses existing per-species files.
 set -eu
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 CFG=$1
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
-RS=/var2/lsg/miniforge3/envs/gotx-r/bin/Rscript
+GOTX=python3
+RS=Rscript
 
 # read track/focal/refs/eqd from config via python
 read TRACK FOCAL EQD REFS < <($GOTX - "$CFG" <<'PY'

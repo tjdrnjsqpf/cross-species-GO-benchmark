@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import spearmanr
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 import os as _os
 OUT = _os.environ.get("GOTX_OUT", ROOT + "/results")
 SIG = 0.05

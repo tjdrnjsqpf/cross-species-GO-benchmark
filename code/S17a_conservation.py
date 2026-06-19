@@ -9,7 +9,7 @@ import os, gzip
 import numpy as np, pandas as pd
 from scipy.stats import spearmanr
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 BG=f"{ROOT}/data/bgee"; OUTD=f"{ROOT}/results/crossclade"
 MINA=5; MINGENES=20
 tg=pd.read_csv(f"{BG}/targets.tsv",sep="\t")

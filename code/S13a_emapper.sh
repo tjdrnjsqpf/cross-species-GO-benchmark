@@ -4,8 +4,8 @@
 # build an OG-membership-strict ortholog mapping (besthit ∩ shared-OG) = 3rd transfer method.
 # Heavy/long: run in background. Skips proteomes already done. one-per-gene .prot.fasta inputs.
 set -u
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
-EMAPPER=/var2/lsg/miniforge3/envs/eggnog/bin/emapper.py
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
+EMAPPER=emapper.py
 DB=$ROOT/data/eggnog_db
 CPU=${CPU:-16}
 PAR=${PAR:-4}          # concurrent emapper jobs (PAR*CPU threads total)

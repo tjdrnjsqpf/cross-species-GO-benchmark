@@ -15,7 +15,7 @@ import pandas as pd, numpy as np
 import statsmodels.formula.api as smf
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 TRACKS = {"fish":("zebrafish","fish"), "mammal":("mouse","mammal"),
           "plant_rice":("rice","plant"), "plant_arabidopsis":("arabidopsis","plant")}
 OUTD = f"{ROOT}/results/crossclade"

@@ -2,10 +2,10 @@
 # Re-run only the list->enrichment->metrics->figures stages (S4a..S6) for a track.
 # Use when synthetic-list definition changed but S0-S3 (truth/mapping/transfer) are unchanged.
 set -eu
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 CFG=$1
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
-RS=/var2/lsg/miniforge3/envs/gotx-r/bin/Rscript
+GOTX=python3
+RS=Rscript
 read TRACK FOCAL EQD < <($GOTX - "$CFG" <<'PY'
 import sys, yaml
 c=yaml.safe_load(open(sys.argv[1])); print(c["track"], c["focal"], ",".join(c.get("equidistant_group_names",[])))

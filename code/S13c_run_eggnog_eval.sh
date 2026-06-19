@@ -2,8 +2,8 @@
 # S13c — run transfer->enrich->metrics for the eggNOG eval (subset refs, methods besthit/rbh/eggnog)
 # Reuses existing truth + synthetic lists + background (symlinked by S13b). Does NOT re-run S0-S2.
 set -eu
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
+GOTX=python3
 cd $ROOT
 for track in "$@"; do
   CFG=$ROOT/config/track_${track}_eggnog.yaml

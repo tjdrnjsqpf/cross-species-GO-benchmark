@@ -6,7 +6,7 @@ STRING v12, for orthogonal network-conservation validation. Handles STRING taxid
 import os, time, urllib.request, yaml
 import pandas as pd
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 OUT=f"{ROOT}/data/string"; os.makedirs(OUT,exist_ok=True)
 BASE="https://stringdb-downloads.org/download/protein.links.detailed.v12.0"
 TRACKS=["fish","mammal","plant_rice","plant_arabidopsis","fungi","insect"]

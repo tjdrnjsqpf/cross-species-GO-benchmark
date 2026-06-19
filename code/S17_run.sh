@@ -1,7 +1,7 @@
 #!/bin/bash
 set -u
-ROOT=/var2/lsg/Claude_Code/Cross-species-GeneOntology; cd $ROOT
-GOTX=/var2/lsg/miniforge3/envs/gotx/bin/python
+ROOT="${GOTX_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"; cd $ROOT
+GOTX=python3
 S=logs/s17_run.log; : > $S
 say(){ echo "[$(date +%H:%M:%S)] $*" >> $S; }
 say "waiting for STRING download"

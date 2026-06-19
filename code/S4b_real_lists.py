@@ -15,7 +15,7 @@ import os, re, sys, json, urllib.request, urllib.error
 from collections import defaultdict
 import pandas as pd, yaml
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 TRACK   = os.environ.get("GOTX_TRACK", "fish")
 CONFIG  = os.environ.get("GOTX_CONFIG", f"{ROOT}/config/track_{TRACK}.yaml")
 OUT     = os.environ.get("GOTX_OUT", f"{ROOT}/results/{TRACK}")

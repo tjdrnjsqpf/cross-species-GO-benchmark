@@ -11,7 +11,7 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(__file__))
 import lib_go
 
-ROOT = "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT = os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 import os as _os
 OUT = _os.environ.get("GOTX_OUT", ROOT + "/results")
 SIG, TOPN = 0.05, 50

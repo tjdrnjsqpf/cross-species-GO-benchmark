@@ -15,7 +15,7 @@ Output: results/crossclade/string_conservation.tsv
 import os, gzip
 import numpy as np, pandas as pd, yaml
 
-ROOT="/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT=os.environ.get("GOTX_ROOT", os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 SDIR=f"{ROOT}/data/string"; OUTD=f"{ROOT}/results/crossclade"
 PRIOR=0.041; THR=0.40; MINK=3   # noisy-OR(exp,coexp) >= THR; need >=MINK neighbours both sides
 sl=pd.read_csv(f"{SDIR}/species_list.tsv",sep="\t")

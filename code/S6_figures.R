@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # S6 — deliverable figures + guide table from set-level metrics.
 suppressMessages({library(data.table); library(ggplot2)})
-ROOT <- "/var2/lsg/Claude_Code/Cross-species-GeneOntology"
+ROOT <- Sys.getenv("GOTX_ROOT", unset = "..")
 OUT <- Sys.getenv("GOTX_OUT", file.path(ROOT,"results"))
 TRACK <- Sys.getenv("GOTX_TRACK", "fish")
 FOCAL <- Sys.getenv("GOTX_FOCAL", "zebrafish")
