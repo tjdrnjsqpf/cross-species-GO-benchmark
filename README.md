@@ -24,7 +24,28 @@ of cross-species Gene Ontology enrichment in non-model organisms."*
   (`make_fig1a_boundaries.R`). Scripts run from `code/revision/` and read/write `data/`
   and `data/revision/`; the three `R1C*` scripts run against the full pipeline output
   (`results/<track>/...`) like the numbered pipeline stages.
+- `supplementary/Supplementary_Tables.xlsx` — the assembled Supplementary Tables S1-S12 exactly as
+  cited in the manuscript (one sheet per table; the README sheet inside maps each table).
 - `RESULTS_SUMMARY.md` — manuscript-ready results narrative with key numbers.
+
+## Where each manuscript table/figure lives
+| Manuscript item | Ready-made | Underlying data in this repo |
+|---|---|---|
+| Table S1 (reference metadata + scientific names) | xlsx sheet S1_refmeta | `data/revision/tableS1_refmeta_with_names.tsv` |
+| Table S2 (full per-list set-level results) | — (too large for xlsx) | `data/figdata_setlevel.tsv` |
+| Table S3 (per-category ortholog coverage) | xlsx sheet S3_category_mapping | `data/revision/category_mapping.tsv` |
+| Table S4 (gene-list inventory) | xlsx sheet S4_gene_lists | `data/revision/tableS4_*.tsv` |
+| Table S5 (STRING check) | xlsx sheet S5_STRING | `data/string_conservation.tsv` |
+| Table S6 (ID50/floor + fit stats + CIs) | xlsx sheet S6_ID50_floor | `data/id50.tsv` + `data/revision/fig1b_ci.tsv` |
+| Table S7 (null Wang baselines) | xlsx sheet S7_null_wang | `data/null_wang.tsv` |
+| Table S8 (orthology-method means) | xlsx sheet S8_eggnog_means | `data/eggnog_compare.tsv` |
+| Table S9 (expression conservation) | xlsx sheet S9_expression | `data/expr_conservation.tsv` |
+| Table S10 (random-orthology control) | xlsx sheet S10_random_orthology | `data/random_orthology_<track>.tsv` |
+| Table S11 (size x IC robustness) | xlsx sheet S11_size_x_IC | derived from `data/figdata_setlevel.tsv` (size, list_ic) |
+| Table S12 (reliability guide + CIs + null) | xlsx sheet S12_reliability_full | `data/guide_table_unified.tsv` (+ `code/revision/make_table1_ci_null.py`) |
+| Table 1 (main text, with CIs + null rows) | `data/revision/table1_extended.tsv` | same script |
+| Fig S1 (reference-panel overview) | `data/revision/FigS1_panel_overview.pdf` | `code/revision/make_figS1_panel_overview.py` |
+| Fig 1A boundary panels / Fig 1B CIs | `data/revision/Fig1*_boundaries.pdf`, `Fig1B_ID50_floor_CI.pdf` | `code/revision/` |
 - `DATA_SOURCES.md` — public databases and versions used (raw data are not redistributed here).
 
 ## Reproducing
