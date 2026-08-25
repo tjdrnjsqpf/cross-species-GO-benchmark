@@ -1,0 +1,26 @@
+merged rows: 7213 (category.tsv 11551, server BP 7335)
+category mismatch between files: 0
+
+=== M0  wang ~ pident_z*category + clade (manuscript baseline) ===  (n=7213, R2=0.288)
+  C(category)[T.conserved]                      +0.1892  p=7.25e-268
+  C(category)[T.other]                          +0.0806  p=1.76e-58
+  pident_z                                      +0.1071  p=1.09e-172
+  pident_z:C(category)[T.conserved]             -0.0790  p=1.37e-51
+  pident_z:C(category)[T.other]                 -0.0478  p=7.92e-22
+
+=== M1  M0 + frac_mapped ===  (n=7213, R2=0.357)
+  C(category)[T.conserved]                      +0.1473  p=2.51e-170
+  C(category)[T.other]                          +0.0717  p=2.96e-51
+  pident_z                                      -0.0037  p=4.87e-01
+  pident_z:C(category)[T.conserved]             -0.0459  p=1.85e-19
+  pident_z:C(category)[T.other]                 -0.0360  p=3.36e-14
+  frac_mapped                                   +0.4354  p=2.92e-160
+
+=== M2  M0 + frac_mapped + gene-level identity ===  (n=7213, R2=0.362)
+  C(category)[T.conserved]                      +0.1538  p=7.07e-182
+  C(category)[T.other]                          +0.0703  p=1.07e-49
+  pident_z                                      +0.0461  p=2.03e-08
+  pident_z:C(category)[T.conserved]             -0.0486  p=1.11e-21
+  pident_z:C(category)[T.other]                 -0.0382  p=6.92e-16
+  frac_mapped                                   +0.4638  p=1.75e-173
+  gene_pident_z                                 -0.0568  p=1.82e-15

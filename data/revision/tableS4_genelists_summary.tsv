@@ -1,0 +1,7 @@
+Focal	Synthetic lists	Synthetic BP	Synthetic MF	Synthetic CC	Synthetic size (min-max, median)	IC shallow	IC mid	IC deep	BP conserved	BP taxon-specific	BP other	Large synthetic lists	Large size (min-max, median)	Real DEG lists	Real size (min-max, median)
+Mammal	120	72	24	24	41-250 (79)	40	40	40	24	24	24	36	250-8985 (891)	8	105-5968 (2690)
+Fish	105	66	24	15	40-244 (73)	34	36	35	18	24	24	18	254-3352 (518)	6	571-1396 (1092)
+Insect	120	72	24	24	40-249 (77)	40	40	40	24	24	24	31	251-3712 (1006)	8	19-1173 (113)
+Plant-R	61	47	8	6	40-243 (71)	23	18	20	8	15	24	13	254-706 (388)	8	1188-11714 (3914)
+Plant-A	120	72	24	24	41-249 (80)	40	40	40	24	24	24	35	251-7957 (819)	8	174-5685 (862)
+Fungi	120	72	24	24	41-250 (82)	40	40	40	24	24	24	34	250-4727 (831)	8	16-276 (37)

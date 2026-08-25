@@ -1,0 +1,647 @@
+track	list_id	go_id	namespace	n_genes	ic	ic_bin	category	name
+mammal	SYN_GO0141187	GO:0141187	biological_process	245	5.710	shallow	conserved	nucleic acid biosynthetic process
+mammal	SYN_GO0044283	GO:0044283	biological_process	215	5.899	shallow	conserved	small molecule biosynthetic process
+mammal	SYN_GO0090407	GO:0090407	biological_process	176	6.188	shallow	conserved	organophosphate biosynthetic process
+mammal	SYN_GO0032446	GO:0032446	biological_process	154	6.380	shallow	conserved	protein modification by small protein conjugation
+mammal	SYN_GO0006281	GO:0006281	biological_process	140	6.518	shallow	conserved	DNA repair
+mammal	SYN_GO0006790	GO:0006790	biological_process	131	6.614	shallow	conserved	sulfur compound metabolic process
+mammal	SYN_GO0006511	GO:0006511	biological_process	125	6.681	shallow	conserved	ubiquitin-dependent protein catabolic process
+mammal	SYN_GO0046394	GO:0046394	biological_process	114	6.814	shallow	conserved	carboxylic acid biosynthetic process
+mammal	SYN_GO0043583	GO:0043583	biological_process	246	5.705	shallow	specific	ear development
+mammal	SYN_GO0045087	GO:0045087	biological_process	216	5.892	shallow	specific	innate immune response
+mammal	SYN_GO0001525	GO:0001525	biological_process	185	6.116	shallow	specific	angiogenesis
+mammal	SYN_GO0060041	GO:0060041	biological_process	162	6.307	shallow	specific	retina development in camera-type eye
+mammal	SYN_GO0007292	GO:0007292	biological_process	146	6.457	shallow	specific	female gamete generation
+mammal	SYN_GO0007605	GO:0007605	biological_process	134	6.581	shallow	specific	sensory perception of sound
+mammal	SYN_GO0016358	GO:0016358	biological_process	123	6.705	shallow	specific	dendrite development
+mammal	SYN_GO0021782	GO:0021782	biological_process	115	6.802	shallow	specific	glial cell development
+mammal	SYN_GO0098771	GO:0098771	biological_process	250	5.681	shallow	other	inorganic ion homeostasis
+mammal	SYN_GO0071396	GO:0071396	biological_process	216	5.892	shallow	other	cellular response to lipid
+mammal	SYN_GO0098609	GO:0098609	biological_process	193	6.055	shallow	other	cell-cell adhesion
+mammal	SYN_GO0007005	GO:0007005	biological_process	174	6.204	shallow	other	mitochondrion organization
+mammal	SYN_GO0050670	GO:0050670	biological_process	156	6.362	shallow	other	regulation of lymphocyte proliferation
+mammal	SYN_GO0046942	GO:0046942	biological_process	141	6.508	shallow	other	carboxylic acid transport
+mammal	SYN_GO1903311	GO:1903311	biological_process	126	6.670	shallow	other	regulation of mRNA metabolic process
+mammal	SYN_GO0045936	GO:0045936	biological_process	118	6.764	shallow	other	negative regulation of phosphate metabolic process
+mammal	SYN_GO0009259	GO:0009259	biological_process	102	6.975	mid	conserved	ribonucleotide metabolic process
+mammal	SYN_GO0006412	GO:0006412	biological_process	97	7.047	mid	conserved	translation
+mammal	SYN_GO1901293	GO:1901293	biological_process	92	7.124	mid	conserved	nucleoside phosphate biosynthetic process
+mammal	SYN_GO0019318	GO:0019318	biological_process	84	7.255	mid	conserved	hexose metabolic process
+mammal	SYN_GO0072330	GO:0072330	biological_process	76	7.399	mid	conserved	monocarboxylic acid biosynthetic process
+mammal	SYN_GO0043161	GO:0043161	biological_process	73	7.457	mid	conserved	proteasome-mediated ubiquitin-dependent protein catabolic process
+mammal	SYN_GO0072593	GO:0072593	biological_process	69	7.539	mid	conserved	reactive oxygen species metabolic process
+mammal	SYN_GO0016051	GO:0016051	biological_process	65	7.625	mid	conserved	carbohydrate biosynthetic process
+mammal	SYN_GO0007498	GO:0007498	biological_process	102	6.975	mid	specific	mesoderm development
+mammal	SYN_GO0061008	GO:0061008	biological_process	95	7.077	mid	specific	hepaticobiliary system development
+mammal	SYN_GO0048588	GO:0048588	biological_process	90	7.155	mid	specific	developmental cell growth
+mammal	SYN_GO0001704	GO:0001704	biological_process	83	7.272	mid	specific	formation of primary germ layer
+mammal	SYN_GO0048663	GO:0048663	biological_process	76	7.399	mid	specific	neuron fate commitment
+mammal	SYN_GO0002062	GO:0002062	biological_process	72	7.477	mid	specific	chondrocyte differentiation
+mammal	SYN_GO0050885	GO:0050885	biological_process	68	7.560	mid	specific	neuromuscular process controlling balance
+mammal	SYN_GO0021695	GO:0021695	biological_process	64	7.647	mid	specific	cerebellar cortex development
+mammal	SYN_GO0031345	GO:0031345	biological_process	103	6.961	mid	other	negative regulation of cell projection organization
+mammal	SYN_GO0009612	GO:0009612	biological_process	95	7.077	mid	other	response to mechanical stimulus
+mammal	SYN_GO0030278	GO:0030278	biological_process	90	7.155	mid	other	regulation of ossification
+mammal	SYN_GO0043409	GO:0043409	biological_process	83	7.272	mid	other	negative regulation of MAPK cascade
+mammal	SYN_GO0030010	GO:0030010	biological_process	78	7.362	mid	other	establishment of cell polarity
+mammal	SYN_GO0035082	GO:0035082	biological_process	72	7.477	mid	other	axoneme assembly
+mammal	SYN_GO0002637	GO:0002637	biological_process	67	7.581	mid	other	regulation of immunoglobulin production
+mammal	SYN_GO2000106	GO:2000106	biological_process	63	7.670	mid	other	regulation of leukocyte apoptotic process
+mammal	SYN_GO0072523	GO:0072523	biological_process	59	7.764	deep	conserved	purine-containing compound catabolic process
+mammal	SYN_GO0009144	GO:0009144	biological_process	55	7.866	deep	conserved	purine nucleoside triphosphate metabolic process
+mammal	SYN_GO0006195	GO:0006195	biological_process	53	7.919	deep	conserved	purine nucleotide catabolic process
+mammal	SYN_GO0018212	GO:0018212	biological_process	51	7.975	deep	conserved	peptidyl-tyrosine modification
+mammal	SYN_GO0001676	GO:0001676	biological_process	48	8.062	deep	conserved	long-chain fatty acid metabolic process
+mammal	SYN_GO0009123	GO:0009123	biological_process	45	8.155	deep	conserved	nucleoside monophosphate metabolic process
+mammal	SYN_GO0009308	GO:0009308	biological_process	43	8.221	deep	conserved	amine metabolic process
+mammal	SYN_GO0001523	GO:0001523	biological_process	41	8.290	deep	conserved	retinoid metabolic process
+mammal	SYN_GO0019226	GO:0019226	biological_process	60	7.740	deep	specific	transmission of nerve impulse
+mammal	SYN_GO0035315	GO:0035315	biological_process	57	7.814	deep	specific	hair cell differentiation
+mammal	SYN_GO0008286	GO:0008286	biological_process	54	7.892	deep	specific	insulin receptor signaling pathway
+mammal	SYN_GO0045446	GO:0045446	biological_process	51	7.975	deep	specific	endothelial cell differentiation
+mammal	SYN_GO0035710	GO:0035710	biological_process	49	8.032	deep	specific	CD4-positive, alpha-beta T cell activation
+mammal	SYN_GO0007143	GO:0007143	biological_process	46	8.124	deep	specific	female meiotic nuclear division
+mammal	SYN_GO0003382	GO:0003382	biological_process	43	8.221	deep	specific	epithelial cell morphogenesis
+mammal	SYN_GO0043491	GO:0043491	biological_process	41	8.290	deep	specific	phosphatidylinositol 3-kinase/protein kinase B signal transduction
+mammal	SYN_GO1904375	GO:1904375	biological_process	60	7.740	deep	other	regulation of protein localization to cell periphery
+mammal	SYN_GO0015748	GO:0015748	biological_process	56	7.840	deep	other	organophosphate ester transport
+mammal	SYN_GO0042130	GO:0042130	biological_process	54	7.892	deep	other	negative regulation of T cell proliferation
+mammal	SYN_GO0001906	GO:0001906	biological_process	51	7.975	deep	other	cell killing
+mammal	SYN_GO0006282	GO:0006282	biological_process	48	8.062	deep	other	regulation of DNA repair
+mammal	SYN_GO0031032	GO:0031032	biological_process	45	8.155	deep	other	actomyosin structure organization
+mammal	SYN_GO0045682	GO:0045682	biological_process	43	8.221	deep	other	regulation of epidermis development
+mammal	SYN_GO0032481	GO:0032481	biological_process	41	8.290	deep	other	positive regulation of type I interferon production
+mammal	SYN_GO0046873	GO:0046873	molecular_function	247	5.699	shallow	other	metal ion transmembrane transporter activity
+mammal	SYN_GO0030545	GO:0030545	molecular_function	192	6.062	shallow	other	signaling receptor regulator activity
+mammal	SYN_GO0019901	GO:0019901	molecular_function	179	6.163	shallow	other	protein kinase binding
+mammal	SYN_GO0042578	GO:0042578	molecular_function	168	6.255	shallow	other	phosphoric ester hydrolase activity
+mammal	SYN_GO0019787	GO:0019787	molecular_function	158	6.343	shallow	other	ubiquitin-like protein transferase activity
+mammal	SYN_GO0016818	GO:0016818	molecular_function	134	6.581	shallow	other	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+mammal	SYN_GO1901265	GO:1901265	molecular_function	125	6.681	shallow	other	nucleoside phosphate binding
+mammal	SYN_GO0003779	GO:0003779	molecular_function	113	6.827	shallow	other	actin binding
+mammal	SYN_GO0032555	GO:0032555	molecular_function	99	7.018	mid	other	purine ribonucleotide binding
+mammal	SYN_GO0003729	GO:0003729	molecular_function	93	7.108	mid	other	mRNA binding
+mammal	SYN_GO0016829	GO:0016829	molecular_function	85	7.238	mid	other	lyase activity
+mammal	SYN_GO0003713	GO:0003713	molecular_function	80	7.325	mid	other	transcription coactivator activity
+mammal	SYN_GO0003735	GO:0003735	molecular_function	77	7.380	mid	other	structural constituent of ribosome
+mammal	SYN_GO0015079	GO:0015079	molecular_function	71	7.497	mid	other	potassium ion transmembrane transporter activity
+mammal	SYN_GO0051020	GO:0051020	molecular_function	67	7.581	mid	other	GTPase binding
+mammal	SYN_GO0005539	GO:0005539	molecular_function	64	7.647	mid	other	glycosaminoglycan binding
+mammal	SYN_GO0016810	GO:0016810	molecular_function	59	7.764	deep	other	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+mammal	SYN_GO0008234	GO:0008234	molecular_function	56	7.840	deep	other	cysteine-type peptidase activity
+mammal	SYN_GO0046982	GO:0046982	molecular_function	53	7.919	deep	other	protein heterodimerization activity
+mammal	SYN_GO0141108	GO:0141108	molecular_function	49	8.032	deep	other	transporter regulator activity
+mammal	SYN_GO0016782	GO:0016782	molecular_function	47	8.092	deep	other	transferase activity, transferring sulphur-containing groups
+mammal	SYN_GO0044325	GO:0044325	molecular_function	45	8.155	deep	other	transmembrane transporter binding
+mammal	SYN_GO0051213	GO:0051213	molecular_function	43	8.221	deep	other	dioxygenase activity
+mammal	SYN_GO0000287	GO:0000287	molecular_function	41	8.290	deep	other	magnesium ion binding
+mammal	SYN_GO0032279	GO:0032279	cellular_component	250	5.681	shallow	other	asymmetric synapse
+mammal	SYN_GO0014069	GO:0014069	cellular_component	236	5.764	shallow	other	postsynaptic density
+mammal	SYN_GO1990234	GO:1990234	cellular_component	220	5.866	shallow	other	transferase complex
+mammal	SYN_GO0036126	GO:0036126	cellular_component	195	6.040	shallow	other	sperm flagellum
+mammal	SYN_GO0035770	GO:0035770	cellular_component	152	6.399	shallow	other	ribonucleoprotein granule
+mammal	SYN_GO0150034	GO:0150034	cellular_component	135	6.570	shallow	other	distal axon
+mammal	SYN_GO0005813	GO:0005813	cellular_component	125	6.681	shallow	other	centrosome
+mammal	SYN_GO0043235	GO:0043235	cellular_component	120	6.740	shallow	other	signaling receptor complex
+mammal	SYN_GO0098685	GO:0098685	cellular_component	109	6.879	mid	other	Schaffer collateral - CA1 synapse
+mammal	SYN_GO0097733	GO:0097733	cellular_component	96	7.062	mid	other	photoreceptor cell cilium
+mammal	SYN_GO0005770	GO:0005770	cellular_component	90	7.155	mid	other	late endosome
+mammal	SYN_GO0000775	GO:0000775	cellular_component	85	7.238	mid	other	chromosome, centromeric region
+mammal	SYN_GO0005765	GO:0005765	cellular_component	79	7.343	mid	other	lysosomal membrane
+mammal	SYN_GO0043296	GO:0043296	cellular_component	72	7.477	mid	other	apical junction complex
+mammal	SYN_GO0031594	GO:0031594	cellular_component	69	7.539	mid	other	neuromuscular junction
+mammal	SYN_GO0000792	GO:0000792	cellular_component	66	7.603	mid	other	heterochromatin
+mammal	SYN_GO0048786	GO:0048786	cellular_component	62	7.693	deep	other	presynaptic active zone
+mammal	SYN_GO0001917	GO:0001917	cellular_component	57	7.814	deep	other	photoreceptor inner segment
+mammal	SYN_GO0030863	GO:0030863	cellular_component	53	7.919	deep	other	cortical cytoskeleton
+mammal	SYN_GO0022625	GO:0022625	cellular_component	51	7.975	deep	other	cytosolic large ribosomal subunit
+mammal	SYN_GO0030135	GO:0030135	cellular_component	49	8.032	deep	other	coated vesicle
+mammal	SYN_GO0045111	GO:0045111	cellular_component	46	8.124	deep	other	intermediate filament cytoskeleton
+mammal	SYN_GO0097225	GO:0097225	cellular_component	43	8.221	deep	other	sperm midpiece
+mammal	SYN_GO0031461	GO:0031461	cellular_component	41	8.290	deep	other	cullin-RING ubiquitin ligase complex
+fish	SYN_GO0044238	GO:0044238	biological_process	236	3.957	shallow	conserved	primary metabolic process
+fish	SYN_GO0043170	GO:0043170	biological_process	178	4.364	shallow	conserved	macromolecule metabolic process
+fish	SYN_GO0009058	GO:0009058	biological_process	146	4.650	shallow	conserved	biosynthetic process
+fish	SYN_GO0009059	GO:0009059	biological_process	109	5.072	shallow	conserved	macromolecule biosynthetic process
+fish	SYN_GO0006139	GO:0006139	biological_process	100	5.196	shallow	conserved	nucleobase-containing compound metabolic process
+fish	SYN_GO0001568	GO:0001568	biological_process	236	3.957	shallow	specific	blood vessel development
+fish	SYN_GO0090596	GO:0090596	biological_process	203	4.175	shallow	specific	sensory organ morphogenesis
+fish	SYN_GO0000902	GO:0000902	biological_process	186	4.301	shallow	specific	cell morphogenesis
+fish	SYN_GO0048871	GO:0048871	biological_process	158	4.536	shallow	specific	multicellular organismal-level homeostasis
+fish	SYN_GO0048705	GO:0048705	biological_process	150	4.611	shallow	specific	skeletal system morphogenesis
+fish	SYN_GO0007369	GO:0007369	biological_process	143	4.680	shallow	specific	gastrulation
+fish	SYN_GO0007626	GO:0007626	biological_process	131	4.807	shallow	specific	locomotory behavior
+fish	SYN_GO0055001	GO:0055001	biological_process	120	4.933	shallow	specific	muscle cell development
+fish	SYN_GO0023051	GO:0023051	biological_process	244	3.909	shallow	other	regulation of signaling
+fish	SYN_GO0009889	GO:0009889	biological_process	225	4.026	shallow	other	regulation of biosynthetic process
+fish	SYN_GO0016477	GO:0016477	biological_process	212	4.112	shallow	other	cell migration
+fish	SYN_GO0009605	GO:0009605	biological_process	193	4.247	shallow	other	response to external stimulus
+fish	SYN_GO0042221	GO:0042221	biological_process	170	4.431	shallow	other	response to chemical
+fish	SYN_GO0060271	GO:0060271	biological_process	145	4.660	shallow	other	cilium assembly
+fish	SYN_GO0044419	GO:0044419	biological_process	124	4.886	shallow	other	biological process involved in interspecies interaction between organisms
+fish	SYN_GO0006355	GO:0006355	biological_process	115	4.995	shallow	other	regulation of DNA-templated transcription
+fish	SYN_GO0019538	GO:0019538	biological_process	87	5.397	mid	conserved	protein metabolic process
+fish	SYN_GO0090304	GO:0090304	biological_process	86	5.414	mid	conserved	nucleic acid metabolic process
+fish	SYN_GO0010467	GO:0010467	biological_process	77	5.573	mid	conserved	gene expression
+fish	SYN_GO0016070	GO:0016070	biological_process	73	5.650	mid	conserved	RNA metabolic process
+fish	SYN_GO0034654	GO:0034654	biological_process	64	5.840	mid	conserved	nucleobase-containing compound biosynthetic process
+fish	SYN_GO0032774	GO:0032774	biological_process	61	5.909	mid	conserved	RNA biosynthetic process
+fish	SYN_GO0141187	GO:0141187	biological_process	61	5.909	mid	conserved	nucleic acid biosynthetic process
+fish	SYN_GO0048872	GO:0048872	biological_process	93	5.301	mid	specific	homeostasis of number of cells
+fish	SYN_GO0051216	GO:0051216	biological_process	91	5.332	mid	specific	cartilage development
+fish	SYN_GO0048882	GO:0048882	biological_process	85	5.431	mid	specific	lateral line development
+fish	SYN_GO0001947	GO:0001947	biological_process	80	5.518	mid	specific	heart looping
+fish	SYN_GO0046530	GO:0046530	biological_process	73	5.650	mid	specific	photoreceptor cell differentiation
+fish	SYN_GO0030218	GO:0030218	biological_process	70	5.711	mid	specific	erythrocyte differentiation
+fish	SYN_GO0048609	GO:0048609	biological_process	65	5.818	mid	specific	multicellular organismal reproductive process
+fish	SYN_GO0035162	GO:0035162	biological_process	61	5.909	mid	specific	embryonic hemopoiesis
+fish	SYN_GO0060284	GO:0060284	biological_process	98	5.225	mid	other	regulation of cell development
+fish	SYN_GO0070887	GO:0070887	biological_process	87	5.397	mid	other	cellular response to chemical stimulus
+fish	SYN_GO0043067	GO:0043067	biological_process	78	5.555	mid	other	regulation of programmed cell death
+fish	SYN_GO0008283	GO:0008283	biological_process	77	5.573	mid	other	cell population proliferation
+fish	SYN_GO0030029	GO:0030029	biological_process	69	5.731	mid	other	actin filament-based process
+fish	SYN_GO0030036	GO:0030036	biological_process	68	5.753	mid	other	actin cytoskeleton organization
+fish	SYN_GO0023056	GO:0023056	biological_process	65	5.818	mid	other	positive regulation of signaling
+fish	SYN_GO0033036	GO:0033036	biological_process	62	5.886	mid	other	macromolecule localization
+fish	SYN_GO0007049	GO:0007049	biological_process	51	6.168	deep	conserved	cell cycle
+fish	SYN_GO0009056	GO:0009056	biological_process	51	6.168	deep	conserved	catabolic process
+fish	SYN_GO0044281	GO:0044281	biological_process	45	6.348	deep	conserved	small molecule metabolic process
+fish	SYN_GO0006629	GO:0006629	biological_process	44	6.381	deep	conserved	lipid metabolic process
+fish	SYN_GO0022402	GO:0022402	biological_process	41	6.482	deep	conserved	cell cycle process
+fish	SYN_GO0006396	GO:0006396	biological_process	41	6.482	deep	conserved	RNA processing
+fish	SYN_GO0048881	GO:0048881	biological_process	58	5.982	deep	specific	mechanosensory lateral line system development
+fish	SYN_GO0001756	GO:0001756	biological_process	56	6.033	deep	specific	somitogenesis
+fish	SYN_GO0035107	GO:0035107	biological_process	52	6.140	deep	specific	appendage morphogenesis
+fish	SYN_GO0007600	GO:0007600	biological_process	47	6.285	deep	specific	sensory perception
+fish	SYN_GO0070121	GO:0070121	biological_process	46	6.316	deep	specific	Kupffer's vesicle development
+fish	SYN_GO0002521	GO:0002521	biological_process	45	6.348	deep	specific	leukocyte differentiation
+fish	SYN_GO0001775	GO:0001775	biological_process	43	6.414	deep	specific	cell activation
+fish	SYN_GO0048483	GO:0048483	biological_process	41	6.482	deep	specific	autonomic nervous system development
+fish	SYN_GO0090287	GO:0090287	biological_process	58	5.982	deep	other	regulation of cellular response to growth factor stimulus
+fish	SYN_GO0051640	GO:0051640	biological_process	53	6.112	deep	other	organelle localization
+fish	SYN_GO0090497	GO:0090497	biological_process	51	6.168	deep	other	mesenchymal cell migration
+fish	SYN_GO0040008	GO:0040008	biological_process	49	6.225	deep	other	regulation of growth
+fish	SYN_GO0003341	GO:0003341	biological_process	48	6.255	deep	other	cilium movement
+fish	SYN_GO0033993	GO:0033993	biological_process	45	6.348	deep	other	response to lipid
+fish	SYN_GO0006811	GO:0006811	biological_process	43	6.414	deep	other	monoatomic ion transport
+fish	SYN_GO1902679	GO:1902679	biological_process	42	6.448	deep	other	negative regulation of RNA biosynthetic process
+fish	SYN_GO0003824	GO:0003824	molecular_function	237	3.951	shallow	other	catalytic activity
+fish	SYN_GO0003676	GO:0003676	molecular_function	127	4.851	shallow	other	nucleic acid binding
+fish	SYN_GO0016740	GO:0016740	molecular_function	105	5.126	shallow	other	transferase activity
+fish	SYN_GO0005215	GO:0005215	molecular_function	101	5.182	shallow	other	transporter activity
+fish	SYN_GO0022857	GO:0022857	molecular_function	99	5.211	shallow	other	transmembrane transporter activity
+fish	SYN_GO0003677	GO:0003677	molecular_function	96	5.255	shallow	other	DNA binding
+fish	SYN_GO0038023	GO:0038023	molecular_function	93	5.301	shallow	other	signaling receptor activity
+fish	SYN_GO0060089	GO:0060089	molecular_function	93	5.301	shallow	other	molecular transducer activity
+fish	SYN_GO0140110	GO:0140110	molecular_function	78	5.555	mid	other	transcription regulator activity
+fish	SYN_GO0140096	GO:0140096	molecular_function	77	5.573	mid	other	catalytic activity, acting on a protein
+fish	SYN_GO0043565	GO:0043565	molecular_function	72	5.670	mid	other	sequence-specific DNA binding
+fish	SYN_GO0003700	GO:0003700	molecular_function	72	5.670	mid	other	DNA-binding transcription factor activity
+fish	SYN_GO0004888	GO:0004888	molecular_function	71	5.690	mid	other	transmembrane signaling receptor activity
+fish	SYN_GO0016787	GO:0016787	molecular_function	68	5.753	mid	other	hydrolase activity
+fish	SYN_GO0015075	GO:0015075	molecular_function	67	5.774	mid	other	monoatomic ion transmembrane transporter activity
+fish	SYN_GO0036094	GO:0036094	molecular_function	60	5.933	mid	other	small molecule binding
+fish	SYN_GO0022803	GO:0022803	molecular_function	59	5.957	deep	other	passive transmembrane transporter activity
+fish	SYN_GO0015267	GO:0015267	molecular_function	59	5.957	deep	other	channel activity
+fish	SYN_GO0004930	GO:0004930	molecular_function	56	6.033	deep	other	G protein-coupled receptor activity
+fish	SYN_GO0005216	GO:0005216	molecular_function	51	6.168	deep	other	monoatomic ion channel activity
+fish	SYN_GO0008324	GO:0008324	molecular_function	48	6.255	deep	other	monoatomic cation transmembrane transporter activity
+fish	SYN_GO0022836	GO:0022836	molecular_function	45	6.348	deep	other	gated channel activity
+fish	SYN_GO0043167	GO:0043167	molecular_function	44	6.381	deep	other	ion binding
+fish	SYN_GO0000981	GO:0000981	molecular_function	44	6.381	deep	other	DNA-binding transcription factor activity, RNA polymerase II-specific
+fish	SYN_GO0043227	GO:0043227	cellular_component	236	3.957	shallow	other	membrane-bounded organelle
+fish	SYN_GO0005737	GO:0005737	cellular_component	220	4.059	shallow	other	cytoplasm
+fish	SYN_GO0043231	GO:0043231	cellular_component	191	4.263	shallow	other	intracellular membrane-bounded organelle
+fish	SYN_GO0016020	GO:0016020	cellular_component	168	4.448	shallow	other	membrane
+fish	SYN_GO0071944	GO:0071944	cellular_component	137	4.742	shallow	other	cell periphery
+fish	SYN_GO0005886	GO:0005886	cellular_component	134	4.774	mid	other	plasma membrane
+fish	SYN_GO0005634	GO:0005634	cellular_component	124	4.886	mid	other	nucleus
+fish	SYN_GO0043228	GO:0043228	cellular_component	96	5.255	mid	other	membraneless organelle
+fish	SYN_GO0043232	GO:0043232	cellular_component	96	5.255	mid	other	intracellular membraneless organelle
+fish	SYN_GO0032991	GO:0032991	cellular_component	70	5.711	mid	other	protein-containing complex
+fish	SYN_GO0042995	GO:0042995	cellular_component	57	6.007	deep	other	cell projection
+fish	SYN_GO0120025	GO:0120025	cellular_component	57	6.007	deep	other	plasma membrane bounded cell projection
+fish	SYN_GO0005929	GO:0005929	cellular_component	47	6.285	deep	other	cilium
+fish	SYN_GO0012505	GO:0012505	cellular_component	47	6.285	deep	other	endomembrane system
+fish	SYN_GO0005856	GO:0005856	cellular_component	40	6.518	deep	other	cytoskeleton
+insect	SYN_GO0141187	GO:0141187	biological_process	245	4.675	shallow	conserved	nucleic acid biosynthetic process
+insect	SYN_GO0032774	GO:0032774	biological_process	222	4.817	shallow	conserved	RNA biosynthetic process
+insect	SYN_GO0044281	GO:0044281	biological_process	189	5.049	shallow	conserved	small molecule metabolic process
+insect	SYN_GO1903047	GO:1903047	biological_process	187	5.065	shallow	conserved	mitotic cell cycle process
+insect	SYN_GO0009057	GO:0009057	biological_process	178	5.136	shallow	conserved	macromolecule catabolic process
+insect	SYN_GO0006259	GO:0006259	biological_process	151	5.373	shallow	conserved	DNA metabolic process
+insect	SYN_GO0006396	GO:0006396	biological_process	149	5.392	shallow	conserved	RNA processing
+insect	SYN_GO1901135	GO:1901135	biological_process	143	5.452	shallow	conserved	carbohydrate derivative metabolic process
+insect	SYN_GO0007424	GO:0007424	biological_process	249	4.652	shallow	specific	open tracheal system development
+insect	SYN_GO0097485	GO:0097485	biological_process	208	4.911	shallow	specific	neuron projection guidance
+insect	SYN_GO0001751	GO:0001751	biological_process	168	5.219	shallow	specific	compound eye photoreceptor cell differentiation
+insect	SYN_GO0007611	GO:0007611	biological_process	153	5.354	shallow	specific	learning or memory
+insect	SYN_GO0010631	GO:0010631	biological_process	139	5.492	shallow	specific	epithelial cell migration
+insect	SYN_GO0048871	GO:0048871	biological_process	129	5.600	shallow	specific	multicellular organismal-level homeostasis
+insect	SYN_GO0048732	GO:0048732	biological_process	117	5.741	shallow	specific	gland development
+insect	SYN_GO0050906	GO:0050906	biological_process	107	5.870	shallow	specific	detection of stimulus involved in sensory perception
+insect	SYN_GO0016192	GO:0016192	biological_process	249	4.652	shallow	other	vesicle-mediated transport
+insect	SYN_GO0034330	GO:0034330	biological_process	214	4.870	shallow	other	cell junction organization
+insect	SYN_GO0090066	GO:0090066	biological_process	187	5.065	shallow	other	regulation of anatomical structure size
+insect	SYN_GO0043067	GO:0043067	biological_process	166	5.236	shallow	other	regulation of programmed cell death
+insect	SYN_GO0045088	GO:0045088	biological_process	139	5.492	shallow	other	regulation of innate immune response
+insect	SYN_GO0032989	GO:0032989	biological_process	128	5.612	shallow	other	cellular anatomical entity morphogenesis
+insect	SYN_GO0009416	GO:0009416	biological_process	117	5.741	shallow	other	response to light stimulus
+insect	SYN_GO0045597	GO:0045597	biological_process	106	5.884	shallow	other	positive regulation of cell differentiation
+insect	SYN_GO0030163	GO:0030163	biological_process	97	6.012	mid	conserved	protein catabolic process
+insect	SYN_GO0019752	GO:0019752	biological_process	87	6.168	mid	conserved	carboxylic acid metabolic process
+insect	SYN_GO0006351	GO:0006351	biological_process	83	6.236	mid	conserved	DNA-templated transcription
+insect	SYN_GO0034655	GO:0034655	biological_process	79	6.308	mid	conserved	nucleobase-containing compound catabolic process
+insect	SYN_GO0061640	GO:0061640	biological_process	75	6.383	mid	conserved	cytoskeleton-dependent cytokinesis
+insect	SYN_GO0140014	GO:0140014	biological_process	70	6.482	mid	conserved	mitotic nuclear division
+insect	SYN_GO0045333	GO:0045333	biological_process	67	6.545	mid	conserved	cellular respiration
+insect	SYN_GO0006281	GO:0006281	biological_process	64	6.612	mid	conserved	DNA repair
+insect	SYN_GO0042461	GO:0042461	biological_process	97	6.012	mid	specific	photoreceptor cell development
+insect	SYN_GO0035218	GO:0035218	biological_process	90	6.120	mid	specific	leg disc development
+insect	SYN_GO0050907	GO:0050907	biological_process	83	6.236	mid	specific	detection of chemical stimulus involved in sensory perception
+insect	SYN_GO0042051	GO:0042051	biological_process	79	6.308	mid	specific	compound eye photoreceptor development
+insect	SYN_GO0048608	GO:0048608	biological_process	74	6.402	mid	specific	reproductive structure development
+insect	SYN_GO0007635	GO:0007635	biological_process	71	6.462	mid	specific	chemosensory behavior
+insect	SYN_GO0048512	GO:0048512	biological_process	67	6.545	mid	specific	circadian behavior
+insect	SYN_GO0007435	GO:0007435	biological_process	63	6.634	mid	specific	salivary gland morphogenesis
+insect	SYN_GO1901701	GO:1901701	biological_process	98	5.997	mid	other	cellular response to oxygen-containing compound
+insect	SYN_GO0051656	GO:0051656	biological_process	90	6.120	mid	other	establishment of organelle localization
+insect	SYN_GO0042060	GO:0042060	biological_process	85	6.202	mid	other	wound healing
+insect	SYN_GO0002920	GO:0002920	biological_process	80	6.290	mid	other	regulation of humoral immune response
+insect	SYN_GO0016050	GO:0016050	biological_process	77	6.345	mid	other	vesicle organization
+insect	SYN_GO0055080	GO:0055080	biological_process	71	6.462	mid	other	monoatomic cation homeostasis
+insect	SYN_GO0071705	GO:0071705	biological_process	67	6.545	mid	other	nitrogen compound transport
+insect	SYN_GO0001558	GO:0001558	biological_process	64	6.612	mid	other	regulation of cell growth
+insect	SYN_GO0007098	GO:0007098	biological_process	59	6.729	deep	conserved	centrosome cycle
+insect	SYN_GO0018958	GO:0018958	biological_process	57	6.779	deep	conserved	phenol-containing compound metabolic process
+insect	SYN_GO0044282	GO:0044282	biological_process	53	6.884	deep	conserved	small molecule catabolic process
+insect	SYN_GO0006790	GO:0006790	biological_process	51	6.939	deep	conserved	sulfur compound metabolic process
+insect	SYN_GO0022900	GO:0022900	biological_process	47	7.057	deep	conserved	electron transport chain
+insect	SYN_GO0042775	GO:0042775	biological_process	44	7.152	deep	conserved	mitochondrial ATP synthesis coupled electron transport
+insect	SYN_GO0006119	GO:0006119	biological_process	44	7.152	deep	conserved	oxidative phosphorylation
+insect	SYN_GO0006261	GO:0006261	biological_process	43	7.185	deep	conserved	DNA-templated DNA replication
+insect	SYN_GO0001763	GO:0001763	biological_process	59	6.729	deep	specific	morphogenesis of a branching structure
+insect	SYN_GO0050911	GO:0050911	biological_process	57	6.779	deep	specific	detection of chemical stimulus involved in sensory perception of smell
+insect	SYN_GO0006959	GO:0006959	biological_process	53	6.884	deep	specific	humoral immune response
+insect	SYN_GO0008587	GO:0008587	biological_process	49	6.997	deep	specific	imaginal disc-derived wing margin morphogenesis
+insect	SYN_GO0045137	GO:0045137	biological_process	47	7.057	deep	specific	development of primary sexual characteristics
+insect	SYN_GO0035148	GO:0035148	biological_process	45	7.120	deep	specific	tube formation
+insect	SYN_GO0014016	GO:0014016	biological_process	43	7.185	deep	specific	neuroblast differentiation
+insect	SYN_GO0008586	GO:0008586	biological_process	41	7.254	deep	specific	imaginal disc-derived wing vein morphogenesis
+insect	SYN_GO0099111	GO:0099111	biological_process	59	6.729	deep	other	microtubule-based transport
+insect	SYN_GO0045787	GO:0045787	biological_process	55	6.830	deep	other	positive regulation of cell cycle
+insect	SYN_GO0010948	GO:0010948	biological_process	52	6.911	deep	other	negative regulation of cell cycle process
+insect	SYN_GO0099003	GO:0099003	biological_process	49	6.997	deep	other	vesicle-mediated transport in synapse
+insect	SYN_GO1901988	GO:1901988	biological_process	47	7.057	deep	other	negative regulation of cell cycle phase transition
+insect	SYN_GO0006915	GO:0006915	biological_process	45	7.120	deep	other	apoptotic process
+insect	SYN_GO0001539	GO:0001539	biological_process	44	7.152	deep	other	cilium or flagellum-dependent cell motility
+insect	SYN_GO0072657	GO:0072657	biological_process	41	7.254	deep	other	protein localization to membrane
+insect	SYN_GO0022857	GO:0022857	molecular_function	242	4.693	shallow	other	transmembrane transporter activity
+insect	SYN_GO0038023	GO:0038023	molecular_function	210	4.897	shallow	other	signaling receptor activity
+insect	SYN_GO0003700	GO:0003700	molecular_function	169	5.211	shallow	other	DNA-binding transcription factor activity
+insect	SYN_GO0016301	GO:0016301	molecular_function	156	5.326	shallow	other	kinase activity
+insect	SYN_GO0016773	GO:0016773	molecular_function	146	5.422	shallow	other	phosphotransferase activity, alcohol group as acceptor
+insect	SYN_GO0008092	GO:0008092	molecular_function	142	5.462	shallow	other	cytoskeletal protein binding
+insect	SYN_GO0000976	GO:0000976	molecular_function	140	5.482	shallow	other	transcription cis-regulatory region binding
+insect	SYN_GO0016491	GO:0016491	molecular_function	135	5.535	shallow	other	oxidoreductase activity
+insect	SYN_GO0008324	GO:0008324	molecular_function	122	5.681	mid	other	monoatomic cation transmembrane transporter activity
+insect	SYN_GO0022836	GO:0022836	molecular_function	109	5.843	mid	other	gated channel activity
+insect	SYN_GO0044877	GO:0044877	molecular_function	95	6.042	mid	other	protein-containing complex binding
+insect	SYN_GO0004674	GO:0004674	molecular_function	90	6.120	mid	other	protein serine/threonine kinase activity
+insect	SYN_GO0046982	GO:0046982	molecular_function	77	6.345	mid	other	protein heterodimerization activity
+insect	SYN_GO0030545	GO:0030545	molecular_function	71	6.462	mid	other	signaling receptor regulator activity
+insect	SYN_GO0030546	GO:0030546	molecular_function	66	6.567	mid	other	signaling receptor activator activity
+insect	SYN_GO0051020	GO:0051020	molecular_function	64	6.612	mid	other	GTPase binding
+insect	SYN_GO0016757	GO:0016757	molecular_function	58	6.753	deep	other	glycosyltransferase activity
+insect	SYN_GO0030695	GO:0030695	molecular_function	55	6.830	deep	other	GTPase regulator activity
+insect	SYN_GO0043169	GO:0043169	molecular_function	53	6.884	deep	other	cation binding
+insect	SYN_GO0046872	GO:0046872	molecular_function	51	6.939	deep	other	metal ion binding
+insect	SYN_GO0016462	GO:0016462	molecular_function	50	6.968	deep	other	pyrophosphatase activity
+insect	SYN_GO0016758	GO:0016758	molecular_function	47	7.057	deep	other	hexosyltransferase activity
+insect	SYN_GO0017022	GO:0017022	molecular_function	43	7.185	deep	other	myosin binding
+insect	SYN_GO0004518	GO:0004518	molecular_function	43	7.185	deep	other	nuclease activity
+insect	SYN_GO0097708	GO:0097708	cellular_component	249	4.652	shallow	other	intracellular vesicle
+insect	SYN_GO0098796	GO:0098796	cellular_component	233	4.747	shallow	other	membrane protein complex
+insect	SYN_GO0015630	GO:0015630	cellular_component	183	5.096	shallow	other	microtubule cytoskeleton
+insect	SYN_GO0036477	GO:0036477	cellular_component	157	5.317	shallow	other	somatodendritic compartment
+insect	SYN_GO0098793	GO:0098793	cellular_component	143	5.452	shallow	other	presynapse
+insect	SYN_GO0099512	GO:0099512	cellular_component	128	5.612	shallow	other	supramolecular fiber
+insect	SYN_GO0071013	GO:0071013	cellular_component	112	5.804	shallow	other	catalytic step 2 spliceosome
+insect	SYN_GO0005635	GO:0005635	cellular_component	102	5.939	shallow	other	nuclear envelope
+insect	SYN_GO0061695	GO:0061695	cellular_component	95	6.042	mid	other	transferase complex, transferring phosphorus-containing groups
+insect	SYN_GO0031966	GO:0031966	cellular_component	82	6.254	mid	other	mitochondrial membrane
+insect	SYN_GO0098827	GO:0098827	cellular_component	79	6.308	mid	other	endoplasmic reticulum subcompartment
+insect	SYN_GO0015629	GO:0015629	cellular_component	77	6.345	mid	other	actin cytoskeleton
+insect	SYN_GO0044306	GO:0044306	cellular_component	72	6.442	mid	other	neuron projection terminus
+insect	SYN_GO0099513	GO:0099513	cellular_component	68	6.524	mid	other	polymeric cytoskeletal fiber
+insect	SYN_GO0000793	GO:0000793	cellular_component	64	6.612	mid	other	condensed chromosome
+insect	SYN_GO0030312	GO:0030312	cellular_component	60	6.705	mid	other	external encapsulating structure
+insect	SYN_GO0045179	GO:0045179	cellular_component	55	6.830	deep	other	apical cortex
+insect	SYN_GO0005764	GO:0005764	cellular_component	54	6.857	deep	other	lysosome
+insect	SYN_GO0009925	GO:0009925	cellular_component	49	6.997	deep	other	basal plasma membrane
+insect	SYN_GO0031012	GO:0031012	cellular_component	47	7.057	deep	other	extracellular matrix
+insect	SYN_GO0070603	GO:0070603	cellular_component	44	7.152	deep	other	SWI/SNF superfamily-type complex
+insect	SYN_GO0000792	GO:0000792	cellular_component	43	7.185	deep	other	heterochromatin
+insect	SYN_GO0000779	GO:0000779	cellular_component	42	7.219	deep	other	condensed chromosome, centromeric region
+insect	SYN_GO0005912	GO:0005912	cellular_component	40	7.290	deep	other	adherens junction
+plant_rice	SYN_GO0008152	GO:0008152	biological_process	235	2.179	shallow	conserved	metabolic process
+plant_rice	SYN_GO0044238	GO:0044238	biological_process	173	2.621	shallow	conserved	primary metabolic process
+plant_rice	SYN_GO0009058	GO:0009058	biological_process	134	2.989	shallow	conserved	biosynthetic process
+plant_rice	SYN_GO0043170	GO:0043170	biological_process	104	3.355	shallow	conserved	macromolecule metabolic process
+plant_rice	SYN_GO0032502	GO:0032502	biological_process	147	2.856	shallow	specific	developmental process
+plant_rice	SYN_GO0048856	GO:0048856	biological_process	146	2.865	shallow	specific	anatomical structure development
+plant_rice	SYN_GO0032501	GO:0032501	biological_process	146	2.865	shallow	specific	multicellular organismal process
+plant_rice	SYN_GO0007275	GO:0007275	biological_process	136	2.968	shallow	specific	multicellular organism development
+plant_rice	SYN_GO0048731	GO:0048731	biological_process	101	3.397	shallow	specific	system development
+plant_rice	SYN_GO0022414	GO:0022414	biological_process	91	3.547	shallow	specific	reproductive process
+plant_rice	SYN_GO0009791	GO:0009791	biological_process	84	3.663	shallow	specific	post-embryonic development
+plant_rice	SYN_GO0050794	GO:0050794	biological_process	179	2.571	shallow	other	regulation of cellular process
+plant_rice	SYN_GO0006950	GO:0006950	biological_process	155	2.779	shallow	other	response to stress
+plant_rice	SYN_GO0042221	GO:0042221	biological_process	138	2.947	shallow	other	response to chemical
+plant_rice	SYN_GO0009628	GO:0009628	biological_process	116	3.197	shallow	other	response to abiotic stimulus
+plant_rice	SYN_GO0048583	GO:0048583	biological_process	111	3.261	shallow	other	regulation of response to stimulus
+plant_rice	SYN_GO1901700	GO:1901700	biological_process	107	3.314	shallow	other	response to oxygen-containing compound
+plant_rice	SYN_GO0019222	GO:0019222	biological_process	100	3.411	shallow	other	regulation of metabolic process
+plant_rice	SYN_GO0071840	GO:0071840	biological_process	99	3.426	shallow	other	cellular component organization or biogenesis
+plant_rice	SYN_GO0003006	GO:0003006	biological_process	71	3.905	mid	specific	developmental process involved in reproduction
+plant_rice	SYN_GO0061458	GO:0061458	biological_process	68	3.968	mid	specific	reproductive system development
+plant_rice	SYN_GO0048608	GO:0048608	biological_process	68	3.968	mid	specific	reproductive structure development
+plant_rice	SYN_GO0048367	GO:0048367	biological_process	67	3.989	mid	specific	shoot system development
+plant_rice	SYN_GO0099402	GO:0099402	biological_process	59	4.173	mid	specific	plant organ development
+plant_rice	SYN_GO0050793	GO:0050793	biological_process	83	3.680	mid	other	regulation of developmental process
+plant_rice	SYN_GO0009719	GO:0009719	biological_process	78	3.770	mid	other	response to endogenous stimulus
+plant_rice	SYN_GO0016043	GO:0016043	biological_process	76	3.807	mid	other	cellular component organization
+plant_rice	SYN_GO0051716	GO:0051716	biological_process	72	3.885	mid	other	cellular response to stimulus
+plant_rice	SYN_GO0006355	GO:0006355	biological_process	71	3.905	mid	other	regulation of DNA-templated transcription
+plant_rice	SYN_GO2001141	GO:2001141	biological_process	71	3.905	mid	other	regulation of RNA biosynthetic process
+plant_rice	SYN_GO0009266	GO:0009266	biological_process	64	4.055	mid	other	response to temperature stimulus
+plant_rice	SYN_GO0051179	GO:0051179	biological_process	58	4.197	mid	other	localization
+plant_rice	SYN_GO0006629	GO:0006629	biological_process	48	4.470	deep	conserved	lipid metabolic process
+plant_rice	SYN_GO0009059	GO:0009059	biological_process	47	4.501	deep	conserved	macromolecule biosynthetic process
+plant_rice	SYN_GO0044281	GO:0044281	biological_process	43	4.629	deep	conserved	small molecule metabolic process
+plant_rice	SYN_GO0005975	GO:0005975	biological_process	42	4.663	deep	conserved	carbohydrate metabolic process
+plant_rice	SYN_GO0090567	GO:0090567	biological_process	50	4.411	deep	specific	reproductive shoot system development
+plant_rice	SYN_GO0009653	GO:0009653	biological_process	46	4.532	deep	specific	anatomical structure morphogenesis
+plant_rice	SYN_GO0009908	GO:0009908	biological_process	42	4.663	deep	specific	flower development
+plant_rice	SYN_GO0044419	GO:0044419	biological_process	55	4.274	deep	other	biological process involved in interspecies interaction between organisms
+plant_rice	SYN_GO0080134	GO:0080134	biological_process	54	4.300	deep	other	regulation of response to stress
+plant_rice	SYN_GO0043207	GO:0043207	biological_process	52	4.355	deep	other	response to external biotic stimulus
+plant_rice	SYN_GO0009893	GO:0009893	biological_process	45	4.563	deep	other	positive regulation of metabolic process
+plant_rice	SYN_GO0006952	GO:0006952	biological_process	44	4.596	deep	other	defense response
+plant_rice	SYN_GO0010604	GO:0010604	biological_process	42	4.663	deep	other	positive regulation of macromolecule metabolic process
+plant_rice	SYN_GO0010646	GO:0010646	biological_process	42	4.663	deep	other	regulation of cell communication
+plant_rice	SYN_GO0051239	GO:0051239	biological_process	41	4.698	deep	other	regulation of multicellular organismal process
+plant_rice	SYN_GO0016740	GO:0016740	molecular_function	131	3.022	shallow	other	transferase activity
+plant_rice	SYN_GO0016491	GO:0016491	molecular_function	89	3.579	shallow	other	oxidoreductase activity
+plant_rice	SYN_GO0140096	GO:0140096	molecular_function	70	3.926	mid	other	catalytic activity, acting on a protein
+plant_rice	SYN_GO0016746	GO:0016746	molecular_function	58	4.197	mid	other	acyltransferase activity
+plant_rice	SYN_GO0016787	GO:0016787	molecular_function	50	4.411	mid	other	hydrolase activity
+plant_rice	SYN_GO0003676	GO:0003676	molecular_function	48	4.470	deep	other	nucleic acid binding
+plant_rice	SYN_GO0003677	GO:0003677	molecular_function	43	4.629	deep	other	DNA binding
+plant_rice	SYN_GO0016772	GO:0016772	molecular_function	40	4.733	deep	other	transferase activity, transferring phosphorus-containing groups
+plant_rice	SYN_GO0005737	GO:0005737	cellular_component	243	2.131	shallow	other	cytoplasm
+plant_rice	SYN_GO0016020	GO:0016020	cellular_component	149	2.836	shallow	other	membrane
+plant_rice	SYN_GO0071944	GO:0071944	cellular_component	84	3.663	mid	other	cell periphery
+plant_rice	SYN_GO0005886	GO:0005886	cellular_component	83	3.680	mid	other	plasma membrane
+plant_rice	SYN_GO0012505	GO:0012505	cellular_component	57	4.222	deep	other	endomembrane system
+plant_rice	SYN_GO0031090	GO:0031090	cellular_component	55	4.274	deep	other	organelle membrane
+plant_arabidopsis	SYN_GO1901135	GO:1901135	biological_process	246	5.774	shallow	conserved	carbohydrate derivative metabolic process
+plant_arabidopsis	SYN_GO0022402	GO:0022402	biological_process	215	5.968	shallow	conserved	cell cycle process
+plant_arabidopsis	SYN_GO0006793	GO:0006793	biological_process	193	6.124	shallow	conserved	phosphorus metabolic process
+plant_arabidopsis	SYN_GO0006796	GO:0006796	biological_process	184	6.193	shallow	conserved	phosphate-containing compound metabolic process
+plant_arabidopsis	SYN_GO0016071	GO:0016071	biological_process	163	6.367	shallow	conserved	mRNA metabolic process
+plant_arabidopsis	SYN_GO0016051	GO:0016051	biological_process	145	6.536	shallow	conserved	carbohydrate biosynthetic process
+plant_arabidopsis	SYN_GO0070647	GO:0070647	biological_process	134	6.650	shallow	conserved	protein modification by small protein conjugation or removal
+plant_arabidopsis	SYN_GO1901137	GO:1901137	biological_process	127	6.728	shallow	conserved	carbohydrate derivative biosynthetic process
+plant_arabidopsis	SYN_GO0009826	GO:0009826	biological_process	247	5.768	shallow	specific	unidimensional cell growth
+plant_arabidopsis	SYN_GO0021700	GO:0021700	biological_process	201	6.065	shallow	specific	developmental maturation
+plant_arabidopsis	SYN_GO0090698	GO:0090698	biological_process	194	6.116	shallow	specific	post-embryonic plant morphogenesis
+plant_arabidopsis	SYN_GO0010073	GO:0010073	biological_process	169	6.315	shallow	specific	meristem maintenance
+plant_arabidopsis	SYN_GO0010016	GO:0010016	biological_process	151	6.478	shallow	specific	shoot system morphogenesis
+plant_arabidopsis	SYN_GO0009860	GO:0009860	biological_process	133	6.661	shallow	specific	pollen tube growth
+plant_arabidopsis	SYN_GO0010087	GO:0010087	biological_process	126	6.739	shallow	specific	phloem or xylem histogenesis
+plant_arabidopsis	SYN_GO0090697	GO:0090697	biological_process	121	6.797	shallow	specific	post-embryonic plant organ morphogenesis
+plant_arabidopsis	SYN_GO0051254	GO:0051254	biological_process	249	5.756	shallow	other	positive regulation of RNA metabolic process
+plant_arabidopsis	SYN_GO0045893	GO:0045893	biological_process	223	5.915	shallow	other	positive regulation of DNA-templated transcription
+plant_arabidopsis	SYN_GO0045229	GO:0045229	biological_process	204	6.044	shallow	other	external encapsulating structure organization
+plant_arabidopsis	SYN_GO0042594	GO:0042594	biological_process	185	6.185	shallow	other	response to starvation
+plant_arabidopsis	SYN_GO0009751	GO:0009751	biological_process	166	6.341	shallow	other	response to salicylic acid
+plant_arabidopsis	SYN_GO0046907	GO:0046907	biological_process	143	6.556	shallow	other	intracellular transport
+plant_arabidopsis	SYN_GO0002682	GO:0002682	biological_process	122	6.785	shallow	other	regulation of immune system process
+plant_arabidopsis	SYN_GO0009832	GO:0009832	biological_process	113	6.896	shallow	other	plant-type cell wall biogenesis
+plant_arabidopsis	SYN_GO0019748	GO:0019748	biological_process	107	6.975	mid	conserved	secondary metabolic process
+plant_arabidopsis	SYN_GO0006310	GO:0006310	biological_process	98	7.101	mid	conserved	DNA recombination
+plant_arabidopsis	SYN_GO0019760	GO:0019760	biological_process	91	7.208	mid	conserved	glucosinolate metabolic process
+plant_arabidopsis	SYN_GO0006753	GO:0006753	biological_process	86	7.290	mid	conserved	nucleoside phosphate metabolic process
+plant_arabidopsis	SYN_GO0019941	GO:0019941	biological_process	79	7.412	mid	conserved	modification-dependent protein catabolic process
+plant_arabidopsis	SYN_GO0034655	GO:0034655	biological_process	73	7.526	mid	conserved	nucleobase-containing compound catabolic process
+plant_arabidopsis	SYN_GO0000377	GO:0000377	biological_process	69	7.608	mid	conserved	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+plant_arabidopsis	SYN_GO0006066	GO:0006066	biological_process	64	7.716	mid	conserved	alcohol metabolic process
+plant_arabidopsis	SYN_GO0009845	GO:0009845	biological_process	106	6.988	mid	specific	seed germination
+plant_arabidopsis	SYN_GO0048466	GO:0048466	biological_process	98	7.101	mid	specific	androecium development
+plant_arabidopsis	SYN_GO0098727	GO:0098727	biological_process	86	7.290	mid	specific	maintenance of cell number
+plant_arabidopsis	SYN_GO0009738	GO:0009738	biological_process	81	7.376	mid	specific	abscisic acid-activated signaling pathway
+plant_arabidopsis	SYN_GO0009561	GO:0009561	biological_process	77	7.449	mid	specific	megagametogenesis
+plant_arabidopsis	SYN_GO0010101	GO:0010101	biological_process	75	7.487	mid	specific	post-embryonic root morphogenesis
+plant_arabidopsis	SYN_GO0009867	GO:0009867	biological_process	71	7.566	mid	specific	jasmonic acid mediated signaling pathway
+plant_arabidopsis	SYN_GO0048653	GO:0048653	biological_process	69	7.608	mid	specific	anther development
+plant_arabidopsis	SYN_GO0006811	GO:0006811	biological_process	107	6.975	mid	other	monoatomic ion transport
+plant_arabidopsis	SYN_GO0071482	GO:0071482	biological_process	99	7.087	mid	other	cellular response to light stimulus
+plant_arabidopsis	SYN_GO0009637	GO:0009637	biological_process	94	7.162	mid	other	response to blue light
+plant_arabidopsis	SYN_GO0000226	GO:0000226	biological_process	86	7.290	mid	other	microtubule cytoskeleton organization
+plant_arabidopsis	SYN_GO0023056	GO:0023056	biological_process	79	7.412	mid	other	positive regulation of signaling
+plant_arabidopsis	SYN_GO0046686	GO:0046686	biological_process	75	7.487	mid	other	response to cadmium ion
+plant_arabidopsis	SYN_GO0022613	GO:0022613	biological_process	71	7.566	mid	other	ribonucleoprotein complex biogenesis
+plant_arabidopsis	SYN_GO0070828	GO:0070828	biological_process	64	7.716	mid	other	heterochromatin organization
+plant_arabidopsis	SYN_GO0000278	GO:0000278	biological_process	59	7.833	deep	conserved	mitotic cell cycle
+plant_arabidopsis	SYN_GO0170038	GO:0170038	biological_process	56	7.909	deep	conserved	proteinogenic amino acid biosynthetic process
+plant_arabidopsis	SYN_GO0000959	GO:0000959	biological_process	54	7.961	deep	conserved	mitochondrial RNA metabolic process
+plant_arabidopsis	SYN_GO0006351	GO:0006351	biological_process	50	8.072	deep	conserved	DNA-templated transcription
+plant_arabidopsis	SYN_GO0046486	GO:0046486	biological_process	48	8.131	deep	conserved	glycerolipid metabolic process
+plant_arabidopsis	SYN_GO0070918	GO:0070918	biological_process	45	8.224	deep	conserved	regulatory ncRNA processing
+plant_arabidopsis	SYN_GO0009308	GO:0009308	biological_process	44	8.257	deep	conserved	amine metabolic process
+plant_arabidopsis	SYN_GO1903047	GO:1903047	biological_process	41	8.359	deep	conserved	mitotic cell cycle process
+plant_arabidopsis	SYN_GO0002253	GO:0002253	biological_process	59	7.833	deep	specific	activation of immune response
+plant_arabidopsis	SYN_GO0002218	GO:0002218	biological_process	57	7.883	deep	specific	activation of innate immune response
+plant_arabidopsis	SYN_GO0010311	GO:0010311	biological_process	56	7.909	deep	specific	lateral root formation
+plant_arabidopsis	SYN_GO0010214	GO:0010214	biological_process	53	7.988	deep	specific	seed coat development
+plant_arabidopsis	SYN_GO0010183	GO:0010183	biological_process	50	8.072	deep	specific	pollen tube guidance
+plant_arabidopsis	SYN_GO0010078	GO:0010078	biological_process	46	8.193	deep	specific	maintenance of root meristem identity
+plant_arabidopsis	SYN_GO0009567	GO:0009567	biological_process	45	8.224	deep	specific	double fertilization forming a zygote and endosperm
+plant_arabidopsis	SYN_GO0009742	GO:0009742	biological_process	44	8.257	deep	specific	brassinosteroid mediated signaling pathway
+plant_arabidopsis	SYN_GO0010565	GO:0010565	biological_process	60	7.809	deep	other	regulation of ketone metabolic process
+plant_arabidopsis	SYN_GO0051052	GO:0051052	biological_process	57	7.883	deep	other	regulation of DNA metabolic process
+plant_arabidopsis	SYN_GO0071470	GO:0071470	biological_process	52	8.016	deep	other	cellular response to osmotic stress
+plant_arabidopsis	SYN_GO0040011	GO:0040011	biological_process	50	8.072	deep	other	locomotion
+plant_arabidopsis	SYN_GO0051606	GO:0051606	biological_process	49	8.101	deep	other	detection of stimulus
+plant_arabidopsis	SYN_GO0009668	GO:0009668	biological_process	47	8.162	deep	other	plastid membrane organization
+plant_arabidopsis	SYN_GO0048510	GO:0048510	biological_process	44	8.257	deep	other	regulation of timing of transition from vegetative to reproductive phase
+plant_arabidopsis	SYN_GO0010109	GO:0010109	biological_process	43	8.290	deep	other	regulation of photosynthesis
+plant_arabidopsis	SYN_GO0046983	GO:0046983	molecular_function	232	5.858	shallow	other	protein dimerization activity
+plant_arabidopsis	SYN_GO0003735	GO:0003735	molecular_function	196	6.101	shallow	other	structural constituent of ribosome
+plant_arabidopsis	SYN_GO0016758	GO:0016758	molecular_function	174	6.273	shallow	other	hexosyltransferase activity
+plant_arabidopsis	SYN_GO0004674	GO:0004674	molecular_function	159	6.403	shallow	other	protein serine/threonine kinase activity
+plant_arabidopsis	SYN_GO0016705	GO:0016705	molecular_function	130	6.694	shallow	other	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+plant_arabidopsis	SYN_GO0005507	GO:0005507	molecular_function	122	6.785	shallow	other	copper ion binding
+plant_arabidopsis	SYN_GO0000166	GO:0000166	molecular_function	113	6.896	shallow	other	nucleotide binding
+plant_arabidopsis	SYN_GO0008092	GO:0008092	molecular_function	103	7.030	shallow	other	cytoskeletal protein binding
+plant_arabidopsis	SYN_GO0046527	GO:0046527	molecular_function	98	7.101	mid	other	glucosyltransferase activity
+plant_arabidopsis	SYN_GO0032553	GO:0032553	molecular_function	87	7.273	mid	other	ribonucleotide binding
+plant_arabidopsis	SYN_GO0032555	GO:0032555	molecular_function	81	7.376	mid	other	purine ribonucleotide binding
+plant_arabidopsis	SYN_GO0035639	GO:0035639	molecular_function	78	7.431	mid	other	purine ribonucleoside triphosphate binding
+plant_arabidopsis	SYN_GO0035251	GO:0035251	molecular_function	75	7.487	mid	other	UDP-glucosyltransferase activity
+plant_arabidopsis	SYN_GO0016835	GO:0016835	molecular_function	72	7.546	mid	other	carbon-oxygen lyase activity
+plant_arabidopsis	SYN_GO0060090	GO:0060090	molecular_function	69	7.608	mid	other	molecular adaptor activity
+plant_arabidopsis	SYN_GO0038023	GO:0038023	molecular_function	64	7.716	mid	other	signaling receptor activity
+plant_arabidopsis	SYN_GO0032559	GO:0032559	molecular_function	60	7.809	deep	other	adenyl ribonucleotide binding
+plant_arabidopsis	SYN_GO0016407	GO:0016407	molecular_function	55	7.935	deep	other	acetyltransferase activity
+plant_arabidopsis	SYN_GO0140677	GO:0140677	molecular_function	52	8.016	deep	other	molecular function activator activity
+plant_arabidopsis	SYN_GO0016836	GO:0016836	molecular_function	51	8.044	deep	other	hydro-lyase activity
+plant_arabidopsis	SYN_GO0015399	GO:0015399	molecular_function	48	8.131	deep	other	primary active transmembrane transporter activity
+plant_arabidopsis	SYN_GO0004519	GO:0004519	molecular_function	47	8.162	deep	other	endonuclease activity
+plant_arabidopsis	SYN_GO0004620	GO:0004620	molecular_function	43	8.290	deep	other	glycerophospholipase activity
+plant_arabidopsis	SYN_GO0042626	GO:0042626	molecular_function	42	8.324	deep	other	ATPase-coupled transmembrane transporter activity
+plant_arabidopsis	SYN_GO0005654	GO:0005654	cellular_component	248	5.762	shallow	other	nucleoplasm
+plant_arabidopsis	SYN_GO0140513	GO:0140513	cellular_component	228	5.883	shallow	other	nuclear protein-containing complex
+plant_arabidopsis	SYN_GO0005856	GO:0005856	cellular_component	188	6.162	shallow	other	cytoskeleton
+plant_arabidopsis	SYN_GO0005789	GO:0005789	cellular_component	185	6.185	shallow	other	endoplasmic reticulum membrane
+plant_arabidopsis	SYN_GO0005774	GO:0005774	cellular_component	171	6.298	shallow	other	vacuolar membrane
+plant_arabidopsis	SYN_GO0098796	GO:0098796	cellular_component	164	6.359	shallow	other	membrane protein complex
+plant_arabidopsis	SYN_GO0099503	GO:0099503	cellular_component	157	6.422	shallow	other	secretory vesicle
+plant_arabidopsis	SYN_GO0042995	GO:0042995	cellular_component	133	6.661	shallow	other	cell projection
+plant_arabidopsis	SYN_GO0099513	GO:0099513	cellular_component	112	6.909	mid	other	polymeric cytoskeletal fiber
+plant_arabidopsis	SYN_GO0000785	GO:0000785	cellular_component	108	6.961	mid	other	chromatin
+plant_arabidopsis	SYN_GO0016604	GO:0016604	cellular_component	103	7.030	mid	other	nuclear body
+plant_arabidopsis	SYN_GO0005874	GO:0005874	cellular_component	101	7.058	mid	other	microtubule
+plant_arabidopsis	SYN_GO1990351	GO:1990351	cellular_component	86	7.290	mid	other	transporter complex
+plant_arabidopsis	SYN_GO1990204	GO:1990204	cellular_component	80	7.394	mid	other	oxidoreductase complex
+plant_arabidopsis	SYN_GO0000138	GO:0000138	cellular_component	75	7.487	mid	other	Golgi trans cisterna
+plant_arabidopsis	SYN_GO0030659	GO:0030659	cellular_component	68	7.629	mid	other	cytoplasmic vesicle membrane
+plant_arabidopsis	SYN_GO0042646	GO:0042646	cellular_component	56	7.909	deep	other	plastid nucleoid
+plant_arabidopsis	SYN_GO0000228	GO:0000228	cellular_component	51	8.044	deep	other	nuclear chromosome
+plant_arabidopsis	SYN_GO0031978	GO:0031978	cellular_component	51	8.044	deep	other	plastid thylakoid lumen
+plant_arabidopsis	SYN_GO0010287	GO:0010287	cellular_component	51	8.044	deep	other	plastoglobule
+plant_arabidopsis	SYN_GO0042644	GO:0042644	cellular_component	49	8.101	deep	other	chloroplast nucleoid
+plant_arabidopsis	SYN_GO0055028	GO:0055028	cellular_component	47	8.162	deep	other	cortical microtubule
+plant_arabidopsis	SYN_GO0030880	GO:0030880	cellular_component	46	8.193	deep	other	RNA polymerase complex
+plant_arabidopsis	SYN_GO0000502	GO:0000502	cellular_component	44	8.257	deep	other	proteasome complex
+fungi	SYN_GO0019752	GO:0019752	biological_process	249	4.467	shallow	conserved	carboxylic acid metabolic process
+fungi	SYN_GO0051604	GO:0051604	biological_process	194	4.827	shallow	conserved	protein maturation
+fungi	SYN_GO0090407	GO:0090407	biological_process	176	4.967	shallow	conserved	organophosphate biosynthetic process
+fungi	SYN_GO0055086	GO:0055086	biological_process	169	5.026	shallow	conserved	nucleobase-containing small molecule metabolic process
+fungi	SYN_GO0008610	GO:0008610	biological_process	150	5.198	shallow	conserved	lipid biosynthetic process
+fungi	SYN_GO0006260	GO:0006260	biological_process	135	5.350	shallow	conserved	DNA replication
+fungi	SYN_GO0043161	GO:0043161	biological_process	122	5.496	shallow	conserved	proteasome-mediated ubiquitin-dependent protein catabolic process
+fungi	SYN_GO0072521	GO:0072521	biological_process	119	5.532	shallow	conserved	purine-containing compound metabolic process
+fungi	SYN_GO1903046	GO:1903046	biological_process	246	4.484	shallow	specific	meiotic cell cycle process
+fungi	SYN_GO0007165	GO:0007165	biological_process	243	4.502	shallow	specific	signal transduction
+fungi	SYN_GO0035556	GO:0035556	biological_process	210	4.713	shallow	specific	intracellular signal transduction
+fungi	SYN_GO0032502	GO:0032502	biological_process	173	4.992	shallow	specific	developmental process
+fungi	SYN_GO0048856	GO:0048856	biological_process	142	5.277	shallow	specific	anatomical structure development
+fungi	SYN_GO0043934	GO:0043934	biological_process	134	5.361	shallow	specific	sporulation
+fungi	SYN_GO0030435	GO:0030435	biological_process	125	5.461	shallow	specific	sporulation resulting in formation of a cellular spore
+fungi	SYN_GO0043935	GO:0043935	biological_process	116	5.569	shallow	specific	sexual sporulation resulting in formation of a cellular spore
+fungi	SYN_GO0033043	GO:0033043	biological_process	244	4.496	shallow	other	regulation of organelle organization
+fungi	SYN_GO0048878	GO:0048878	biological_process	201	4.776	shallow	other	chemical homeostasis
+fungi	SYN_GO0070925	GO:0070925	biological_process	176	4.967	shallow	other	organelle assembly
+fungi	SYN_GO1902679	GO:1902679	biological_process	161	5.096	shallow	other	negative regulation of RNA biosynthetic process
+fungi	SYN_GO0000280	GO:0000280	biological_process	148	5.217	shallow	other	nuclear division
+fungi	SYN_GO0051130	GO:0051130	biological_process	135	5.350	shallow	other	positive regulation of cellular component organization
+fungi	SYN_GO0006417	GO:0006417	biological_process	123	5.484	shallow	other	regulation of translation
+fungi	SYN_GO0031505	GO:0031505	biological_process	118	5.544	shallow	other	fungal-type cell wall organization
+fungi	SYN_GO0000956	GO:0000956	biological_process	106	5.699	mid	conserved	nuclear-transcribed mRNA catabolic process
+fungi	SYN_GO0006352	GO:0006352	biological_process	100	5.783	mid	conserved	DNA-templated transcription initiation
+fungi	SYN_GO0006457	GO:0006457	biological_process	96	5.842	mid	conserved	protein folding
+fungi	SYN_GO1901293	GO:1901293	biological_process	82	6.069	mid	conserved	nucleoside phosphate biosynthetic process
+fungi	SYN_GO0006400	GO:0006400	biological_process	79	6.123	mid	conserved	tRNA modification
+fungi	SYN_GO0006367	GO:0006367	biological_process	75	6.198	mid	conserved	transcription initiation at RNA polymerase II promoter
+fungi	SYN_GO0170038	GO:0170038	biological_process	71	6.277	mid	conserved	proteinogenic amino acid biosynthetic process
+fungi	SYN_GO0000966	GO:0000966	biological_process	66	6.382	mid	conserved	RNA 5'-end processing
+fungi	SYN_GO0061982	GO:0061982	biological_process	100	5.783	mid	specific	meiosis I cell cycle process
+fungi	SYN_GO0140013	GO:0140013	biological_process	97	5.827	mid	specific	meiotic nuclear division
+fungi	SYN_GO0000075	GO:0000075	biological_process	87	5.984	mid	specific	cell cycle checkpoint signaling
+fungi	SYN_GO0000747	GO:0000747	biological_process	82	6.069	mid	specific	conjugation with cellular fusion
+fungi	SYN_GO0007127	GO:0007127	biological_process	82	6.069	mid	specific	meiosis I
+fungi	SYN_GO0141124	GO:0141124	biological_process	75	6.198	mid	specific	intracellular signaling cassette
+fungi	SYN_GO0010927	GO:0010927	biological_process	68	6.339	mid	specific	cellular component assembly involved in morphogenesis
+fungi	SYN_GO0007093	GO:0007093	biological_process	63	6.449	mid	specific	mitotic cell cycle checkpoint signaling
+fungi	SYN_GO0009966	GO:0009966	biological_process	105	5.713	mid	other	regulation of signal transduction
+fungi	SYN_GO0006403	GO:0006403	biological_process	95	5.857	mid	other	RNA localization
+fungi	SYN_GO0010638	GO:0010638	biological_process	87	5.984	mid	other	positive regulation of organelle organization
+fungi	SYN_GO1901700	GO:1901700	biological_process	82	6.069	mid	other	response to oxygen-containing compound
+fungi	SYN_GO0015748	GO:0015748	biological_process	76	6.179	mid	other	organophosphate ester transport
+fungi	SYN_GO0032786	GO:0032786	biological_process	74	6.217	mid	other	positive regulation of DNA-templated transcription, elongation
+fungi	SYN_GO0104004	GO:0104004	biological_process	70	6.298	mid	other	cellular response to environmental stimulus
+fungi	SYN_GO0030010	GO:0030010	biological_process	66	6.382	mid	other	establishment of cell polarity
+fungi	SYN_GO0045017	GO:0045017	biological_process	59	6.544	deep	conserved	glycerolipid biosynthetic process
+fungi	SYN_GO0007062	GO:0007062	biological_process	56	6.619	deep	conserved	sister chromatid cohesion
+fungi	SYN_GO0000082	GO:0000082	biological_process	52	6.726	deep	conserved	G1/S transition of mitotic cell cycle
+fungi	SYN_GO0006312	GO:0006312	biological_process	50	6.783	deep	conserved	mitotic recombination
+fungi	SYN_GO0018193	GO:0018193	biological_process	48	6.842	deep	conserved	peptidyl-amino acid modification
+fungi	SYN_GO0009303	GO:0009303	biological_process	46	6.903	deep	conserved	rRNA transcription
+fungi	SYN_GO0070897	GO:0070897	biological_process	45	6.935	deep	conserved	transcription preinitiation complex assembly
+fungi	SYN_GO0016051	GO:0016051	biological_process	43	7.000	deep	conserved	carbohydrate biosynthetic process
+fungi	SYN_GO0007131	GO:0007131	biological_process	54	6.672	deep	specific	reciprocal meiotic recombination
+fungi	SYN_GO0045132	GO:0045132	biological_process	51	6.754	deep	specific	meiotic chromosome segregation
+fungi	SYN_GO0070591	GO:0070591	biological_process	49	6.812	deep	specific	ascospore wall biogenesis
+fungi	SYN_GO0042244	GO:0042244	biological_process	49	6.812	deep	specific	spore wall assembly
+fungi	SYN_GO0030476	GO:0030476	biological_process	49	6.812	deep	specific	ascospore wall assembly
+fungi	SYN_GO0070590	GO:0070590	biological_process	49	6.812	deep	specific	spore wall biogenesis
+fungi	SYN_GO0019954	GO:0019954	biological_process	49	6.812	deep	specific	asexual reproduction
+fungi	SYN_GO0007114	GO:0007114	biological_process	49	6.812	deep	specific	cell budding
+fungi	SYN_GO1902903	GO:1902903	biological_process	60	6.520	deep	other	regulation of supramolecular fiber organization
+fungi	SYN_GO0000041	GO:0000041	biological_process	57	6.594	deep	other	transition metal ion transport
+fungi	SYN_GO0019216	GO:0019216	biological_process	54	6.672	deep	other	regulation of lipid metabolic process
+fungi	SYN_GO0045727	GO:0045727	biological_process	50	6.783	deep	other	positive regulation of translation
+fungi	SYN_GO0061157	GO:0061157	biological_process	47	6.872	deep	other	mRNA destabilization
+fungi	SYN_GO0051445	GO:0051445	biological_process	44	6.967	deep	other	regulation of meiotic cell cycle
+fungi	SYN_GO0006356	GO:0006356	biological_process	43	7.000	deep	other	regulation of transcription by RNA polymerase I
+fungi	SYN_GO0016241	GO:0016241	biological_process	42	7.035	deep	other	regulation of macroautophagy
+fungi	SYN_GO0005198	GO:0005198	molecular_function	236	4.544	shallow	other	structural molecule activity
+fungi	SYN_GO0036094	GO:0036094	molecular_function	217	4.665	shallow	other	small molecule binding
+fungi	SYN_GO0003729	GO:0003729	molecular_function	197	4.805	shallow	other	mRNA binding
+fungi	SYN_GO0043167	GO:0043167	molecular_function	190	4.857	shallow	other	ion binding
+fungi	SYN_GO0044877	GO:0044877	molecular_function	173	4.992	shallow	other	protein-containing complex binding
+fungi	SYN_GO0030674	GO:0030674	molecular_function	158	5.123	shallow	other	protein-macromolecule adaptor activity
+fungi	SYN_GO0043168	GO:0043168	molecular_function	134	5.361	shallow	other	anion binding
+fungi	SYN_GO0008047	GO:0008047	molecular_function	120	5.520	shallow	other	enzyme activator activity
+fungi	SYN_GO0140101	GO:0140101	molecular_function	100	5.783	mid	other	catalytic activity, acting on a tRNA
+fungi	SYN_GO0140104	GO:0140104	molecular_function	98	5.812	mid	other	molecular carrier activity
+fungi	SYN_GO0030695	GO:0030695	molecular_function	92	5.903	mid	other	GTPase regulator activity
+fungi	SYN_GO0120543	GO:0120543	molecular_function	84	6.035	mid	other	macromolecular conformation isomerase activity
+fungi	SYN_GO0008168	GO:0008168	molecular_function	82	6.069	mid	other	methyltransferase activity
+fungi	SYN_GO0120545	GO:0120545	molecular_function	71	6.277	mid	other	nucleic acid conformation isomerase activity
+fungi	SYN_GO0043169	GO:0043169	molecular_function	66	6.382	mid	other	cation binding
+fungi	SYN_GO0016616	GO:0016616	molecular_function	64	6.427	mid	other	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+fungi	SYN_GO0140678	GO:0140678	molecular_function	62	6.473	deep	other	molecular function inhibitor activity
+fungi	SYN_GO0003697	GO:0003697	molecular_function	58	6.569	deep	other	single-stranded DNA binding
+fungi	SYN_GO0061659	GO:0061659	molecular_function	55	6.645	deep	other	ubiquitin-like protein ligase activity
+fungi	SYN_GO0140993	GO:0140993	molecular_function	49	6.812	deep	other	histone modifying activity
+fungi	SYN_GO0017076	GO:0017076	molecular_function	48	6.842	deep	other	purine nucleotide binding
+fungi	SYN_GO0032553	GO:0032553	molecular_function	46	6.903	deep	other	ribonucleotide binding
+fungi	SYN_GO0035639	GO:0035639	molecular_function	45	6.935	deep	other	purine ribonucleoside triphosphate binding
+fungi	SYN_GO0061629	GO:0061629	molecular_function	41	7.069	deep	other	RNA polymerase II-specific DNA-binding transcription factor binding
+fungi	SYN_GO0005774	GO:0005774	cellular_component	250	4.461	shallow	other	vacuolar membrane
+fungi	SYN_GO0000785	GO:0000785	cellular_component	232	4.569	shallow	other	chromatin
+fungi	SYN_GO0098852	GO:0098852	cellular_component	212	4.699	shallow	other	lytic vacuole membrane
+fungi	SYN_GO0005856	GO:0005856	cellular_component	200	4.783	shallow	other	cytoskeleton
+fungi	SYN_GO0098798	GO:0098798	cellular_component	155	5.151	shallow	other	mitochondrial protein-containing complex
+fungi	SYN_GO0042579	GO:0042579	cellular_component	136	5.339	shallow	other	microbody
+fungi	SYN_GO0015934	GO:0015934	cellular_component	128	5.427	shallow	other	large ribosomal subunit
+fungi	SYN_GO0060187	GO:0060187	cellular_component	123	5.484	shallow	other	cell pole
+fungi	SYN_GO0005741	GO:0005741	cellular_component	106	5.699	mid	other	mitochondrial outer membrane
+fungi	SYN_GO0005934	GO:0005934	cellular_component	101	5.769	mid	other	cellular bud tip
+fungi	SYN_GO0000775	GO:0000775	cellular_component	92	5.903	mid	other	chromosome, centromeric region
+fungi	SYN_GO1905368	GO:1905368	cellular_component	84	6.035	mid	other	peptidase complex
+fungi	SYN_GO1902911	GO:1902911	cellular_component	78	6.141	mid	other	protein kinase complex
+fungi	SYN_GO0042763	GO:0042763	cellular_component	76	6.179	mid	other	intracellular immature spore
+fungi	SYN_GO0030135	GO:0030135	cellular_component	72	6.257	mid	other	coated vesicle
+fungi	SYN_GO0090575	GO:0090575	cellular_component	69	6.318	mid	other	RNA polymerase II transcription regulator complex
+fungi	SYN_GO0010008	GO:0010008	cellular_component	64	6.427	deep	other	endosome membrane
+fungi	SYN_GO1902493	GO:1902493	cellular_component	61	6.496	deep	other	acetyltransferase complex
+fungi	SYN_GO0034399	GO:0034399	cellular_component	57	6.594	deep	other	nuclear periphery
+fungi	SYN_GO0005684	GO:0005684	cellular_component	56	6.619	deep	other	U2-type spliceosomal complex
+fungi	SYN_GO1990204	GO:1990204	cellular_component	49	6.812	deep	other	oxidoreductase complex
+fungi	SYN_GO0030479	GO:0030479	cellular_component	48	6.842	deep	other	actin cortical patch
+fungi	SYN_GO0000315	GO:0000315	cellular_component	45	6.935	deep	other	organellar large ribosomal subunit
+fungi	SYN_GO0099513	GO:0099513	cellular_component	42	7.035	deep	other	polymeric cytoskeletal fiber

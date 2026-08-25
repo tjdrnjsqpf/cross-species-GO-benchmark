@@ -13,6 +13,17 @@ of cross-species Gene Ontology enrichment in non-model organisms."*
   - `crossclade_ci.tsv`, `id50.tsv`, `category.tsv`, `guide_table_unified.tsv`,
     `nonreciprocity.tsv`, `wgd_fungi.tsv`, `string_conservation.tsv`, `expr_conservation.tsv`,
     `regression_clade.txt`, `master_table.tsv`, `eggnog_compare.tsv`, etc.
+- `code/revision/`, `data/revision/` — analyses added during peer review (revision):
+  per-reference ortholog-identity distributions (`R1C1_identity_iqr.py` -> `identity_iqr.tsv`),
+  per-list mapping-rate/identity by functional category with covariate-robustness OLS
+  (`R1C7_category_mapping.py`, `r1c7_ols_robustness.py`), gene-list inventory
+  (`R1C4_merge_lists_meta.py`, `make_tableS4_genelists.py`), bootstrap CIs for ID50/floor
+  (`make_fig1b_ci.py`) and for the reliability guide with random-term nulls
+  (`make_table1_ci_null.py`), the reference-panel overview figure
+  (`make_figS1_panel_overview.py`), and clade-boundary-annotated tolerance panels
+  (`make_fig1a_boundaries.R`). Scripts run from `code/revision/` and read/write `data/`
+  and `data/revision/`; the three `R1C*` scripts run against the full pipeline output
+  (`results/<track>/...`) like the numbered pipeline stages.
 - `RESULTS_SUMMARY.md` — manuscript-ready results narrative with key numbers.
 - `DATA_SOURCES.md` — public databases and versions used (raw data are not redistributed here).
 

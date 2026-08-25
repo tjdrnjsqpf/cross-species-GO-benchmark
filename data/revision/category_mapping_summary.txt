@@ -1,0 +1,45 @@
+=== R1-C7: ortholog mapping rate & %identity by category (synthetic BP lists, RBH) ===
+
+[pooled]
+category        n      frac_mapped       med_pident
+conserved    2196      0.728+-0.005      67.42+-0.37
+specific     2475      0.628+-0.005      65.19+-0.37
+other        2664      0.648+-0.005      65.55+-0.34
+
+[mammal]
+category        n      frac_mapped       med_pident
+conserved     480      0.756+-0.010      73.83+-0.75
+specific      480      0.707+-0.013      71.38+-0.85
+other         480      0.680+-0.013      68.56+-0.84
+
+[fish]
+category        n      frac_mapped       med_pident
+conserved     396      0.759+-0.010      67.72+-0.73
+specific      528      0.672+-0.011      66.91+-0.65
+other         528      0.638+-0.011      66.29+-0.62
+
+[insect]
+category        n      frac_mapped       med_pident
+conserved     384      0.767+-0.010      63.71+-0.94
+specific      384      0.632+-0.013      61.34+-0.95
+other         384      0.705+-0.011      63.20+-0.93
+
+[plant_rice]
+category        n      frac_mapped       med_pident
+conserved     168      0.670+-0.017      75.57+-1.31
+specific      315      0.625+-0.014      72.71+-1.04
+other         504      0.624+-0.012      71.70+-0.86
+
+[plant_arabidopsis]
+category        n      frac_mapped       med_pident
+conserved     408      0.652+-0.011      70.66+-0.74
+specific      408      0.569+-0.013      69.27+-0.75
+other         408      0.627+-0.012      68.88+-0.74
+
+[fungi]
+category        n      frac_mapped       med_pident
+conserved     360      0.732+-0.010      55.05+-0.75
+specific      360      0.523+-0.013      47.33+-0.57
+other         360      0.614+-0.012      50.63+-0.64
+
+Mann-Whitney conserved vs specific: frac_mapped p=2.65e-32; med_pident p=7.47e-06

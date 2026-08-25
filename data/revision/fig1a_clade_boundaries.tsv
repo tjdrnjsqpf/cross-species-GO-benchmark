@@ -1,0 +1,7 @@
+track	last_inclade	pid_in	first_outgroup	pid_out	boundary_mid	inclade_below_boundary
+mammal	platypus	75.6	chicken	72.8	74.2	
+fish	grasscarp	62.4	chicken	64.4		grasscarp
+insect	aphid	48.3	daphnia	49.1		aphid
+plant_rice	maize	76.8	grape	62.8	69.8	
+plant_arabidopsis	brassica_oleracea	83.2	grape	66.1	74.7	
+fungi	yarrowia	43.9	aspergillus	41.4	42.6	

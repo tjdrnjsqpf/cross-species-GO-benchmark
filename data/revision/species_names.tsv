@@ -1,0 +1,88 @@
+ref_key	scientific_name	common_name
+a_halleri	Arabidopsis halleri	
+aedes	Aedes aegypti	yellow-fever mosquito
+amborella	Amborella trichopoda	
+amphioxus	Branchiostoma floridae	amphioxus
+anole	Anolis carolinensis	green anole
+anopheles	Anopheles gambiae	malaria mosquito
+aphid	Acyrthosiphon pisum	pea aphid
+apis	Apis mellifera	honey bee
+arabidopsis	Arabidopsis thaliana	thale cress
+aspergillus	Aspergillus nidulans	
+astyanax	Astyanax mexicanus	Mexican tetra
+bombyx	Bombyx mori	silkworm
+brachypodium	Brachypodium distachyon	purple false brome
+brassica_oleracea	Brassica oleracea	wild cabbage
+brassica_rapa	Brassica rapa	field mustard
+c_albicans	Candida albicans	
+c_glabrata	Candida glabrata	
+camelina	Camelina sativa	false flax
+capsella	Capsella rubella	red shepherd's purse
+carp	Cyprinus carpio	common carp
+celegans	Caenorhabditis elegans	nematode
+chicken	Gallus gallus	chicken
+chlamydomonas	Chlamydomonas reinhardtii	green alga
+cod	Gadus morhua	Atlantic cod
+coelacanth	Latimeria chalumnae	coelacanth
+cow	Bos taurus	cow
+cryptococcus	Cryptococcus neoformans	
+d_ananassae	Drosophila ananassae	
+d_grimshawi	Drosophila grimshawi	
+d_simulans	Drosophila simulans	
+d_virilis	Drosophila virilis	
+d_yakuba	Drosophila yakuba	
+daphnia	Daphnia pulex	water flea
+dog	Canis lupus familiaris	dog
+e_gossypii	Eremothecium gossypii	cotton pathogen
+elephantshark	Callorhinchus milii	elephant shark
+fruitfly	Drosophila melanogaster	fruit fly
+fugu	Takifugu rubripes	fugu
+gar	Lepisosteus oculatus	spotted gar
+goldfish	Carassius auratus	goldfish
+grape	Vitis vinifera	grape
+grasscarp	Ctenopharyngodon idella	grass carp
+horse	Equus caballus	horse
+human	Homo sapiens	human
+k_lactis	Kluyveromyces lactis	
+k_marxianus	Kluyveromyces marxianus	
+lamprey	Petromyzon marinus	lamprey
+leersia	Leersia perrieri	
+magnaporthe	Magnaporthe oryzae	rice blast fungus
+maize	Zea mays	maize
+marchantia	Marchantia polymorpha	liverwort
+medaka	Oryzias latipes	medaka
+moss	Physcomitrium patens	moss
+mouse	Mus musculus	mouse
+nasonia	Nasonia vitripennis	jewel wasp
+neurospora	Neurospora crassa	
+o_barthii	Oryza barthii	
+o_brachyantha	Oryza brachyantha	
+o_glaberrima	Oryza glaberrima	
+o_nivara	Oryza nivara	
+o_punctata	Oryza punctata	
+o_rufipogon	Oryza rufipogon	
+opossum	Monodelphis domestica	opossum
+pig	Sus scrofa	pig
+platypus	Ornithorhynchus anatinus	platypus
+pombe	Schizosaccharomyces pombe	fission yeast
+poplar	Populus trichocarpa	poplar
+potato	Solanum tuberosum	potato
+rabbit	Oryctolagus cuniculus	rabbit
+rat	Rattus norvegicus	rat
+rice	Oryza sativa	rice
+s_uvarum	Saccharomyces uvarum	
+salmon	Salmo salar	Atlantic salmon
+seaurchin	Strongylocentrotus purpuratus	sea urchin
+selaginella	Selaginella moellendorffii	spikemoss
+sinocyclocheilus	Sinocyclocheilus grahami	golden-line barbel
+sorghum	Sorghum bicolor	sorghum
+soybean	Glycine max	soybean
+tilapia	Oreochromis niloticus	Nile tilapia
+tomato	Solanum lycopersicum	tomato
+torulaspora	Torulaspora delbrueckii	
+tribolium	Tribolium castaneum	red flour beetle
+xenopus	Xenopus tropicalis	frog
+yarrowia	Yarrowia lipolytica	
+yeast	Saccharomyces cerevisiae	budding yeast
+z_rouxii	Zygosaccharomyces rouxii	
+zebrafish	Danio rerio	zebrafish
